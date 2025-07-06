@@ -1,0 +1,41 @@
+    },
+[
+  {
+    "id": "sample-tile-001",
+    "name": "Sample Tile",
+    "vendor": "Sample Vendor",
+    "category": "Tile",
+    "subcategory": "Ceramic",
+    "description": "A beautiful sample tile for demonstration.",
+    "imageUrl": "https://example.com/image.jpg",
+    "url": "https://example.com/product",
+    "material": "Ceramic",
+    "useCase": ["wall", "floor"],
+    "leadTime": "2–3 weeks",
+    "price": 10.5,
+    "priceUnit": "sqft",
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "Italy",
+    "collection": "Classic Collection",
+    "variantGroup": "sample-variant-group-001",
+    "storedImagePath": null,
+    "color": "Charcoal",
+    "finish": "Gloss",
+    "tags": ["sample", "demo"],
+    "specifications": {
+      "dimensions": {
+        "width": 4,
+        "length": 4,
+        "thickness": 0.5,
+        "units": "inches"
+      }
+    "additionalData": {},
+    "createdAt": null,
+    "lastUpdated": null,
+    "sourceType": "scraped",
+    "sourceRunId": null,
+    "wasManuallyEdited": false
+  }
+]

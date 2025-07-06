@@ -1,0 +1,1236 @@
+[
+  {
+    "id": "flavorpaper-about-face-peach-fuzz-chrome-mylar-type-ii",
+    "name": "About Face - Peach Fuzz Chrome Mylar Type II",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "About Face examines femininity, beauty, and objectification by focusing on a woman's hand holding chrome Mylar mirrors, which reflect the viewer, set against a soft, shimmery peachy-pink marbled background. Isolated facial features appear occasionally, reminding the observer of how we focus on certain aspects of ourselves rather than the whole being. \nThe design elements appear to float as we digitally print white ink behind the hands to keep them in the foreground, while the metallic nature of the rest of the print recedes to the background. The mirrors and marbled background add movement to the design and reflect the space and viewers, making the design very dynamic.\nDrawing inspiration from the historical role of women as muses and the symbolism of Venus, the artist critiques the idealized representations of women in art and culture.\nShyama Golden, a Texas-born Sri Lankan American artist, brilliantly combines her skills in digital painting and graphic design to scrutinize the intricate layers of identity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wallpaper.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Bathroom-Full-Adam-Cassino-Design.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wallpaper-Detail.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wall.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-13x12-Panel-Map_77fc8fff-45b6-42fa-8758-773101a1668c.jpg?v=1741053015&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/about-face-peach-fuzz?variant=45393112957091",
+    "material": "Chrome Mylar Type II",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 10,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "about-face",
+    "storedImagePath": null,
+    "color": "Peach Fuzz",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:14.906207Z",
+    "lastUpdated": "2025-06-16T06:07:14.906223Z",
+    "sourceRunId": "run-flavorpaper-001",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 11,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "Sample",
+      "priceUnit": "per Sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-about-face-peach-fuzz-chrome-mylar-type-ii",
+    "name": "About Face - Peach Fuzz Chrome Mylar Type II",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "About Face examines femininity, beauty, and objectification by focusing on a woman's hand holding chrome Mylar mirrors, which reflect the viewer, set against a soft, shimmery peachy-pink marbled background. Isolated facial features appear occasionally, reminding the observer of how we focus on certain aspects of ourselves rather than the whole being. \nThe design elements appear to float as we digitally print white ink behind the hands to keep them in the foreground, while the metallic nature of the rest of the print recedes to the background. The mirrors and marbled background add movement to the design and reflect the space and viewers, making the design very dynamic.\nDrawing inspiration from the historical role of women as muses and the symbolism of Venus, the artist critiques the idealized representations of women in art and culture.\nShyama Golden, a Texas-born Sri Lankan American artist, brilliantly combines her skills in digital painting and graphic design to scrutinize the intricate layers of identity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wallpaper.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Bathroom-Full-Adam-Cassino-Design.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wallpaper-Detail.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wall.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-13x12-Panel-Map_77fc8fff-45b6-42fa-8758-773101a1668c.jpg?v=1741053015&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/about-face-peach-fuzz?variant=45393112989859",
+    "material": "Chrome Mylar Type II",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 750,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "about-face",
+    "storedImagePath": null,
+    "color": "Peach Fuzz",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:14.951419Z",
+    "lastUpdated": "2025-06-16T06:07:14.951430Z",
+    "sourceRunId": "run-flavorpaper-002",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 11,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "8ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-about-face-peach-fuzz-chrome-mylar-type-ii",
+    "name": "About Face - Peach Fuzz Chrome Mylar Type II",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "About Face examines femininity, beauty, and objectification by focusing on a woman's hand holding chrome Mylar mirrors, which reflect the viewer, set against a soft, shimmery peachy-pink marbled background. Isolated facial features appear occasionally, reminding the observer of how we focus on certain aspects of ourselves rather than the whole being. \nThe design elements appear to float as we digitally print white ink behind the hands to keep them in the foreground, while the metallic nature of the rest of the print recedes to the background. The mirrors and marbled background add movement to the design and reflect the space and viewers, making the design very dynamic.\nDrawing inspiration from the historical role of women as muses and the symbolism of Venus, the artist critiques the idealized representations of women in art and culture.\nShyama Golden, a Texas-born Sri Lankan American artist, brilliantly combines her skills in digital painting and graphic design to scrutinize the intricate layers of identity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wallpaper.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Bathroom-Full-Adam-Cassino-Design.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wallpaper-Detail.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wall.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-13x12-Panel-Map_77fc8fff-45b6-42fa-8758-773101a1668c.jpg?v=1741053015&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/about-face-peach-fuzz?variant=45393113022627",
+    "material": "Chrome Mylar Type II",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 900,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "about-face",
+    "storedImagePath": null,
+    "color": "Peach Fuzz",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:14.992396Z",
+    "lastUpdated": "2025-06-16T06:07:14.992404Z",
+    "sourceRunId": "run-flavorpaper-003",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 11,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "10ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-about-face-peach-fuzz-chrome-mylar-type-ii",
+    "name": "About Face - Peach Fuzz Chrome Mylar Type II",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "About Face examines femininity, beauty, and objectification by focusing on a woman's hand holding chrome Mylar mirrors, which reflect the viewer, set against a soft, shimmery peachy-pink marbled background. Isolated facial features appear occasionally, reminding the observer of how we focus on certain aspects of ourselves rather than the whole being. \nThe design elements appear to float as we digitally print white ink behind the hands to keep them in the foreground, while the metallic nature of the rest of the print recedes to the background. The mirrors and marbled background add movement to the design and reflect the space and viewers, making the design very dynamic.\nDrawing inspiration from the historical role of women as muses and the symbolism of Venus, the artist critiques the idealized representations of women in art and culture.\nShyama Golden, a Texas-born Sri Lankan American artist, brilliantly combines her skills in digital painting and graphic design to scrutinize the intricate layers of identity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wallpaper.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Bathroom-Full-Adam-Cassino-Design.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wallpaper-Detail.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-Wall.jpg?v=1741053015&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/About-Face-Peach-Fuzz-13x12-Panel-Map_77fc8fff-45b6-42fa-8758-773101a1668c.jpg?v=1741053015&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/about-face-peach-fuzz?variant=45393113055395",
+    "material": "Chrome Mylar Type II",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 1050,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "about-face",
+    "storedImagePath": null,
+    "color": "Peach Fuzz",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:15.027048Z",
+    "lastUpdated": "2025-06-16T06:07:15.027055Z",
+    "sourceRunId": "run-flavorpaper-004",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 11,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "12ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-enfumé-acid-free-eco-fibrous",
+    "name": "Enfumé - Acid Free Eco Fibrous",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Enfumé is a nouveau interpretation of a French scenic wallpaper that offers a calming, mountainous escape. Painterly details of brush strokes add texture and showcase that muralists hand-painted the original artwork for this digitally printed wallpaper designed by Jon Sherman. The lifelike scale and variety of flora result in a peaceful room setting that feels like a stroll through a lush park.\nThe Acid Free colorway has a subdued palette with a light blue sky and mountains, pink and white cherry blossom trees, green Spanish moss covered oak trees, fan palms, elephant ear plants, and ground cover, with white irises scattered about.\nFlavor Paper founder and creative director Jon Sherman is a self-trained artist and designer whose work has been featured in numerous museums, books, and projects.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper-Detail.jpg?v=1740792355&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper-Bathroom.jpg?v=1741389029&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper-Roomset.jpg?v=1741389029&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper-Detail-2.jpg?v=1741389029&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper-Detail-3.jpg?v=1741389029&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper.jpg?v=1741389029&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Panel-Map.jpg?v=1744064838&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/enfume-acid-free?variant=45393135206563",
+    "material": "Eco Fibrous",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 10,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "enfumé",
+    "storedImagePath": null,
+    "color": "Acid Free",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:15.481295Z",
+    "lastUpdated": "2025-06-16T06:07:15.481309Z",
+    "sourceRunId": "run-flavorpaper-005",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": null,
+        "repeatVertical": null,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 - Class A"
+    },
+    "additionalData": {
+      "size": "Sample",
+      "priceUnit": "per Sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-enfumé-acid-free-eco-fibrous",
+    "name": "Enfumé - Acid Free Eco Fibrous",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Enfumé is a nouveau interpretation of a French scenic wallpaper that offers a calming, mountainous escape. Painterly details of brush strokes add texture and showcase that muralists hand-painted the original artwork for this digitally printed wallpaper designed by Jon Sherman. The lifelike scale and variety of flora result in a peaceful room setting that feels like a stroll through a lush park.\nThe Acid Free colorway has a subdued palette with a light blue sky and mountains, pink and white cherry blossom trees, green Spanish moss covered oak trees, fan palms, elephant ear plants, and ground cover, with white irises scattered about.\nFlavor Paper founder and creative director Jon Sherman is a self-trained artist and designer whose work has been featured in numerous museums, books, and projects.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper-Detail.jpg?v=1740792355&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper-Bathroom.jpg?v=1741389029&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper-Roomset.jpg?v=1741389029&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper-Detail-2.jpg?v=1741389029&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper-Detail-3.jpg?v=1741389029&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Wallpaper.jpg?v=1741389029&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Enfume-Acid-Free-Panel-Map.jpg?v=1744064838&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/enfume-acid-free?variant=45393135239331",
+    "material": "Eco Fibrous",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 600,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "enfumé",
+    "storedImagePath": null,
+    "color": "Acid Free",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:15.509265Z",
+    "lastUpdated": "2025-06-16T06:07:15.509272Z",
+    "sourceRunId": "run-flavorpaper-006",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": null,
+        "repeatVertical": null,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 - Class A"
+    },
+    "additionalData": {
+      "size": "11ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-ali-air-silver-mylar",
+    "name": "Ali - Air Silver Mylar",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Ali is based on two Andy Warhol Polaroids of Muhammad Ali taken in 1977 as part of his Athletes series. Warhol managed to capture a powerful shot with the boxer’s fists poised, ready to punch, as well as an unreleased sensitive and joyous image of him. The oversized print—each Ali is 35 inches high—pays homage to how Warhol made his wallpapers and the massive impact Ali had on the world as a humanitarian boxer.\nThis handscreened Air colorway has a soft, heavenly feel. It has a powdery blue background, white hands and gloves, and an ethereal silver Mylar framed in a half-toned graphite grey for the GOAT himself.\n Ali can be installed as a half drop staggered repeat, as Warhol used for his wallpapers, or it can be hung straight across if desired. The calculator results are configured for a half drop installation, so please consult your installer for quantities if you intend to install it straight across.\nAndy Warhol was a leading figure in the pop art movement of the 1960s and is considered one of the most important artists of the late 20th Century. The Andy Warhol x Flavor Paper Collection represents our interpretations of Warhol's work—some iconic and others handpicked from deep in the artist's archives—released in a globally exclusive partnership with the Andy Warhol Foundation for the Visual Arts, which has been ongoing since 2013.\n©/®/TM The Andy Warhol Foundation for the Visual Arts, Inc.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Ali-Air-Warhol-Wallpaper-Muhammad-Ali.jpg?v=1735148013&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/ALi-Air-Room-Set.jpg?v=1742835396&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ali-Air-Warhol-Wallpaper-Muhammad-Ali-Detail.jpg?v=1742410631&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ali-Air-11x10-Panel-Map.jpg?v=1742410631&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/ali-air?variant=45393116233891",
+    "material": "Silver Mylar",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 14,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Handscreened_Wallpaper_Installation_Instructions.pdf?v=18152427862966582127",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "ali",
+    "storedImagePath": null,
+    "color": "Air",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:16.016741Z",
+    "lastUpdated": "2025-06-16T06:07:16.016754Z",
+    "sourceRunId": "run-flavorpaper-007",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Quarter Drop",
+        "repeatVertical": 71,
+        "repeatHorizontal": null,
+        "match": "Quarter Drop"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "Sample",
+      "priceUnit": "per Sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-ali-air-silver-mylar",
+    "name": "Ali - Air Silver Mylar",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Ali is based on two Andy Warhol Polaroids of Muhammad Ali taken in 1977 as part of his Athletes series. Warhol managed to capture a powerful shot with the boxer’s fists poised, ready to punch, as well as an unreleased sensitive and joyous image of him. The oversized print—each Ali is 35 inches high—pays homage to how Warhol made his wallpapers and the massive impact Ali had on the world as a humanitarian boxer.\nThis handscreened Air colorway has a soft, heavenly feel. It has a powdery blue background, white hands and gloves, and an ethereal silver Mylar framed in a half-toned graphite grey for the GOAT himself.\n Ali can be installed as a half drop staggered repeat, as Warhol used for his wallpapers, or it can be hung straight across if desired. The calculator results are configured for a half drop installation, so please consult your installer for quantities if you intend to install it straight across.\nAndy Warhol was a leading figure in the pop art movement of the 1960s and is considered one of the most important artists of the late 20th Century. The Andy Warhol x Flavor Paper Collection represents our interpretations of Warhol's work—some iconic and others handpicked from deep in the artist's archives—released in a globally exclusive partnership with the Andy Warhol Foundation for the Visual Arts, which has been ongoing since 2013.\n©/®/TM The Andy Warhol Foundation for the Visual Arts, Inc.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Ali-Air-Warhol-Wallpaper-Muhammad-Ali.jpg?v=1735148013&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/ALi-Air-Room-Set.jpg?v=1742835396&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ali-Air-Warhol-Wallpaper-Muhammad-Ali-Detail.jpg?v=1742410631&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ali-Air-11x10-Panel-Map.jpg?v=1742410631&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/ali-air?variant=45393116266659",
+    "material": "Silver Mylar",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 750,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Handscreened_Wallpaper_Installation_Instructions.pdf?v=18152427862966582127",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "ali",
+    "storedImagePath": null,
+    "color": "Air",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:16.060272Z",
+    "lastUpdated": "2025-06-16T06:07:16.060280Z",
+    "sourceRunId": "run-flavorpaper-008",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Quarter Drop",
+        "repeatVertical": 71,
+        "repeatHorizontal": null,
+        "match": "Quarter Drop"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "15ft Roll",
+      "priceUnit": "per Roll",
+      "raw_text": "H4sIAJS0T2gC/+1ZzW8jyXW/568oTza7akDD0Xx5dnUKSYmURJHisElppCCHYneRXcPurt6qanEox8Bi4D0FuQQGAicBsobjOJPYDmxvEAfZIMCMk7MuCWZuzvwD+Rf8e9UfpMbeIB83w4edVb2qevU+f++9ZjOW7DZrSv1b7A9YJ+aXSrMhz4T2FzJjVrFApVak9lzlmk35vPo/k4aJJLOrY8VDmc4bjcZYWR6/t9PY2RnzZ8Jss1CaQOWpNYynITORzDKcZAGPgzzmVoSMWxZEIlio3J5KscSWtpMsxF6byAz0ZiK0DHjK9p9lWhjTzLJYQMRVnxsrNG6Ep9JwP1LZUKunIrBm6M5NcbmdG6uSNlTggW2D+c7/4FwzcFIXcjD3t17d0WIuVTpJJcntW2yZib/Htt7zmrN5xFNpLE+bnQHbev2H3qtPY1L50ND/zP5kxLbePv++14ynOMibx8ds6xirOVTjexfg8vrvGq+xn4ZKa74+n85VzKtn0nku45g/aZdLK+c5Z++zFtfTPKzpeg53ybS+phNBb/ax+ve//I9PGqDkU94867Ktf/tjr2kCkRpoVgrrHwzZ1svveE1YRPMYFycFG1rLDdGuhJ5y+RQ6XwyI9IXX4hFPuGkV72KluUwn1SqdxzwUJmrtjdnWz7/3E4/E5qEyrVZxQsRc55VNsZrLPKmfw1peidZFuZnK9MlJh211NBY6gfbVvSiHG6qFiuWl5K2TFttqmQbWBpaAxQ6EvhJzdQkrtZp9tnX9p9d/jl1rlhyUM1hg6LU0v5JxxUlLK03EDtNQIhRPAoF/x0KDrPTqnUOnUs9lZc9aIZ2nQrYGxSKP5xzWbHVhuut/uv4xZMv1AuKwDjeqVi3HpVC2DotlmydThfd7BzDKf/7FnxFBaKXSJ00caHeaIKQ85O2me6SNLGanQoeifbpfELScTknygbCR0Jvitfkq4bXMvfOCiEBCDLDmrMjAkcjyaSyD9XsRDzcWMhYVuwi6tAfnCKXvYqGRHIiMkn0ZUW0VKMO2egKuTede9Xa9G6tkKiu/tlWitDK9fmkKhcwAbpGTrvgl0kKs5Sj3ejI1ETe8vVfdUYvqkcFFyRVJy0ZQrj1qU6B922u/+hxJH7795FuHl0pqUfmirRW3G/HfzjV/9T2umoMij9qrDNG73r4SQSR5+6IHDX/2R96eSBOuF3s9rBe64e09lYQ7cu+I2IdPvT2VyBSClFlcLddG3zsZ0sZ+kCNpdGmW/fkqs/td7Lz+fuPNp95+zHweX26e+DjniFEJN3ZzmQpe22kf4apFZeB9AGC6od8+cgEoIqttG0mVYX9MuaS9Do8XmxDX6RWw0eFaiYpYa9uRT2XnyDHqyJT26nc6mqeB2FiKNIhIVITyu9ShilepMJI/GRZOKek+LIl4XmekFGtPdPlU1WDR5RRTXcLCPa8rFBK1MkAXOMLT1foeML3ek1PkgeW62yrU7GohNqSmpVOr1hgUSsXSm134TMQqzzauwC0i4THvjh+zrcdYQwEjVvULzlndQSm3W91uSWN4XiuTryBit8jVAw7wKcU9UGmI8DQHA1dnsJyzHv3jN0cHveJIngKBVgcTYmW9w0CQ+Ie+E99zMHc4cKL+I62UM/vhHiijzDvU/OPyqUMtbrgTnhdMzVifp5Umh0ZzER8e+3Tib7xDNAlrKx+hYiDMj/qO2xHPeHo0LGDjSGjYo3znSOmwxvUev+KLiOpt72JMfH7q9US64r19vNHzI68ngXS8tkdPGXWp6jd7+RLGqvZWer66cry6uG1U4h1zZY6bPTr8Ayzs5UZaHAtUcJUek25vvtF48w1QjLKRKtkdyynV9PVqtf4biIBOCk2LTNsHlIQHHVBtlPPNxDvOnwngfK7nNanPA67Ief0TV5r6iKw5N2h9St59xNFS9s8gc7/nViu4q39O7urTOpSXwvRPscY/RJBVEPUprjde0pT0H+dig5Qjp0jE+jEiyNz0iyN/DcpKWbtxRTyTQWWRvopDdcn7ey4W+yrlwdoVfcJqNBn9gfPjD4kAG4m5vnHGGiQ2t2U29VEJ0KL1m0Xf9ObTBkhXlNmQu3oVqQHABVblSGuv3ycc9gY8keuaMoAieVluBiLj8WBIBkOjsFEfazEGaE/bPBYhwWQFQES8EJxOliVlgGjWHI3Z4PAELiYCurzK2m4h+aDrWqa/wjoX1UWlZype3KyRINoIyRQUz/Ypea8/v/7763+mrSWv0uMkqZNjyBeuFR32Su8MIbQhr/IbAFkn5BAgkvD6doaektQqIGfYdYYbFjqthudduvRjbyh0PtyHFv4db4jC71p7YYbUPb59/iNvKG3ApU7fKbhAcKyGx7h49a/PsdQ2n/O4NvJjDpB93MTq9Y8ab557o1cv8hTNaX1gpBIKxdEJOBwL6Y1yY2qHjtC+hXx0RrYeLT2fJ4qf+YisMf5OYUYt03Vc+a++o9hYJa9eoCMc6lc/SAOZCX9MtWGKC3koWVNzxItfCvT6J55Pwcnjyp8+mmBIQ89ff3b97etvgrLCRIN+pOqsfEmxy44FMNR3jb8ADeibKS38bnkmtRAPySfSqqHwY2TNYgMYiCA2kcKnFqlu3I1f9NE+LBTXJnGlsWzgbpDK4gfVizUMFC4limnJrULvYrcHWXlvdEYPvyhpfr5GZD9Dq78WTEt2zNMFP65i0LcNGlNs9OpFLJI1/BP9QMSoldXcQZSetJgZ30cYXkpTJj3Rj/NA8o11gVY3mA3J2gJ3+wQGsbq5eyrRa8DU77OiPlPIVvw2tQHAIScqLPEvOeY2HeLakQujlahPLkUoUn+/KJv+UtqrAjdqgB9ziagcn7njY/5UFtk5PkL2XX+KsWPM0ysK6fEFKKhd44hL4jA+QKf185/+izeWaH1vo8zYSqCxmtczwlgtUIHzMr/GwFM+pioxxgJayJCT3GOFkV2Nx8Uh7URgIWftPI145eoxUm2dTONXX2AiWdVvYj6hQdKsxysikZvaqODKvDPvjHNYrULXScNvsJPcxiua/28enMwpaSfdJ2xrAvUnC5oaxaR5QG773CsHbkpEtp9ITXN3c7+cmL9bbaPXn4cqqTSZ6JzQanI+wQsTb3I1FYXZJxeuxn+QeKc8RQeWn05O2dapxdK6brst7To6T5HsV4iiyiSnUljExSkNcW+f/613xuNYkgU6uc3TuiickasAfT7mYc03y9S5gAnP98H+v/7hC++Cbww4FzKZ8umyjjnBdRD14cAkT9gJhji9e5+NVBwbt8AkGmjiZs3u3Ycz67boPwBNOrfRLpxM30m2HmDT22ahwhCB5f0dt1SaGZiMKHTbY5o4NxAPlk25gUWBK8o9hPkhtbCKY34mQ/C+9wjj7da9j/DvBBOiTBIRwliaTBjTwCK43X10F9uPc8I0zfa0ypA4NoiOBQISIS2gzm32gJ0JsTBDrcI8sAD63QMKjYD6afo8hAEjQet826rbhTTg2cLIu8AgsM0G5x1MaGxEg8p8t+mP+2z/wwesHXNjWLOPOAKe0nixewZkB+SliMD9QO0ONW2FDPkaMcw5Qpday3Rhim9B8oo7eQ7Tj3N6hNO4xkw+pc8imBBJtAAArJnK6KA5RGeHeHC3GC10oZHZ3VPLNFZQu4MB+Tcu/bVzaTOWTan3MCHNScPpijXTcMXOuI5UzJ7d+KqKUwHcSFxwTZqXn9W+sUu1efHlZ9QsaSVD4waqPOIJDMdwjVm+ECkZ7u5Hjx4xblgGn9CpSJqmjWIBkETLjC6vUYmBtonP8RB90eWZzUl/lqml0LM8ZiZStjAdGt+peib020++ZWbATPBWEhJuM3QAEA73sxxD9zY9u0SjQ/8HcOYpJkHhdDH0QdFi4nAWfapWKjdMJni+EDFpsHGEvy8x4MkrXMjId28/+abg6D9IP4Dq/YfQD52UwYV5hM0MMw2LlGMDISK1XKsWCtIcbo/jjKxcfHCGKthDfwhJZJLxwDrmES/Mjd2l0nHoFGBRTo2lpa9yKXMWaIyJZ7QZvHBzESHovLFD94ya2W0WCY7eLF6xmRBxgx3achcGRoiv2DTOBeIxWGCwyVMYcxmhbhXMnaxzau7MtvsbArj5A3MFUjqGmVh/hVBgM42mhCKa5OXxDDlEUs01zxy7uRaQAKFGunVPmmMythHxrAG9qbpNYYgipkWlNtiwkFIZ5DmGE2xol+3OwaWFc3IrMb5pZQc60rKSdZSjuFMuwWGW8UAr5KwEe2QG+BZerz7+46YWJo/pxwFNX9nTmZznunxnUzC5kYXbsDfLXJzRFbrPVvSLRKWWdtdLgEP80/s4wBxuuOgvT5Lc78ja2EzbpTMPXqIfN1ghG1meTJtBKkq4BD4jvKawJvrdj766U7gTZiLxZOgMCi9VRxJlLAUjBh+ISFxcjpW79KMIu7eDNKRPr7leFTb7cjhhbUC4cKBEboNFqXywwiLAQFCsMxw9UXD4wCDqF0gooxJoBDFl4GRWFHNFwGcyWJAntErgPZGVihfSfmCoNaEPCmBSJ70LSkTxFLZdMfEsiHOXeIRMKfhGMqsB5oZCHUqIAmKr0D2VJqfPztoalylABUqnKZKQ0QcD8oihVh62unu/8fLFnZc/vINKMf5fskbBbZR1iu3BUDI2vynPv3blue3ujMRM0NdiTA9hKOkYDNcusdzs02xKqp2RaH715q6/Cb+3gesiYfd3dj70BWUdIt5HAdv1eQLP10FRhdSlKybWfBkTdocVN0F87+6Dxs7Of3Oy5k6HHz2kX1ndqr3G09878JFulmaP36fRpIydV3/iFgeCoA4r6M+I8kvXRwKAxhG0/6fbe3KO8hnfvFudflyG9O7WDuKJfuX1+ivKbW5dfWeBkPQrkHFgHaGYfoUNFBk40woSJdtsimBYIz/9Tmvow9bvzhwcuoLUCFSC+rAUriLNhasNOH1JKPyVPYEgp+tVfjlQaFa/f7v0/vJtnxqOtb59/szhBID7/kjMc3IY2phAFI68QfIh5+YmzazF+g6EdvY6TGdqWCgn0xBJjXg3mQjkDOBMlUQEuS3gNBUxoGtdVsnErqnTxU/oaOdi7BVohihnx9Jw6HDAY+V+62YdHlDItbiJqPfr8/xS0LcxZDjShLoyTlHW5nqq0v34kixwRg1Gp/kYwCEvebAaC5242V+lRTaZZoDcMnIKP9rVyxeA5nsPb9SqdqQUQSA1TWJdtIoewJUPJ3pGDZ4WM+xEjZMMvWSxmUK3JYyjlo2v3TL0+zth8THw49burVvbt2ZKIfIPbBIX6wjFt68gjri1O+OxEQUJKE1tTk0LYR0EWGuOrCUF6o2Yp/McsoCbSMEvU8YpinUsZhYUag4cgoD023cffHU2+xBUWzzwpRsjdBQ5nrn1cOd31tRhyf0JNjSl2i9vnWNrqiyQcr13GDiBMqGQGmsyoRLIKBIy3zh9MpsZYfHEvZ13aOcFLSnt9bV3GJkEQfr/FrZ+/u6veH6DdsNCX/86YF38Alss4ZKmIgAA"
+    }
+  },
+  {
+    "id": "flavorpaper-camellias-soft-light-eco-fibrous",
+    "name": "Camellias - Soft Light Eco Fibrous",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "We collaborated with artist Evan Paul English to design a Dorothy Draper-inspired wallpaper for a champagne bar. This bold, painterly mural features massive hand-drawn flowers with a delicate feminine touch, creating the perfect backdrop on your walls or ceiling.\nSoft Light has a pale grey background with pops of pink and blue in the flower petals, which allows the exquisite camellias and greenery to float gently in the foreground.\nEvan Paul English is a former Flavor Paper screen printer and renowned painter, illustrator, and tattoo artist. His work draws inspiration from his collection of vintage ephemera and centers on florals, which he considers symbols of life and growth.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-2_6c61f515-c2db-4311-8938-9f41d8c09d2f.jpg?v=1741023550&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Dining-Room-_tamiwassonginteriors-photo-_timlenzphoto.jpg?v=1741023550&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Dining-Room-Tita-Omeze-photo-Allyson-Lubow_ebc5b6f2-a27b-4172-b3be-cd6ed15b7ab9.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Dining-Room-Tita-Omeze-photo-Allyson-Lubow.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Dining-Room-Ana-Claudia-Design-Kingston-Showhouse.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Bedroom-Apartment-Jeanie.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Bedroom-Ceiling-Lisa-Zerbo.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Detail-2_e1d0c937-2b0b-4b47-8e2d-c833d6bee49a.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Detail-1_a1d973cf-86fa-4312-9183-a2b19032768a.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper_ec804f7a-6272-4017-967a-3c9d67008117.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Panel-Map.jpg?v=1747947320&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/camellias-soft-light?variant=45393127047331",
+    "material": "Eco Fibrous",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 10,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "camellias",
+    "storedImagePath": null,
+    "color": "Soft Light",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:16.507498Z",
+    "lastUpdated": "2025-06-16T06:07:16.507512Z",
+    "sourceRunId": "run-flavorpaper-009",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": null,
+        "repeatVertical": null,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 - Class A"
+    },
+    "additionalData": {
+      "size": "Sample",
+      "priceUnit": "per Sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-camellias-soft-light-eco-fibrous",
+    "name": "Camellias - Soft Light Eco Fibrous",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "We collaborated with artist Evan Paul English to design a Dorothy Draper-inspired wallpaper for a champagne bar. This bold, painterly mural features massive hand-drawn flowers with a delicate feminine touch, creating the perfect backdrop on your walls or ceiling.\nSoft Light has a pale grey background with pops of pink and blue in the flower petals, which allows the exquisite camellias and greenery to float gently in the foreground.\nEvan Paul English is a former Flavor Paper screen printer and renowned painter, illustrator, and tattoo artist. His work draws inspiration from his collection of vintage ephemera and centers on florals, which he considers symbols of life and growth.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-2_6c61f515-c2db-4311-8938-9f41d8c09d2f.jpg?v=1741023550&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Dining-Room-_tamiwassonginteriors-photo-_timlenzphoto.jpg?v=1741023550&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Dining-Room-Tita-Omeze-photo-Allyson-Lubow_ebc5b6f2-a27b-4172-b3be-cd6ed15b7ab9.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Dining-Room-Tita-Omeze-photo-Allyson-Lubow.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Dining-Room-Ana-Claudia-Design-Kingston-Showhouse.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Bedroom-Apartment-Jeanie.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Bedroom-Ceiling-Lisa-Zerbo.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Detail-2_e1d0c937-2b0b-4b47-8e2d-c833d6bee49a.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper-Detail-1_a1d973cf-86fa-4312-9183-a2b19032768a.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Wallpaper_ec804f7a-6272-4017-967a-3c9d67008117.jpg?v=1747947320&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Camellias-Soft-Light-Panel-Map.jpg?v=1747947320&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/camellias-soft-light?variant=45393127080099",
+    "material": "Eco Fibrous",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 600,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "camellias",
+    "storedImagePath": null,
+    "color": "Soft Light",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:16.549156Z",
+    "lastUpdated": "2025-06-16T06:07:16.549163Z",
+    "sourceRunId": "run-flavorpaper-010",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": null,
+        "repeatVertical": null,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 - Class A"
+    },
+    "additionalData": {
+      "size": "11ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-brasilia-silver-platinum-clay-coated-paper",
+    "name": "Brasilia - Silver Platinum Clay Coated Paper",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Brasilia is a bold, large-scale geometric pattern designed by Kravitz Design. It can be hung straight across, flipped, or in several combinations to create different looks. Lenny and his team were inspired by Brazilian art and culture, especially the architecture of its namesake city. These classic handscreened shapes create a striking look in any space.\nThe Silver colorway features shimmery silver ink on a platinum clay coated paper substrate, fashioning a chic monotone environment.\nKravitz Design is a conceptual creative studio founded by Lenny Kravitz in 2003. With a modern sensibility and a focus on interiors and graphic design, Kravitz Design's work always conveys a soulful elegance through a natural, relaxed sense of style.\n*Please note that the calculator is set to estimate quantities based on a straight match. This will also allow randomized installation layouts.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Brasilia-Silver-Kravitz-Design-Wallpaper-Temp.jpg?v=1735148274&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Brasilia-Silver-Kravitz-Wallpaper-Living-Room-Sam-Simon.jpg?v=1735148274&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Brasilia-Silver-11x10-Panel-Map.jpg?v=1736301005&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/brasilia-silver?variant=45393123049635",
+    "material": "Platinum Clay Coated Paper",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 12,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Handscreened_Wallpaper_Installation_Instructions.pdf?v=18152427862966582127",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "brasilia",
+    "storedImagePath": null,
+    "color": "Silver",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:17.006305Z",
+    "lastUpdated": "2025-06-16T06:07:17.006317Z",
+    "sourceRunId": "run-flavorpaper-011",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 61,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "Sample",
+      "priceUnit": "per Sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-brasilia-silver-platinum-clay-coated-paper",
+    "name": "Brasilia - Silver Platinum Clay Coated Paper",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Brasilia is a bold, large-scale geometric pattern designed by Kravitz Design. It can be hung straight across, flipped, or in several combinations to create different looks. Lenny and his team were inspired by Brazilian art and culture, especially the architecture of its namesake city. These classic handscreened shapes create a striking look in any space.\nThe Silver colorway features shimmery silver ink on a platinum clay coated paper substrate, fashioning a chic monotone environment.\nKravitz Design is a conceptual creative studio founded by Lenny Kravitz in 2003. With a modern sensibility and a focus on interiors and graphic design, Kravitz Design's work always conveys a soulful elegance through a natural, relaxed sense of style.\n*Please note that the calculator is set to estimate quantities based on a straight match. This will also allow randomized installation layouts.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Brasilia-Silver-Kravitz-Design-Wallpaper-Temp.jpg?v=1735148274&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Brasilia-Silver-Kravitz-Wallpaper-Living-Room-Sam-Simon.jpg?v=1735148274&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Brasilia-Silver-11x10-Panel-Map.jpg?v=1736301005&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/brasilia-silver?variant=45393123082403",
+    "material": "Platinum Clay Coated Paper",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 300,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Handscreened_Wallpaper_Installation_Instructions.pdf?v=18152427862966582127",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "brasilia",
+    "storedImagePath": null,
+    "color": "Silver",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:17.051688Z",
+    "lastUpdated": "2025-06-16T06:07:17.051696Z",
+    "sourceRunId": "run-flavorpaper-012",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 61,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "15ft Roll",
+      "priceUnit": "per Roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-ladies-goddess-diamond-flash",
+    "name": "Ladies - Goddess Diamond Flash",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Artist Katie Stout uses soft, flowing watercolor hues that gently blend into one another, creating movement and fluidity in abstract feminine forms. This confident band of babes celebrates women with beauty and lightheartedness in a visually engaging design that elevates self-expression.\nA self-proclaimed \"näive pop\" artist, Katie Stout's maximalist work explores using craft to convey vibrantly cheerful feminity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-B.jpg?v=1743025163&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Kitchen-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Katie-Stout-Wallpaper-Powder-Room-R-and-Company.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Gallery-Jon-Flutter.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Closeup-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Maquette.jpg?v=1740759443&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-A.jpg?v=1743025158&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-13x12-52w-Panel-Map.jpg?v=1743025136&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/ladies-goddess?variant=45393141694627",
+    "material": "Diamond Flash",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 12,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "ladies",
+    "storedImagePath": null,
+    "color": "Goddess",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:17.505100Z",
+    "lastUpdated": "2025-06-16T06:07:17.505110Z",
+    "sourceRunId": "run-flavorpaper-013",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 84,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "Sample",
+      "priceUnit": "per Sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-ladies-goddess-diamond-flash",
+    "name": "Ladies - Goddess Diamond Flash",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Artist Katie Stout uses soft, flowing watercolor hues that gently blend into one another, creating movement and fluidity in abstract feminine forms. This confident band of babes celebrates women with beauty and lightheartedness in a visually engaging design that elevates self-expression.\nA self-proclaimed \"näive pop\" artist, Katie Stout's maximalist work explores using craft to convey vibrantly cheerful feminity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-B.jpg?v=1743025163&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Kitchen-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Katie-Stout-Wallpaper-Powder-Room-R-and-Company.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Gallery-Jon-Flutter.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Closeup-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Maquette.jpg?v=1740759443&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-A.jpg?v=1743025158&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-13x12-52w-Panel-Map.jpg?v=1743025136&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/ladies-goddess?variant=45393141727395",
+    "material": "Diamond Flash",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 700,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "ladies",
+    "storedImagePath": null,
+    "color": "Goddess",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:17.527617Z",
+    "lastUpdated": "2025-06-16T06:07:17.527624Z",
+    "sourceRunId": "run-flavorpaper-014",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 84,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "8ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-ladies-goddess-diamond-flash",
+    "name": "Ladies - Goddess Diamond Flash",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Artist Katie Stout uses soft, flowing watercolor hues that gently blend into one another, creating movement and fluidity in abstract feminine forms. This confident band of babes celebrates women with beauty and lightheartedness in a visually engaging design that elevates self-expression.\nA self-proclaimed \"näive pop\" artist, Katie Stout's maximalist work explores using craft to convey vibrantly cheerful feminity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-B.jpg?v=1743025163&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Kitchen-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Katie-Stout-Wallpaper-Powder-Room-R-and-Company.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Gallery-Jon-Flutter.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Closeup-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Maquette.jpg?v=1740759443&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-A.jpg?v=1743025158&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-13x12-52w-Panel-Map.jpg?v=1743025136&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/ladies-goddess?variant=45393141760163",
+    "material": "Diamond Flash",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 825,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "ladies",
+    "storedImagePath": null,
+    "color": "Goddess",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:17.545576Z",
+    "lastUpdated": "2025-06-16T06:07:17.545584Z",
+    "sourceRunId": "run-flavorpaper-015",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 84,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "10ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-ladies-goddess-diamond-flash",
+    "name": "Ladies - Goddess Diamond Flash",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Artist Katie Stout uses soft, flowing watercolor hues that gently blend into one another, creating movement and fluidity in abstract feminine forms. This confident band of babes celebrates women with beauty and lightheartedness in a visually engaging design that elevates self-expression.\nA self-proclaimed \"näive pop\" artist, Katie Stout's maximalist work explores using craft to convey vibrantly cheerful feminity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-B.jpg?v=1743025163&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Kitchen-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Katie-Stout-Wallpaper-Powder-Room-R-and-Company.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Gallery-Jon-Flutter.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Closeup-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Maquette.jpg?v=1740759443&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-A.jpg?v=1743025158&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-13x12-52w-Panel-Map.jpg?v=1743025136&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/ladies-goddess?variant=45393141792931",
+    "material": "Diamond Flash",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 975,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "ladies",
+    "storedImagePath": null,
+    "color": "Goddess",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:17.574788Z",
+    "lastUpdated": "2025-06-16T06:07:17.574796Z",
+    "sourceRunId": "run-flavorpaper-016",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 84,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "12ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "H4sIAJW0T2gC/+1azW8jyXW/568oTzZrNaDhamZ3dic6haREiuKHOGxSGinI4bG7yK5RdxenqpscyjFgDLynIJcgQJAPIDFsx5nETmB7gzjIBgGsJGddEszcnP0H/C/49/qL1GzWG8SXINCF5HtV9ep9fzS7R76SVtwXbe370tpfE78rWiEttRFDWkjjXqqFSLTwdJzIODnXqRFTmpffQlkho0Wy7mkQiue1Wm2sEwrf2avt7Y3phbS7wlfW02mcWEGxL2ygFgvsFB6FXhpSIn1BifAC6V3qNDlVcoUlk0wWPtaajBbA1yNplEexOHyxMOCzvliEEiyu+2QTaXDCP1WW3EAvhkY/k15ih9m+KQ43U5voqAkRyEuaIL73P9hX9zKucz5E9tus3zNyrnQ8iRXz7SZYshP3QOy849Rn84BiZROK662B2Hn9e871xyGL3LH8ZQ8nI7Hz2cvvO/Vwio1U7/XETg/QHKLRwQWovP672musx742hjb747kOqbwmnqcqDOlpswATNU9JvCsaZKapX+HNHOZScXXMRJLv7AP6j+/85zdqwKRTqp+1xc6//4FTt56MLSQrmHWPhmLnp9926tCIoRAHJzkZhtUWa1fSTEk9g8wXA0Z96jQooIhsI78XkCEVT0oonocEPwsaB2Ox87Pv/dhhtsnXttHId8iQTFrqFNBcpVF1HWB1JRsXxWKs4qcnLbHTMgBMBOnLc0EKM5SADtVSUeOkIXYatgbYQhPQ2JE0V3Kul9BSo94XOzd/cvNnWE3sioA5gwaGTsPQlQpLSkYlygaiE/sKrnjiSXyOpQFam/Vbm06VmatSn5VAJo2lagxyIA3nBG022lDdzT/d/Ai8peYS7IgWWV2JluKQrxqdHGxSNNW4v3sEpfzXn/8pI6TROn5ax4Zmqw5ETD4169klTUSxOJXGl83Twxxh1HTKnA9kEkizzV6T1hFVPHfPcyQcCT4g6rM8AkdykU5D5W3uC8jfAlQoS3IBZGkOzuFK3wVgEBzwjIJ84VFN7WkrdroSpo3nTnl3tRrqaKpKuzZ1pI223X6hCo3IQO5iI13REmEhN3wUa10V24AsNQ/KM/qyvGRwUVBF0IoRhGuOmuxo33Ka158g6P3PvvHHnaVWRpa2aBpNyZb/N1ND198jXR/kcdRcL+C9m+Ur6QWKmhddSPivv+8cyDgic3nQBXxpas7BM8V5Rx0cM3n/mXOgIxWDkSKKS3Cj9IOTIS8ceimCxhRqOZyvF8lhGyuvv19787FzGAqXwuX2jucpwUcVzNhOVSyp0tMh3NXIUsGHSIDxlnyHiAVkEVUuJ4HSC6yPOZaM06LwcjvFtbp52miR0bJEVtK21DPVOs4ItVTMa9U9LUOxJ7dAGXsBswpXfhs71OE6llbR02FulALvQpPw501EorBVZ9s01VWyaBP7VJtz4YHTlhqBWiqgjTxC8XpzDjm9WlNTxEFCpt3IxWwbKbe4ZjATq5IYGA7Fwppt2EyGOl1sHYFZZEQhtcdPxM4TwBDAynV1Q2as9qDgO4PuN5S1lFbCpGuw2M5j9YiQfAp2j3Tswz3t0SCrMwDnossfbn101M23pDEy0PpowqQSp+NJZr/jZuw7WZrrDDJW/5Ehnam9cwDMaOF0DD0vruoYecucsLwUeib6FJeSdKwhGXZ6Lu/4a6eDJmGj5WNUDLj5cT+jdkwLio+Hedo4lgb6KO451sav8nqXrugy4HrbvRgznZ84XRmvqXuIO7pu4HQVMh1V+uhqq5e6urObrqCscm1t5uurjFYbp62OnB5p26t3efMPACTLrbDoSVRwHfdYtjffrL35JjBWJ4EuyPXUlGv6BlpvfiMjoJNC06Li5hEH4VEL2CRIaTvweukLiTyfmnmF6pNHmo3XP8lKUx+eNSeL1qeg3YcfrVT/DDz3uxm0hrn652yuPsO+WkrbPwWMD0ao0on67NdbNxkO+uep3EKliClmsbqMESq1/XzLXwGz1kmydUS+UF6pkb4Ofb2k/kHmi30dk7cxRZ9zNZqM/iCz498yAjqSc3NrT2IR2JQU0dRHJUCL1q/nfdObj2tAXXFkg+/yVoQGEi5yVYqwdvp9zsPOgCK1qSkDCJIW5WYgFxQOhqwwNApb9bFiY4D2tEmh9DlNlgmIkReSeGdRUgbwZkNozAadE5iYEejySm1ngKJBO2uZ/hJwKsuD2sx0eHm7RgKZBAgmL7+2z8F788nN39/8My+tqAyPk6gKjiFdZq3osFtYZwimLVuVbiXIKiCHSCIRVacX6ClZrDzlDNuZ4oa5TOvheZsP/cgZSpMODyGF+54zROHPWntph9w9fvbyh85QJR4pE79VcJHBAQ17OHj1by8BmiSdU1gp+QkhyT6pA3r9w9qbl87o+lUaozmtNox0xK44OgGFnlTOKLW2MugI7ZtPozPW9WjluBRpOnPhWWP8jqFGo+KNX7nX39ZirKPrV+gIh+b6B7GnFtIdc22Y4kDqK1E3BH9xC4Ze/9hx2TkpLO3pogkGN3z9zV/cfOvmD4FZY6JBP1J2Vq5i3xU9iRzqZo2/BA7Zd6GNdNvFnjgBewg+GZcNhRsiai63EgMj5HamcLlFqhp36+Z9tAsNhZVKstJYNHC3UEXxg+g5DAX5K4ViWlArs3e+2gWv1B2d8cWvCpybbjKyu0Crv2HMKNGj+JJ6pQ+6SY3HlCS4fhXKaJP+GX8kQ9TKcu5gTFclmBnfhRsulS2CnvG91FO0BefZ6haxIWtb4myfk0Gob6+eKvQaUPW7Iq/P7LIlvW1pkOAQE2UucZeEuc34OHacudFaVjtX0pexe5iXTXelkqs8b1QJfkwKXjk+y7aP6ZnKo3N8jOi7+Rhjx5jiK3bp8QUwqF3jgBRTGB+h0/rZT/7FGSu0vvdRZpKSobGeVzPCWF+iAqdFfI2RT2nMVWIMAFIon5jvscbIrsfjfJPJWBA+iWYaB1SaeoxQ2wTT+PpTTCTr6k7MJzxI2s14xSg2UxMVXNu35p1xCq2V2XVSc2viJE3CNc//tzdO5hy0k/ZTsTOB+JNLnhrlpH7EZvvEKQZuDkRxGCnDc3f9sJiYv1suo9ef+zoqJZmYlLPV5HyCGybO5Goqc7VPLrIa/9XIOaUYHVh6OjkVO6cJwCTrtpsq2XjnKYL9Cl5UquRUyQR+ccpD3Gcv/8Y5ozBUrIFWmqRxVRTO2FRIfS7mYUPbZepcQoXnhyD/83/41LmgrQHnQkVTmq4qn5NkvKAPA0ZpJE4wxJn99wVStQxtBmEU9QyTS+z+g3wh+0CiiedJsP94luyKB3v8qY148HCW5Mtnysfqo8cYUHc+3MPnBDOeiiLpQ1zDSgh55JCU7D/+AMsuJkA1Dzg9JV7Qk3AnOKQEM/fFB+JMyks7NNpPvQRpev9AzdErhOFaLOB8bJlE437mF7RQVMXErbcwVokRTxfz/bo77ovDxx+IZkjWinqf+FjMM8H+GdIx8lQMtzn09P6woIggCwSGE8nPoSwQKr60+QMcdUUZG534ecqXEM9YwqZTfpaRyF2BninEFw8uHrKnEXrBB2wHbRnYzk4LBkwukN0/0Ks41JC6hen2zh539rizx5097uxxZ487e9zZ484ed/b4/2yPDhgwCscOpFXzWEzXog4LUai8ywJnd8Uw0JAaa4eWH5sJ18PnQsZXUoa/OoVe9j918Sd1fgI6wN4uuJewF0QG2jMqE60Om9pke1GkVlphNbvGLNQrHkEzdeYaCVKsJgElYp6pXkxDGbOS2ZIxdBpr5mlXwP0yG4pILzNHzNQ6C1PlY2hke1Omdy8RM8n/3uDwTJvI1sQ4wJjo6XimfD435YN6hu8p7vZkKKfZXCtWGnRzg08lpaDKO0P2x0Dy0yE/hhKyq8RS2TTzPPg/zZkvP1dxJgtoLjOSVoaz+zL/6xzqqdVzzMJoLyQ4ti/uxdffUUspFnpxT1Cmvt1t/X3VioheZDaDYlfaXArQg+pAPbXZH/qGZknxrsBSrsEa5Ml0CTtKM0vDQiPJulYED2yfkArtXcT/34r4ZnZmJGeS/1qT1i0pQ3CKNKi2IEYgoJtOIiPx8MH7j8A6zk6NTu0W+kMXPghDk3DVldx3KVqEEjbLLcl2K349LH+VrrHkv8Zh9S++UbwncnpAvvPgYW1v75furW7l7R/t7X3Z/g1zfODxw0dfeuDh9oHf/IgPfIFWPs/6F2+8xfejR3u/dPNtpj/8st23OP4o2z3SYch/cWQv58ALfvvIFQtK+FnW7/CjriKyrv8oA44kBw2guu8Lxnzu+EgiUxLS6f/qdBFot8+Wu5+kcBCkk/0dDnB+a8jpr3fFilNfAMpIqorfKrBirVMR0FJ+RQw0OyMSHziKdsUUcQMzIL6yV5yQti3/UfJbs+wdqAW/AlXzdGS1WGEHxSgPSUbNQ/o30v/KgeSKgOPPC2Y424veW69VZUnsS3e5gV5tSd/nfIusiBrx/kjOgTScbjyZe8wtlAuutxf5iWgOvwcRMu114pke5qKq2EcCTKSwC+mpmfJYeCu9NMlKQJZ9d4WaZcUEUrLCObFDw9kLWsjlIday3D0216+saAYgch9xoY1qKRvEUNN90dCpr5XJXq4SLfLY3YeSvEC00qsrd0VrRlCoI2rVnyDBqiV567FEueQnyog0lWWnuudx4ZrCmsn6p6/Ew72Hj269ptYMtM6KEHFhk1lOEyhNaZgUhTJjeUFzCfQMK0HtBK1FsRhDJnQEvl7VvnbP8ltdXHB6SLj39u/d27030xr+f5REYQ4HqOB9DXbkvf0ZhVbmqLFR87k0Fc5Xlh2/MUdOYwGqhZDieQpeQE3GoLcA88wy4FDOEmBgJz/LwkD9+oMPPpzNHgOb5Bd84cIIDpXimnuP9n5jgx0W1J9iwXDAfX7pHEtTnaC0bNY6XsbQQmoEyAbNeRxoFFKVbu0+mc2sTHDFw723cOc5Lir09bW3CFm0FOGvzGx1/YP/5vot3C0Nff3rqH/yF0IEPOwDKQAA"
+    }
+  },
+  {
+    "id": "flavorpaper-ladies-goddess-eco-fibrous",
+    "name": "Ladies - Goddess Eco Fibrous",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Artist Katie Stout uses soft, flowing watercolor hues that gently blend into one another, creating movement and fluidity in abstract feminine forms. This confident band of babes celebrates women with beauty and lightheartedness in a visually engaging design that elevates self-expression.\nA self-proclaimed \"näive pop\" artist, Katie Stout's maximalist work explores using craft to convey vibrantly cheerful feminity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-B.jpg?v=1743025163&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Kitchen-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Katie-Stout-Wallpaper-Powder-Room-R-and-Company.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Gallery-Jon-Flutter.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Closeup-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Maquette.jpg?v=1740759443&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-A.jpg?v=1743025158&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-13x12-52w-Panel-Map.jpg?v=1743025136&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/ladies-goddess?variant=45393141825699",
+    "material": "Eco Fibrous",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 12,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "ladies",
+    "storedImagePath": null,
+    "color": "Goddess",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:17.658372Z",
+    "lastUpdated": "2025-06-16T06:07:17.658381Z",
+    "sourceRunId": "run-flavorpaper-017",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 84,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "Sample",
+      "priceUnit": "per Sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-ladies-goddess-eco-fibrous",
+    "name": "Ladies - Goddess Eco Fibrous",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Artist Katie Stout uses soft, flowing watercolor hues that gently blend into one another, creating movement and fluidity in abstract feminine forms. This confident band of babes celebrates women with beauty and lightheartedness in a visually engaging design that elevates self-expression.\nA self-proclaimed \"näive pop\" artist, Katie Stout's maximalist work explores using craft to convey vibrantly cheerful feminity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-B.jpg?v=1743025163&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Kitchen-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Katie-Stout-Wallpaper-Powder-Room-R-and-Company.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Gallery-Jon-Flutter.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Closeup-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Maquette.jpg?v=1740759443&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-A.jpg?v=1743025158&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-13x12-52w-Panel-Map.jpg?v=1743025136&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/ladies-goddess?variant=45393141858467",
+    "material": "Eco Fibrous",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 550,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "ladies",
+    "storedImagePath": null,
+    "color": "Goddess",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:17.693415Z",
+    "lastUpdated": "2025-06-16T06:07:17.693423Z",
+    "sourceRunId": "run-flavorpaper-018",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 84,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "8ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-ladies-goddess-eco-fibrous",
+    "name": "Ladies - Goddess Eco Fibrous",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Artist Katie Stout uses soft, flowing watercolor hues that gently blend into one another, creating movement and fluidity in abstract feminine forms. This confident band of babes celebrates women with beauty and lightheartedness in a visually engaging design that elevates self-expression.\nA self-proclaimed \"näive pop\" artist, Katie Stout's maximalist work explores using craft to convey vibrantly cheerful feminity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-B.jpg?v=1743025163&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Kitchen-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Katie-Stout-Wallpaper-Powder-Room-R-and-Company.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Gallery-Jon-Flutter.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Closeup-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Maquette.jpg?v=1740759443&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-A.jpg?v=1743025158&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-13x12-52w-Panel-Map.jpg?v=1743025136&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/ladies-goddess?variant=45393141891235",
+    "material": "Eco Fibrous",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 650,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "ladies",
+    "storedImagePath": null,
+    "color": "Goddess",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:17.738376Z",
+    "lastUpdated": "2025-06-16T06:07:17.738384Z",
+    "sourceRunId": "run-flavorpaper-019",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 84,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "10ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flavorpaper-ladies-goddess-eco-fibrous",
+    "name": "Ladies - Goddess Eco Fibrous",
+    "vendor": "Flavor Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Artist Katie Stout uses soft, flowing watercolor hues that gently blend into one another, creating movement and fluidity in abstract feminine forms. This confident band of babes celebrates women with beauty and lightheartedness in a visually engaging design that elevates self-expression.\nA self-proclaimed \"näive pop\" artist, Katie Stout's maximalist work explores using craft to convey vibrantly cheerful feminity.",
+    "imageUrl": [
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-B.jpg?v=1743025163&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Kitchen-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Katie-Stout-Wallpaper-Powder-Room-R-and-Company.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Gallery-Jon-Flutter.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Godess-Wallpaper-Closeup-Animalick-DeWitte-Project-Knokke-_estherscherpenzeel_fotografie.jpg?v=1740071130&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-Katie-Stout-Wallpaper-Maquette.jpg?v=1740759443&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Wallpaper-Wallpaper-Katie-Stout-A.jpg?v=1743025158&width=1000",
+      "https://www.flavorpaper.com/cdn/shop/files/Ladies-Goddess-13x12-52w-Panel-Map.jpg?v=1743025136&width=1000"
+    ],
+    "url": "https://www.flavorpaper.com/products/ladies-goddess?variant=45393141924003",
+    "material": "Eco Fibrous",
+    "useCase": null,
+    "leadTime": "3 - 4 Weeks",
+    "price": 750,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Installation Instructions",
+        "url": "https://www.flavorpaper.com/cdn/shop/files/Flavor_Paper_Digital_Wallpaper_Installation_Instructions.pdf?v=16112786155747068264",
+        "type": "install_guide"
+      }
+    ],
+    "location": null,
+    "collection": null,
+    "variantGroup": "ladies",
+    "storedImagePath": null,
+    "color": "Goddess",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-16T06:07:17.776656Z",
+    "lastUpdated": "2025-06-16T06:07:17.776663Z",
+    "sourceRunId": "run-flavorpaper-020",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": null,
+      "pattern": {
+        "type": "Straight",
+        "repeatVertical": 84,
+        "repeatHorizontal": null,
+        "match": "Straight"
+      },
+      "application": null,
+      "performance": null,
+      "care": "Wipe Gently",
+      "fireRating": "ASTM E84 Class A"
+    },
+    "additionalData": {
+      "size": "12ft Panel",
+      "priceUnit": "per Panel",
+      "raw_text": "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"
+    }
+  }
+]

@@ -1,0 +1,1410 @@
+[
+  {
+    "id": "schumacher-acanthus-stripe-sisal-fog-chalk-wall-finishes",
+    "name": "Acanthus Stripe Sisal - Fog & Chalk - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This pattern is a stylized stripe based on a classic acanthus motif. Elegant and airy, the design is printed on a sisal ground, giving it subtlety and dimension.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5006052.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006052-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006052-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006052-3.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006052-4.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006052-5.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006052-6.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006052-7.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006052-8.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5006052",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Celerie Kemble",
+    "variantGroup": "acanthus-stripe-sisal-wall-finishes",
+    "color": [
+      "Fog",
+      "Chalk"
+    ],
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:24:59.667808Z",
+    "lastUpdated": "2025-07-02T12:24:59.667821Z",
+    "sourceRunId": "run-schumacher-001",
+    "specifications": {
+      "dimensions": {
+        "width": 29.5,
+        "length": 288,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 5,
+        "repeatHorizontal": 11.375,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-acanthus-stripe-sisal-chambray-wall-finishes",
+    "name": "Acanthus Stripe Sisal - Chambray - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This pattern is an elegant and airy stylized stripe based on a classic acanthus motif.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5006056.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006056-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006056-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006056-3.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5006056",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Shangri-La",
+    "variantGroup": "acanthus-stripe-sisal-wall-finishes",
+    "color": "Chambray",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:00.800047Z",
+    "lastUpdated": "2025-07-02T12:25:00.800058Z",
+    "sourceRunId": "run-schumacher-002",
+    "specifications": {
+      "dimensions": {
+        "width": 29.5,
+        "length": 288,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 5,
+        "repeatHorizontal": 11.375,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-acanthus-stripe-sisal-shadow-wall-finishes",
+    "name": "Acanthus Stripe Sisal - Shadow - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This pattern is a stylized stripe based on a classic acanthus motif. Elegant and airy, the design is printed on a sisal ground, giving it subtlety and dimension.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5006050.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006050-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006050-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006050-3.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006050-4.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5006050",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Celerie Kemble",
+    "variantGroup": "acanthus-stripe-sisal-wall-finishes",
+    "color": "Shadow",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:01.929912Z",
+    "lastUpdated": "2025-07-02T12:25:01.929930Z",
+    "sourceRunId": "run-schumacher-003",
+    "specifications": {
+      "dimensions": {
+        "width": 29.5,
+        "length": 288,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 5,
+        "repeatHorizontal": 11.375,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "H4sIAB0lZWgC/+2dC2/buLKA/wphnAPswbEdPf0osLhwHKfxNk58I2eL3u2ioCXa5kavklJS76L//Q4ly6Zj+VHHWUjdAg1qcSSSHzkkh0OK+qsSsiDklTd/VUI8JcPsgnMGv53YjsQVdSpvdFNttVptpVqhEfFuYm9MWOVNxVSUhmIqlWrFxhGZBmyePaBWKz72CNzzvnN9PewMe3dW5esysNPt3Iyu7i1kje76wx6y+lbnGqJxCLcZDSMa+HDXaEY5CnEUEeYj+IkRj+Yu/ZM48ANuI2iMOVwEPohsF3NObYRt7EezmCMviOikjnoumUIIwr6DMGXzKopmBEFCdJpEGjLqR1kknHLsoikLYt+poil9pP4U0QjxeBy5JJonsTjUIz6HLNYFeOAG7Calsq46F7fv00CX2ClFWh7NaoW78RRusolLGCW1B+KNXVJZFkm3d9276/fQu97g/LoH4W4QPJzD3z1zQTyLopC/OTvjeh17+M/Ax0+8bgfeGbdnsYftGWG1JwLlwUnEz5zgyXcD7PCz9WjR9e3tu3P4q4fOBNKgHtT7swRy4qtvpPqejP+tKV0cYTeY1hqKcmbdqs1mC34Z9T/CqajrJHJQqN/+qkCFeGMfU/cYmOThs4WuJZFD4WC2kfGDIpOj+Vo9Zc5q6onytojoxLnTTpU77TVyp58qd/pr5M44Ve4WbeP3tIvA44DhKGBSp7mtk5hQxqNFN9NNhRDqUcdxySI4yd/ypnfZk1MSjYJ3fvC08XQYsIhhGg1nQRQc0wl0JQZ+lqb4qSs6xOEi6kW52TGPAm+Io1nljR+7brUypsGU4XA2F4MBiiDfxMMPhKEHyKmPJgFDkDiCvtwJWBVBbiAk6cJDGLMgZxjSynpx7DxSm1TRAg2lOUlHDNG92zSEXp36maAPHT6jkOcq3LCIAwrYg2Sh34exAG4dYtdD5wRSQuN5khcYT+C/KhpQj6KBPcAP1K+jzgTighEDOzGOxGgxYYGHrjB7xAyGkEWKPLZtMWg6KArQ0wzDiAKDkI1dV+TxI2iDF8auGFMS9DRPHysJsRiubEawGE5QMIHrIJ7OokkskBYgEAhxfqyEcZTcHxLG4W7gSK5cbJM6RLfIDeERFB+FLKSx35An9CFgDxD7BAoySXWGOeIh8RfxQQUh1URzgiExO3Yj+pjiQglDXU8ClwYic15sz2phDLHbyTjNgMSBWChUgIgWQD3CbIqlzNdRFxrWg8jwMBCDPUoiSLInCj7RfSh+P1WZ5/X8Bo0CyH7M0EiokYDWFKVVFUU9JlCerhs8QVRQjedQEA9JPt7PwJB5gzpCo9A5jPB9H2o7eiLETyNQ1XpWXKIoxkJA/CmMaIl6eJBhkhSAjb0QQ23xpOZ+ARhGnqoQmf8H9uDOQRAw0M1fgpkvCD/GiqI1sstqkpmBMHHc5PlzzMaUCMOCz6Bcz2lQ9gZSUJ0TBgqg2+SeO1mnlFx38fL6cwyGI43mA+pTL/Y2gvGXvOC+D60VLMTouaDzCIORqJZM8IQZgcbMSTdwElP5yuppwprGjAGrewFGNQSDMmo1pV1TjZGivEn+JX0qY8S3E4t7YULeWxeJ8ZlEdv9fUDRDKNLcGweic//X0ig7jcW3bpGl1p4FfRpxEpsPKtx3oBPsC0EW/lflCxfjm+NLaU1WOUiSstNEzr7wZ2lw7+BnuffsWc85+FnPefbs7PBnZ84zE7MCz4QvKQNxU7iMVFx8a0nkxvBN5ZEbwzeVSk4MX4WVdkotWVrgR+nJ8umjNGX59FG6sjT5T6stEO2L9WUVx/Eas4rjeJ3J4ji91mgv0hrtRVqjvUhrtNfRGu0EWqOdQGu0E2iN9lpao79Ia/QXaY3+Iq3RX0dr9BNojX4CrdFPoDX6a2mN8SKtMV6kNcaLtMZ4Ha0xTqA1xgm0xjiB1hiZ1vwOJnwUMTqOo4UDdOHXwWOGxSzfJiyiMO9JJvV4OS9YOoOz+7ryfR3pPpgdxCSJOXEcabqi6i1VbywllQl2ubgz9mk0mofLSQf3sOv2l7OANDBxbK0HCgjKO4xhmGJELCaLqNO4KsJxf/O28g3xVVelwLzajNDpLFoRd2B2eZWF5dJpqr6iU+pK0dlqtpeHh7peLqGmwjSvWTbC2oThdKEjHxVdruT5zKqxxlx86J3EO3GFEjcbJcOl+aD97TVqGOXSYurvrtO+f4AWl6Jax9h+CJhDWM6QI2S3QrZ7mBGwTakjFhksJqyNHT4jJMphBZElRHtHVENpl2JEtTGTl5LTq1yiptw6f+107+8H6Pbm+gN63x9dIev2coTO7+6tq4Jy7rGb7G+yl5pNsxy1O8F5rBO8v6nqejkIVxsmVlosh+XVX1trS/bSxv6JYmIGbI0wucyFMxRlBfeWkflLkKprUetNqVe7wOwBvTT+1yyy2I/YvBZMahPqUz6Tiy8RiSWgy0yUU5SGulaU9zf9Ue8CWaPOqGeh20vUGYDedDuFxw8YnVI/F/82E+XjN7Ty4j+CsTIla3Op7iJw+0zKaBtSz27WjVYD8c/IKzxkjiEq0e4zQwFbGtxNpCvGWUMzy4BO84j7O0Clnt9s1xXBOIkKD7mrfvdPMwC7LWOjIlOn2waINNxdrELy+ilDaZjlGs4d6HUj7HrEC3Lss4V0ANID7DSjDFMqhzKwyPiMhrm8QmiBcD+uWQ5HpcPwE/WnNT/d8LzS5DQc3WThufrcaKgrytYXVanVhle17rtau33WQh8uatbwdtS9HxWUfU4iEcsKep5Gm0/bgIpd0daLyUQ4gTkFq62D9awkFO2iM1TJhDzvdN9d3N0Oiw0Zg2yD8T4JzB9cTAkx2xv09PRUF54hhwXhLPBIsv4Rpi8H8LNsr30t3Y5fS7bP1/gMO8HT2f/EkfeJBzGzyc+rBZR0/5sQecShsfdzsiXLx+4nRiYrYbar7ufAnwbQ1CRJAA/40c9fNEUzi1kDExcKvRYRLq1vXIowNErD8lSs1dCkBtSxRgPUaxmoe92xLFRQ83wCl7UQ+wQqnUS1J+pEszVT/RJuQENxA7JIhN6LG3aY7Q1NGgabZl3pDkoFnmPebSmBvaZeQ9XkoihVQdB9/P0d2JINqLXr5sdKqcAP1YADjP2G2pSLAqlnWlELY0rArMcRcSKxV1d41lf4S9lIkm1Z/iyHszJ9PWxF+Da7zunWTa0tO9vurk1FMZqa8unDRTHhZgGjf8IQC+M4IyHBUk1eLUXoLhNtmaZKFamqSD9rfaygn7R2d/CfklCvjWIb4DvW8LVWa60DK+wQloec03vlse9dDtXabbkQylMEh/DvXuI3DVVTSq/9dGcJ7PLLNWT2ut4s7ACeB31Q/R/kp2ttqkAxiyGbfgW+Ow9hrjbDnOQ4d7LbbuG24eK2PeurpmkYWikGdOo/wowyYPNc8IXsAB+eWQYfHuXjIHiQAPl5ep1fhS2lHFUYEW/DTdeHwJ0+ukZDV+SFhOVxBkUlTKYZzwDfL8K2TCL0zUkE+klMKP9TdM6c3ngFvGcYbutt2R9ZNnLqhYRR7OaS91fCLXXeKsccOgd4d51n5AfMnRtlmTtLheCRiFE7l3yQibb4zfRy+M02YHfXd0q9v7a1UvjKHsj8KWCS4+DdMiCvB2uYmjSLGt4O7687d2jYGY16dzdWMRHddIc05pFPOF+RXqebo1fhufW4totWVRR0dXt/V1BSD0e2NBIPFpe5FdmUFwIh0U7/7VVBV/2SQ5MkrMVlHlZTlW0LK1kBKibUti3Pwf7tzgLTKMV25zDw0mMKOHYJT9CygwdWxGGwOMvAEjcl273/d3VTLr7ZltZkiorOIxzFXOa0spBcqIbZKjwUIzVxBAaRBowhhA2zsHywpjQU3hSWDDoLbw1rEbCFySgBE7Xz/CZJ+AGug3Lsh0lonNp4LtedCELnW/uPpuwW+dC5uygqWrKnobY8yFAiTCSou5Lkg8reLnHqYff2157IUEEtmB3evvAwD1+71VLL4R76HAdRHmgSvr95auXwY6Z+bOpP8rYjpsI+CA/YnlcKi4cRTtgjyWVNJAf0u60ygHLshW4eZyrY20rbjRJh7npHMb3j/PA3FQ21POA8DsWxZrK9lwosSbAFsxTtlYvzIlZw1uIyT2Xba13QINkpWGCoWoSn/BkZGqVh+XhNpSR4YmH0+VkNllgG3XVYgwA0S/ASuES3tuFDAtx1XIPsZy8JY46/dR12/6vusleyuK+6y9i7mfcsJLU12XtXDmC6BXXXoQ1KyXQ5d7fGOuwButwqRdUG7vqk24KA7VPudlt2JxR3ys1DIg5lrS2PSpIAUxHqSKJ81IbUGw2wQ8RhtFc42Y65B3nv+acxrxHMo5r67CTUReaWeeNng08i6fO5SLjOH5dHhb9KYhfPE1t7uxuKRD6e4z2FIsl2CPydBSISTtL9G8pjPa3X1NgosB/WXx6yRND2N4egOuQdNAV9ZUh8VmONab7dMm/L6wFd8TKOB7MTzAp6fgCPxzwS+88lPCkoZ1hQFEV+9yL5dkkx2Za77XOmykvZAU6Qcni31tvd1iYH9afKiyDD9PsxxMmOXu95Y+IuTiJ/y6DHsd0gmvFiQj8Scb67cOnZawt5abjw5nW3rd1BQWhy1V4GLEID6rqFJ00PtsiFXYryeRuS4XMPjFDFYiGQFL52XeoTNY/4eiHYwitZP5d1ZC0H00zZu0G9DOjaNnRtG7ouq7babjTQ+zq6AsP/Cc+R2lDKQK1vo9a3Ust+IysGBUfQgRedNVmfd5PvEuQADxNpN5XmU7fX3oRrKq2iEzMyXZuXrmjvMkkuqSFPw61u0TEXv5w80F/TX842VFMepLVWQxzwWlReFlE754W4XxeC3a/DaWvnJZpiE7KqF3YT8jPYNbfoM94drlFdk9y/ql7cDambuDlepU3uvZ4lXT7WVlR3OfD3s+8GV/RWu1FeZac7wLf6TrW1tQ6zrhR1p/km7QH1vd+LCvzGWpUXk36OmcNrIWE1FrjSixUfRDgagsl8l4bnbk02Nfksn6L6x9cZ1/rudcwdZ3CY8uurTV2tm1pRe68N3Bx93uDe+zaBuXYIia4iVT/TzJKUwd4C2NN/t9dem2oVdknkGTbdDrz9ZWVz7SWhVqu4PfcG7f56PuAtZVNtr/EXix7iY8QVB4csNmDyZf5XX6NeTpWkLy+L76lKAQd+mHrLd633fSIw/zMf/4wXDk69f7S4qN/hiS8Q3/IDyXnLckd/mTtptNDriFMiF7kbdKxR7+6TJQ70tJbLlYtWLNlVl/3r/tu7Xk9qx3LQ8S1ZPbolf2PNy29ELWpebRT2rJ8f3dT30E2dvCWrR7Zkea3p9u1yBeKqc/1ObtE5ouNbtnZ0y/4HDV//iHb+jT21Ymz01Mp3P0Zrx7XslmTPWL3O2+RI0i3Ne6v8+Dau/7DDf9jhR1ljm21cbX7vbVw/cvSWdH10f5d8FERq1nLQ8S3Z+Lvs8Nbzmm+ohvrDDv/RTZWpJRtHtmRJ9686/yfPprPL41uw+cPePv0wZW4OU60fndV30ILNI1uw/B2cq87g/K7zQWrFctDxLbnxoyWfflLZ2pxU/nD/fQ8tuXFwS05QLvFjwKDRVd4kG+qr4mOdWX7h54hh+4H606xJpoIggvQXi11iBx3zkqSyeqtATKuzG/oQ/hukFWLKICaeXlF+FfBQfHZK7ApPE4cnP326+WRZb9Oy/SoemoqcLz9kv/ygy2+rjuJ3oP0ck0Xfkrc6BhGNY+o6fUd8YGY8eArH3uXdxGz8Evf8zmdu/FFJy8J1xUv9y7KgvPdFnOPoET/Z+OmF1F2VlDMHNaR23xFIjYbe1KvQX+h6td1SmiYwTnmYKQm3GQ2j6wA7ImO//f71/wFeD1SY0pYAAA=="
+    }
+  },
+  {
+    "id": "schumacher-acanthus-stripe-sisal-seaglass-chalk-wall-finishes",
+    "name": "Acanthus Stripe Sisal - Seaglass & Chalk - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This pattern is a stylized stripe based on a classic acanthus motif. Elegant and airy, the design is printed on a sisal ground, giving it subtlety and dimension.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5006053.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006053-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006053-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006053-3.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5006053",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Celerie Kemble",
+    "variantGroup": "acanthus-stripe-sisal-wall-finishes",
+    "color": [
+      "Seaglass",
+      "Chalk"
+    ],
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:03.039260Z",
+    "lastUpdated": "2025-07-02T12:25:03.039275Z",
+    "sourceRunId": "run-schumacher-004",
+    "specifications": {
+      "dimensions": {
+        "width": 29.5,
+        "length": 288,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 5,
+        "repeatHorizontal": 11.375,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-acanthus-stripe-sisal-filigree-wall-finishes",
+    "name": "Acanthus Stripe Sisal - Filigree - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This pattern is a stylized stripe based on a classic acanthus motif. Elegant and airy, the design is printed on a sisal ground, giving it subtlety and dimension.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5006051.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006051-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006051-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006051-3.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006051-4.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5006051",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Celerie Kemble",
+    "variantGroup": "acanthus-stripe-sisal-wall-finishes",
+    "color": "Filigree",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:04.163040Z",
+    "lastUpdated": "2025-07-02T12:25:04.163051Z",
+    "sourceRunId": "run-schumacher-005",
+    "specifications": {
+      "dimensions": {
+        "width": 29.5,
+        "length": 288,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 5.062,
+        "repeatHorizontal": 11.375,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "H4sIACAlZWgC/+2di2/bNrfA/xXCuB/wfbiRo7ftAsOF4zqN1zjJjZwVvetQ0BJtc9GrpJTUG/a/30PJsulYfjRxBqkrsGIRj0zyRx4eHj71ZyNmUcwbb/5sxHhKbooHzhn87aVuIp6o13hjWFq73e5oJw2akOAqDcaENd40LFW1VUtrnDRcnJBpxObFD+DNEAcE3vnQvby86d70b53GX8vAbq97Nbq4c5Azuh3c9JEzcLqXEI1HuMtonNAohLdGM8pRjJOEsBDBnxjxZO7TP4gHf8BrBI0xh4coBJHrY86pi7CLw2SWchRECZ00Ud8nUwhBOPQQpmx+gpIZQZAQnWaRxoyGSREJpxz7aMqiNPRO0JQ+0HCKaIJ4Ok58ksyzWDwakJBDFpsCPPIjdpVTnQ8uB+9u+/082CduzpGXSOukwf10Cq+5xCeMEuWeBGOfNJaF0utf9m8HffS+Pzy7FJH4UXR/Bv/umA/iWZLE/M3pKTeaOMB/RCF+5E03Ck65O0sD7M4IUx4JlAgnCT/1osfQj7DHT9ejRZfX1+/P4F8z9iaQBg2g5p8kUBJfcyPVD2T8L13t4QT70VSxVfXUudZarTb8ZTZ/j6eitrPIQaV+/bMBVRKMQ0z958BkPz5daFsWORQOZhsZPygyOZq/To6ZM+VYeVNeJXf6sXKnv0bujGPlzniN3JnHyt2ibfyWmwg8jhhOIiaZzW1GYkIZTxaGppcLITSgnueTRXCWv+VL74tfTkkyit6H0ePGr+OIJQzT5GYWJdFzjEBPYuCneYqfe8Ik3iyiXpSbm/IkCm5wMmu8CVPfP2mMaTRlOJ7NRXeAEsg3CfA9YegechqiScQQJI7AmnsRO0GQGwjJjHgMvRbkDENahR3H3gN1yQlaoKE8J3mfIQy8S2Ow6zQsBAMw+YxCnk/ghUUcUMABJAuWH3oDePUG+wE6I5ASGs+zvECPAv87QUMaUDR0h/iehk3UnUBc0GdgL8WJ6C8mLArQBWYPmEEnskiRp64ruk0PJRF6nGHoU6AbcrHvizx+Am0I4tQXvUqGnufpUyMjFh2WywgW3QmKJvAcpdNZMkkF0gIEAiHOT404TbL3Y8I4vA0c2ZOPXdKE6Ba5ITyB4qOQhTz2K/KIPkbsHmKfQEFmqc4wRzwm4SI+qCCkWWhOMCTmpn5CH3JcKGGo60nk00hkLkjdmRKnELub9dQMSDyIhUIFiGgBNCDMpVjKfBP1oGHdiwzfRKK7R1kEWfZEwWe6D8Uf5irztJ7foFEE2U8ZGgk1EtC6qrZPRFGPCZSn70ePEBVU4xkUxH2Wjw8zcGXeoK7QKHQGffwghNpOHgkJ8wg0rVkUlyiKsRCQcAo9WqYeAWSYZAXg4iDGUFs8q7mfAYaRxxOILPwdB/DmMIoY6ObP0SwUhJ9SVdXt4vEky8xQODl+9vszzMaUCNeCz6Bcz2hU9wZSUZ0TDgqgu+SOe4VRyp57ePn8JQXXkSbzIQ1pkAYbwfhrWfAghNYKPmLyVNB9gM5IVEsheMSMQGPmpBd5mbN84fR1FeoeMwas/ltwqyEYlFFX1I6imSNVfZP9l9lUxkjoZj73woW8c95mzmcW2d1/g6KZQpHmwTgSxv2/lk7ZcTy+dY8s9/YcsGnEy3w+qPDQAyM4EIIi/M/GVy76Ny+U0pqscpAl5eaJnH7lT9LgwcG/5cGT3wbewb8NvCe/nR3+25n3xMVswG/il5SBeCleRioevrUkSmP4pvIojeGbSqUkhr+El3ZMLVFepCfKizRFeZGuKK+jLcoR9EU5gsYoR9AZ5dW0Rn+R1ugv0hr9RVqjv47W6EfQGv0IWqMfQWv019Ia40VaY7xIa4wXaY3xOlpjHEFrjCNojXEErTFeS2vMF2mN+SKtMV+kNebraI15BK0xj6A15hG0xiy05jdw4ZOE0XGaLCZAF/M6eMywGOW7hCUUxj3ZoB4vxwXLyeDivZ78Xld6D0YHKcliziaOdEPVjLZm2EtJY4J9Lt5MQ5qM5vFy0MED7PuD5SggD8wmttYDBQTlXcYwDDESlpJF1HlcDTF1f/Wu8Q3xnaxKgQXKjNDpLFkRd2F0eVGEldLpmrGiU5tq1dkUNyjDQ72glFDXYJjXqhuhMmE4X+goR0XnK3k5s2auMVcfeifxTlyhxC27Zri0HHSwvUZNs15aTMPddToID9DiWlTrGLv3EfMIK+lyhOxayHZ3MwK2JRlikcFqwrrY4zNCkhJWEDlCtLdHNdVOLXpUFzN5KTl/KiVqya3zl27v7m6Irq8uP6IPg9EFcq7PR+js9s65qCjnHr/J/SZ/qdWy6lG7E1zGOsH7m6ph1INwtWFipcVyWFn9dfSO5C9t7J+oJmbE1gizx1I401BXcO8i36sqUhombK5EE2VCQ8pnMl4mEks054WoBNXUTFVCvbsajPpvkTPqjvoOuj5H3SHUa69befyI0SkNS/GvC1E5vq3XF/8BnIkpWRvr9BaB20c6ZseULK/VNNs24l9QUHnIEkdRot3nJgK21PlayFDNU1u36oBOy4gHO0Aly2x1mqpgnCSVh9xVv/uHAYDdkbFRlanzZX0idUdvVyFldspUbate3a0HVjfBfkCCqMR/WkiHID3AjzLrMOTxKAOPic9oXMorhA4I9+Na9ZhI9Bh+pOFUCfMtyStNzsPRVRFeqs+2LVVq+6umKjcXSu+90umcttHHt4pzcz3q3Y0qij4niYhlxTzPoy2HtaFeV7DNajIRTsDlZ8o6WN/JQtEuOlOTPMizbu/929vrm2pDpiDbYLzLAsv7FkvS1mLrzuPjY1NM3HgsimdRQLLliTjfvc9Pi83wSr5fXsn2t4Ob7tMpI+T0f9Ik+MyjlLnkp9UKR75BTYgC4tE0+CnbMxVi/zMjk5Ww2Pb2UxROI2hrkiSCH4TJT191VbeqWQcTH4pdSQiXFiDORRga5WFlSta2dakJdZ3REPXbJupddh0HVdQ/n8CjEuOQ+AonifJIvWS25qufwwvoRryAHJKgD+KFHX67rUtK2LKaam9YK/AS/25LCez19WxNl4uiVgVB9/EPdmBLTqDeaVqfGrUCP1QDDvD2ba0lFwXSTvWqFsaUgF+PE+IlYjOtmPpe4S9lI0m2ZX2yHrOJ+QmuFeG74rnErFt6R15Xvr20VNVsafbnj2+rCTeLGP0DuljoyRmJCZZq8mIpQreFaMs4VULWNGSctj810L/1Tm/4n5pQr/ViG+A7Ftn1dnvNgFW2CytDLrFeZex71yv1TkcuhPoUwSH8u9fgLVPT1dprP91ZArsm5myZvWm0KtuBl0EfVP8HTdS1N1WgmsVQDL+i0J/HMFabYU5KZneK167htZvFa3sWQC3LNPVadOg0fIARZcTmpeAL2QGTeFYdJvEoH0fRvQTIz/Ln8ipsq/WowoQEG/N0AwjcOUln24YqtdTVjQNVJcyGGU8APyzCtgwijM1BBPq3GFD+p+qcJdZ4BbynG+4YHXlGsm7kNIgJo9gvJR+shFvqvF2PMXQJ8O46L8gPGDvbdRk7S4UQkIRRt5R8WIi2zJsZ9Zg324DdXd859f7a1msxV+bn+3sxT0LC+Qr4Mt/auwovhVzbA6qpKrq4vrt1qkka4MSVuqnh4rHMTtstW1txQaLdwbuLii6KZZf+SFiLxzKsliZ3vE62QFJNqG0bdqP9m3UFplmLzbpxFOSH7Dn2Cc/QimPzK+I4WpzEd8RL2Wbl/129VIpvdaQFi6qi8wQnKZc5nSKkFMq22pWHYkQRFzgQaRr2BsJuirBysJbUT1xVlgyMRbCGtQjYwmTWgIm6ZZMKWfgB4+p67BbJaDxlPJfrTgShs632oyXPGXzs3r6tKlq25K8sL+KTCDMJ6q0k5aDyVJC4ta93/UtfZKiiHsyOqbD4sOmvTrut1WPu5EsaJWWgWfj+5qnXY5Ivn+Sl4aRss14uHIDwgM1rtfB4GOGEPZBS1kxygN1t1wGU4yD2yzhzwd5W2rFrhLnrhF3+xtnh5+xMrT7gPI3FpVyyv5cLHEmwBbMW7ZWL2w5WcM7isUxlO2smaJhto6swlJLgKX9ChkZ5WDleS60Jnlg1fHrTgCPWCHddNSAArRocYZbo1nZDSIC7LhuQJ6FrwlgyGbkOu/+gtt6pw0FtGXs3855Vlo4uz97VA5huQd115YBaM10u3cqwDnuALrdrUbWRvz7odiBg+5C705GnE6o75OYxEVeKKsuLfiTAXIS6kqgc1Zas0RB7RFyleoHDA8767r29M+UKwTxRtCf3eC4yt8wbPx1+FkmfzUXCTf6wvOj6VRJ7+zQxUaRykciXS3ygUCTF8vnfWSAi4Szdv6E81tN6TY1NIvd+/WyNI4K2H6yB6pC3l1T0RI34LMQa03y7Z96R1wN64qRKAKMTnM2LVREtHfNEbM6W8KSgkm5BVVX5YEL27Y1qsi23opcMlZeyAyZB6jG7td7utjY5qD9NXgS5yb9/Qrzi4vB+MCb+4h7tdwwsjutHyYxXE/qBiNvJxZSeu7aQl4eL2bzetrU7KAhdrtrziCVoSH2/8qT5tQ+lsEtROa8tOT53wAhVLBYCSeVr16ch0cqILxeCLbyS93PeRM6yMy2UvRc164Cub0PXt6EbsmprHdtGH5roAhz/RzxHmq3WgdrYRm1spZbnjZwUFByBAa86a7Y+72e36pcA32TSXi4tp+6sHRNrqe2qEzMyXRuXrmhvC0kpqSkPw51e1TEXf3lloL/kf3nbUC25k9bbtrietKq8LKFuyWmxXxaCfWfFLE2+s0Y71WyxTVczKrtN9wnx2tzoE+gd86OGLs0Ba0Z1t2xu4pZMLW1y751eMuSbWUV11wN/P/tucNVod9SaazzdQb/jbJi8amU1VbuyW7I3eQ+o9kOOhVn6Zs1XswjmmHlciQlTWORLxxA+inB0Az70bR5eCmrpklFvV3XCfJ1xzY6vY+64scKSD3u2DK1p6VW1ZBu4JUq9wb1Xp621KzsMDWnGqW7VpAz2FsAeW95ZO2TUruwayRNsuh14u/m21o7UtAG2Hrar3HpvYO9XdK2zxl8teoiPEV9cs7HYkcmX+V98XlkeO110315/KL4vvBZw4JeWSz7ULFR/3xfvyr9a8c84gXDsDaXVRf3G+1FanY37UXS1YvejQHzL7/2WrdN980d/1cXHcrJGC1ZHXKq4yN2w64z6t58dcf+ls1y/XH0kfTmlufZB8Kwdy0HPb8nas1vyd30zzg8z9T2YqaO3ZO2ZLVlefLp+t1ySuOhevpdbdIno+S1bf3bL/gd1X/+Idv6Nllo1Nyy1+t330frzWnZb8mecfvdddoHnlua9Vf78Nm788MN/+OHP8sY227jW+t7buPHM3lvS9dHdbfYNDalZy0HPb8nm3+WHt5/WvK2Z2g8//IeZqlNLNp/ZkiXdv+j+nzyaLh6f34KtH/728bspa7Obav8wVt9BC7ae2YLlz8ZcdIdnt92PUiuWg57fku0fLfn4g8r25qDyx/Tf99CS7YNbcoZyjh8iBo2u8SbbYX8ivj1Z5Bf+HDHs3tNwWjTJXBAlkP5isUtsqWNBllRRbw2IaXWZwwDCf4W0YkwZxMTzJ8ovIh6LrzSJbeJ54vDLz5+vPjvOu7xs/xI/moqcL7/LvvwAyq8rQ/Eb0H5JycK2lM2pQ0TjlPreQHwAvj8ePsbj4Px2Ytk/p/2w+4WbvzfysvB9ccp/WRaU97+KWw8DEmY7QYOY+quS8uaghtQdeALJto2WcQL2wjBOOm21ZQHjlMeFknCX0Ti5jLAnMvbrb3/9P/E79G6jlQAA"
+    }
+  },
+  {
+    "id": "schumacher-acanthus-stripe-sisal-haze-wall-finishes",
+    "name": "Acanthus Stripe Sisal - Haze - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This pattern is an elegant and airy stylized stripe based on a classic acanthus motif.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5006055.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006055-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006055-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006055-3.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006055-4.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006055-5.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5006055",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Shangri-La",
+    "variantGroup": "acanthus-stripe-sisal-wall-finishes",
+    "color": "Haze",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:05.286679Z",
+    "lastUpdated": "2025-07-02T12:25:05.286692Z",
+    "sourceRunId": "run-schumacher-006",
+    "specifications": {
+      "dimensions": {
+        "width": 29.5,
+        "length": 288,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 5,
+        "repeatHorizontal": 11.375,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-acanthus-stripe-sisal-turmeric-wall-finishes",
+    "name": "Acanthus Stripe Sisal - Turmeric - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This pattern is a stylized stripe based on a classic acanthus motif. Elegant and airy, the design is printed on a sisal ground, giving it subtlety and dimension.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5006054.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006054-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006054-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5006054-3.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5006054",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Celerie Kemble",
+    "variantGroup": "acanthus-stripe-sisal-wall-finishes",
+    "color": "Turmeric",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:06.434703Z",
+    "lastUpdated": "2025-07-02T12:25:06.434718Z",
+    "sourceRunId": "run-schumacher-007",
+    "specifications": {
+      "dimensions": {
+        "width": 29.5,
+        "length": 288,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 5,
+        "repeatHorizontal": 11.375,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-cloud-toile-mineral-wall-finishes",
+    "name": "Cloud Toile - Mineral - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "A sumptuous take on a design that debuted in the 1970s, this wide-width, screenprinted cloud pattern has unique depth and an ethereal, mural-like effect. Also a fabric.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5009132.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5009132-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5009132-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5009132-3.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5009132-4.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5009132",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Modern Glamour",
+    "variantGroup": "cloud-toile-wall-finishes",
+    "color": "Mineral",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:07.568704Z",
+    "lastUpdated": "2025-07-02T12:25:07.568716Z",
+    "sourceRunId": "run-schumacher-008",
+    "specifications": {
+      "dimensions": {
+        "width": 50,
+        "length": 180,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 38.25,
+        "repeatHorizontal": 50,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Washable"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-cloud-toile-quartz-wall-finishes",
+    "name": "Cloud Toile - Quartz - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "A sumptuous take on a design that debuted in the 1970s, this wide-width, screenprinted cloud pattern has unique depth and an ethereal, mural-like effect. Also a fabric.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5009131.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5009131-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5009131-2.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5009131",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Modern Glamour",
+    "variantGroup": "cloud-toile-wall-finishes",
+    "color": "Quartz",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:08.710832Z",
+    "lastUpdated": "2025-07-02T12:25:08.710850Z",
+    "sourceRunId": "run-schumacher-009",
+    "specifications": {
+      "dimensions": {
+        "width": 50,
+        "length": 180,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 38.25,
+        "repeatHorizontal": 50,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Washable"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-cloud-toile-gold-wall-finishes",
+    "name": "Cloud Toile - Gold - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "A sumptuous take on a design that debuted in the 1970s, this wide-width, screenprinted cloud pattern has unique depth and an ethereal, mural-like effect. Also a fabric.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5009130.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5009130-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5009130-2.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5009130",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Modern Glamour",
+    "variantGroup": "cloud-toile-wall-finishes",
+    "color": "Gold",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:09.861570Z",
+    "lastUpdated": "2025-07-02T12:25:09.861581Z",
+    "sourceRunId": "run-schumacher-010",
+    "specifications": {
+      "dimensions": {
+        "width": 50,
+        "length": 180,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 38.25,
+        "repeatHorizontal": 50,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Washable"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-romantic-bosphorus-multicolor-wall-finishes",
+    "name": "Romantic Bosphorus - Multicolor - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This multicolor design was painted in our studio after a lithograph printed in the 1850s by the Maltese artist Jean-Giovanni Schranz. We decided to make a full “verdure” out of it, omitting characters and simplifying buildings to create a much greener and sparer Bosphorus than that of the time, emphasizing the stunning nature and topography. Available in 5 heights. Designed by Iksel, and distributed exclusively by Schumacher in US and Canada.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/IK6500.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6500-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6500-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6500-3.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6500-4.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6500-5.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/IK6500",
+    "material": "Available In Vinyl & Non-Woven",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United Kingdom",
+    "collection": "Iksel",
+    "variantGroup": "romantic-bosphorus-wall-finishes",
+    "color": "Multicolor",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:10.978173Z",
+    "lastUpdated": "2025-07-02T12:25:10.978199Z",
+    "sourceRunId": "run-schumacher-011",
+    "specifications": {
+      "dimensions": {
+        "width": 35.375,
+        "length": null,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Available in vinyl & non-woven",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 5,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [],
+      "care": "Scrubbable"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-romantic-bosphorus-sepia-tones-wall-finishes",
+    "name": "Romantic Bosphorus - Sepia Tones - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This design in sepia-tones was painted in our studio after a lithograph printed in the 1850s by the Maltese artist Jean-Giovanni Schranz. We decided to make a full “verdure” out of it, omitting characters and simplifying buildings to create a much greener and sparer Bosphorus than that of the time, emphasizing the stunning nature and topography. Available in 5 heights. Designed by Iksel, and distributed exclusively by Schumacher in US and Canada.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/IK6501.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6501-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6501-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6501-3.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/IK6501",
+    "material": "Available In Vinyl & Non-Woven",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United Kingdom",
+    "collection": "Iksel",
+    "variantGroup": "romantic-bosphorus-wall-finishes",
+    "color": "Sepia Tones",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:12.149272Z",
+    "lastUpdated": "2025-07-02T12:25:12.149283Z",
+    "sourceRunId": "run-schumacher-012",
+    "specifications": {
+      "dimensions": {
+        "width": 35.375,
+        "length": null,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Available in vinyl & non-woven",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 5,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [],
+      "care": "Scrubbable"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-romantic-bosphorus-grey-tones-wall-finishes",
+    "name": "Romantic Bosphorus - Grey Tones - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This design in grey-tones was painted in our studio after a lithograph printed in the 1850s by the Maltese artist Jean-Giovanni Schranz. We decided to make a full “verdure” out of it, omitting characters and simplifying buildings to create a much greener and sparer Bosphorus than that of the time, emphasizing the stunning nature and topography. Available in 5 heights. Designed by Iksel, and distributed exclusively by Schumacher in US and Canada.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/IK6502.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6502-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6502-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/IK6502-3.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/IK6502",
+    "material": null,
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United Kingdom",
+    "collection": "Iksel",
+    "variantGroup": "romantic-bosphorus-wall-finishes",
+    "color": "Grey Tones",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:13.299756Z",
+    "lastUpdated": "2025-07-02T12:25:13.299767Z",
+    "sourceRunId": "run-schumacher-013",
+    "specifications": {
+      "dimensions": {
+        "width": 35.375,
+        "length": null,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 5,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [],
+      "care": null
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-twiggy-sisal-fog-wall-finishes",
+    "name": "Twiggy Sisal - Fog - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This delicate yet graphic design from our archives, first introduced in the 1970s, brings the outdoors inside with beautiful flowering branches silhouetted against a solid ground.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5008291.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008291-1.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5008291",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Shangri-La",
+    "variantGroup": "twiggy-sisal-wall-finishes",
+    "color": "Fog",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:14.459994Z",
+    "lastUpdated": "2025-07-02T12:25:14.460002Z",
+    "sourceRunId": "run-schumacher-014",
+    "specifications": {
+      "dimensions": {
+        "width": 34,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 37.125,
+        "repeatHorizontal": 32.5,
+        "match": "Half Drop"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "H4sIAColZWgC/+2dC2/bOBKA/wph3AF3uMiWZEm2CxQHx3ES3yZxznJaFN1FQEu0zateJamk3qL//UjJDyqmH02zC6kbIAEsjkTpI2fI4ZCUvtYSEie09uZrLYEzdLs6oJTw337qMXGE/dqbpm04luG0TmqYofAmDSeI1N7UbF1vmx2jdlLzIEOzmCxWFxgntQiGiJ/zvnt1ddu97Y/c2rd14vj94OLiA3AHbveKX+0j6hGcMBxHQjjHFPgowCJTsEAMzAhM5tjjiRTPIjAlcQjilABIvDl+QPQETDGhDOCIZc+NfP4TsDkCRqelc/GE4GhGs5Q4ZX4cE8rPoNhH4BGzOZggmDI8TQMwDeJHJM7m18DImyMKKA7mcYoY49nCGeTXMQABjQPs8yeL08ivixKIg5jc5Hjnw4s8JUBeDpWXCi/CkxoN0hk/h85hNCM4gLV1qbiX3ZuL0UC76vK0II4/nfL/OxJw0ZyxhL5pNGizDkP4exzBR1r34rBBvXkaQv6cRHtEE0gpYrThx49REEOfNjZZgqvh8JdT/l9P/CnPH4e8yp9krsirvnXH92jyd1PvQQaDeKY5ut7gauDotlP/XzITdZzlzBXp49ca4xlOIoiD51BkFzeWOpZlzksFkq2nPiozOZtvJy/5ZNpLPdsyo2+/5aoDJzGBLOZ2FqVBcMJtFXvojvqF4x5cH39OYcQwW1zjCIdpuJUMv6iSB5FHUIgi9lTQfeCFAycBWgkeIUHcDijqxX5m2Jdu39Q5NyQEP8DgjFsrTzZ1w9H0jqbbY11/k/0JW0gJQZGXtQ9Lbb9zzzIjyTK7+5eumxY/potwEosi/NtalV5MSSU9ynXU9WCA/ExTKYORD4k/EIJV+tfaF67HNc+PpHtNN0+Q3crLb9L4Qp/cg4ZHX0vDJ9eG/tHXhv6Ta+fHXzv3nxhGjV+T/EgZiJOSdabi4HtLQpnDd5WHMofvKhVFDt9Eq/GSWqL9kJ5oP6Qp2g/pivbHaIv2AvqivYDGaC+gM9paa3hrDhkjeJKyZae4dAAgdzAodw48RLjrIZwdfgDXre7aK1id15PP60rn8bY3RVnOmedlNnWj2TaazlpSm8KAijPTCLPxIlk36TSEQTBYt7F5YtaNFRMFBKZdQiBvwBlJ0TLrPK+aOx4Nbi5q35HfyaYUSKjNEZ7N2Ya4S0JwuUpT0plGc0On1/Wys2leqMIDvVBJaBq6YbaqRqhNCczdXTUqON/I1cyGVWAuP/Re4r24QolbTsVwsRp0sLtGLataWoyj/XU6iI7Q4kpU6wR6n2LiI6LocoRsKGT7uxkB25IaYvGA5YT1+Fh4jhBTsHKRK0QHe1RL71SiR/X4OG2D18uPlEQt2TrfdXt3d9dgeHP1AbwfjC+BOzwfg9PRnXtZUs4DfpP3Xf5Sq2VXo3anUMU6hYdNtdmsBuEmbLbRYjlNVX8d09Y3dIVAWjkRY1Kgyw6VYM2WsQG7QSkjMPgRqpNi7h3JzRzDNEEvl7fVlEzqKus+X+D5/8haSSNGFlo81aY4wnQu11AmAvEUnK9EitqyDEuX1PDuZjDunwF33B33XTA8B93r/mjQ65YePyZ4hiMl/nAlUuM7ZnXxH7gvNEOFoVpvmbh7oGZ1HMktaNYNywb0MwhLD6nwcyXaQ14ux25L2MA0W1bDsB2zEvRYBT3YzdqW/KSmVdcF45SVHnJfFR8eyHBsW8YGZab2eavEYBCiMFa4R0vpNZce4SZZVRjR+Jhwh4jOcaLkFUKXCw/j2tWIE/oEPuJopkX53PMa9SxPBzerdFW/5JhNqZFufzF0zTDMBmh/OHO125KObxBF3OklGlskUtX23SwVjPNUJa1lSE7Iabf3y9loeFtuyJQE24x3WaJKbW3LkLqf1dTg4+NjXYQufBIn8zhEWYA+yVcy0AZ7xLPZQqOYwkCbxrPGv1MW3tM4JR56u4nq/5rquukIUYh8nIZvccQQiWBwT9B0I/RgmEA8i97G0SzmCihJYn5BxN5+MXXTLmepTwNe0BpDVAq6n4s0MM7TVGrVdkzJueu642vQb1ugd9V1XVBSp27KD7UERijQKGLaI/bZvODgnfMTwK04AbiIgffihD3OXrsldQ5tp673risFrvAIdpTAQe+gLbv6badSBYEP8Q/2YD/xBX+tVQr8WA04wj9sOwX/sKwFMUMRd3kZ8hmCJIsCb9DXsrEk2zEfV43oWb4gbUN4sTpWNOm22dElbR5d2bputXT9/sNZOeHmMcG/8+6Vd+AEJQhKNXm5FoHRSrTDc5DiaU0TGA3z1xr4R7vZu/5nRagLPdgW+J7uy2jKbXazvN2XClnRcqnYDzZbhQGeqPaqFMEx/PvnnG2rabcrr/14bwns7Lq55Tdl9rpd1h5LhXxU7R/utG1Lnp1eKUA5i2E18IqjYJHwUdocUqQIdqxOG/LTbpenHZjus23LMivRnePogY8lY7JQgi9lR8S07CrEtDCdxPEnCZCe5sfqKmzr1ahChsKtsNWAJ+6NWbWMwvTZZqdFWQmzAcYTwPfLtB3Dh2Zx+MC7Iae03dCGUdESb2APdMCdZkeep64SNQ4TRDAMlNSDjXBH3MSsxqhZAby/vlfkh0fL8jx+eUfLUgGEiBHsKamvV6Idlt2pRpRsC3Z/XefUR8RF2lWIjIWQeVKDfb08VLVaTmGl2GX36hyUd0ohjBmeSlzLQyVXYfL+PIgJN+Q8kg9OYwYj7HG/opyYu9ZuxofXbRod4V1UwSOM2Vz2mobLQzVSS1rK1P/CCBRmW1KwJA7zbXoUBohmdbbaeLfBTeLlXj5XnJQtyP3v5iRlIdgdyVDLik4ZZCmVOd1VihLKkYMWJYUiSEsgZUgKvd7ytNtVmhpMdotuSkvGe72wgLVM2MFkVYAJe6pQQpZ+xGi6GksmMhpfmyzkuhNJ4HRn+9GSB50fuqOzsqJlk/ra+rUDEmEmAb2NRA0qB4DEOwp6w3d98UBuSYl3B8CS44JenXbbqEbE5HMaMxVoln7YPM1qhPby0C6OpqoVa7lwwIVHrOCqhCtHEEXkASlZM8kR7W67CqAUhkmg4swFB620sLK27Jj7dpHlZ5wev5fMMqoDTtMkiUnB38sFriTYgVkJe6ViR7/0bprloUplO4Yc1LwS2ZaYSWNwRp+AgXGepqaTgwRlphMzhU/30rtiXnDfZnrOJ299K+0mXYmusP5BAty3nV5eL1oRRkUwsgh7eCuy2anCVmQZez/zgdmVjukYVQPGO1D3barXK6bLyuULRdgjdLldiaqNg+KQ2+UJuwfcnY4cTCjvgJsmyBNzYetX2UiAuQh0JZEaVX5XgAjNrueHDwAffPdXSjUEKdOMJ28BWz7a+slo4/pe3Di7b50+rN/a9ofc6+zJvQrbY3lxyG7FNeTFMVmAS5gt1vwzC0Tc+nQhbvwnlMiTm/2RGsti71Nx74wrknZvnOFVIi8pKen0FmWLgl++PFTzyLMBPbEvJeRjE5hFxcqIlk4oE8uxJTwpSdEt6DrvF6QqE+8ZLSfbevG5YqC8lh0RAqlGbKtodztNjtefIU+B3PLuBZEI+atJ2H44QUGAeeH44ILwJscLYjYv6YzsA4r8mIiAnleYxsvTRSyvt2vmjheEKVfteUwYuMZBUHrS/M0ASti1SM3rSI7PHWfkVSymAVHpazfAETJUxFdLwQ5eealBHbjr3nSl7L24XgV0cxe6uQu9Kau20XEc8L4OLrnj/wgXwHD0KlA3d1E3d1K35DfSpFzBAW/Ay86azc4H2Vt5FcC3mbSXS9XU8gtlzE5Lb5edmKBZYVy6oR2tJEpSSx6Gu72yYy5/+SrQd/kvfxeqLXfSZtsRL+AsKy9hYtHW1v6wd0vBwd1h8kLVFjAabbFEt2OVdonuE+JCbPQJ9O74qGnJS2w6VnmXbG7jKkJL29yHwkum5ehyAVQF/zD7fnDeS7U6Fdd4vId+324wefdyq26Ypd0Ptg18RL0ftRfM2q76chbBAhKfagkiGokDaQ/CB5EObrkTPcrTlcZtdKTWzSprxLzIWGjIi5h72nHuXUtV6tj1VmnXn2/hKpR6i/tgO85btEIBAKPTMO2KlMHBAjjQmHfa8pjDKu0kyRNsvBt4Z/vNNV1CNawS7ynaoj1cz4cbb85vFfjLRc/zIygQb9ZYLsik6+fPvyUl74a6GF6dgeENGLwbjj6sPqWkSj/yI1OKb1QJQzj0AR31Zxq+84Ua8h7z5Qs1DKe0L9R48VWlJd5K8vPul+H5rT9npZq3++5vWunLr8NkJszbIPGaweXTXXfdcX907/ZHg767ntLcfB9uHeFcfQIts+Tl0fPt13i2/f4l9kn9hez4J3zB0Yvbr/FM+5UiAe4vck+8PHq+/Zqv9vtqv8+y39a2/do/u/2az7NfefA3uDkbXAwlE94kPN+Km69W/GrFz7FieV3V0opN82e34uYzrVheENMfZx9IXhnx+vj5Nmz9WSPhjlGsc0Nv28brSPh1JFwlG7ae6UlL8w29y+6oNyyYsZz0fEu2X3vjV4t+Tsssz/iueuOffkxsH23JGco5fIgJFl80z5bZnohPrK2el/8cE+h9wtFsZZK5IHtdzTLgLdbVkDC71aq+ajynzX7uAU//yO+VQEx4TjQ/wvQypon4WolYK5rfnF95f39z77oXedl+ExfNxJOvPz+8/srBx01D8VtNfM0dLdsWVUyNZzRJceAPxHeO+5Prx2QSno+mtvOftB91P1Prf7W8LIJAbPRdlwWm/S/itWfiu/FiOViY4GBTUv6CqyH2Br5Acpxmq3nCTanZPOFuYMvmjDOarJSEegQn7CqGvniwj799+z8Trjp+lIIAAA=="
+    }
+  },
+  {
+    "id": "schumacher-twiggy-sisal-sky-wall-finishes",
+    "name": "Twiggy Sisal - Sky - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This delicate yet graphic design from our archives, first introduced in the 1970s, brings the outdoors inside with beautiful flowering branches silhouetted against a solid ground.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5008292.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008292-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008292-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008292-3.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5008292",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Shangri-La",
+    "variantGroup": "twiggy-sisal-wall-finishes",
+    "color": "Sky",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:15.573356Z",
+    "lastUpdated": "2025-07-02T12:25:15.573368Z",
+    "sourceRunId": "run-schumacher-015",
+    "specifications": {
+      "dimensions": {
+        "width": 34,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 37.125,
+        "repeatHorizontal": 32.5,
+        "match": "Half Drop"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-twiggy-sisal-indigo-wall-finishes",
+    "name": "Twiggy Sisal - Indigo - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Twiggy Sisal in indigo is a delicate yet graphic design that brings the outdoors in, with beautiful flowering branches silhouetted against a textured sisal ground.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5008293.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008293-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008293-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008293-3.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008293-4.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008293-5.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5008293",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Moon River",
+    "variantGroup": "twiggy-sisal-wall-finishes",
+    "color": "Indigo",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:16.696723Z",
+    "lastUpdated": "2025-07-02T12:25:16.696734Z",
+    "sourceRunId": "run-schumacher-016",
+    "specifications": {
+      "dimensions": {
+        "width": 34,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 37.125,
+        "repeatHorizontal": 32.5,
+        "match": "Half Drop"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-twiggy-sisal-gold-on-ivory-wall-finishes",
+    "name": "Twiggy Sisal - Gold On Ivory - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "This delicate yet graphic design from our archives, first introduced in the 1970s, brings the outdoors inside with beautiful flowering branches silhouetted against a solid ground.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5008290.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008290-1.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5008290",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Shangri-La",
+    "variantGroup": "twiggy-sisal-wall-finishes",
+    "color": "Gold On Ivory",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:17.822432Z",
+    "lastUpdated": "2025-07-02T12:25:17.822443Z",
+    "sourceRunId": "run-schumacher-017",
+    "specifications": {
+      "dimensions": {
+        "width": 34,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 37.125,
+        "repeatHorizontal": 32.5,
+        "match": "Half Drop"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-twiggy-sisal-charcoal-wall-finishes",
+    "name": "Twiggy Sisal - Charcoal - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Twiggy Sisal in charcoal is a delicate yet graphic design that brings the outdoors in, with beautiful flowering branches silhouetted against a textured sisal ground.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5008295.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008295-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008295-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008295-3.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008295-4.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008295-5.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5008295",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Moon River",
+    "variantGroup": "twiggy-sisal-wall-finishes",
+    "color": "Charcoal",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:18.930643Z",
+    "lastUpdated": "2025-07-02T12:25:18.930660Z",
+    "sourceRunId": "run-schumacher-018",
+    "specifications": {
+      "dimensions": {
+        "width": 34,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 37.125,
+        "repeatHorizontal": 32.5,
+        "match": "Half Drop"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-twiggy-sisal-petal-wall-finishes",
+    "name": "Twiggy Sisal - Petal - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Twiggy Sisal in petal is a delicate yet graphic design that brings the outdoors in, with beautiful flowering branches silhouetted against a textured sisal ground.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5008294.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008294-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008294-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008294-3.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008294-4.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5008294-5.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5008294",
+    "material": "Paper",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Moon River",
+    "variantGroup": "twiggy-sisal-wall-finishes",
+    "color": "Petal",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:20.048647Z",
+    "lastUpdated": "2025-07-02T12:25:20.048660Z",
+    "sourceRunId": "run-schumacher-019",
+    "specifications": {
+      "dimensions": {
+        "width": 34,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Paper",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 37.125,
+        "repeatHorizontal": 32.5,
+        "match": "Half Drop"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Vacuum Only With Soft Brush"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "schumacher-queen-of-spain-warm-silver-wall-finishes",
+    "name": "Queen Of Spain - Warm Silver - Wall Finishes",
+    "vendor": "Schumacher",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "Introduced in 1963 and still fresh today, Queen of Spain in warm silver has a lively, painterly quality and is a wonderful example of mid-century design. Also available as a fabric.",
+    "imageUrl": [
+      "https://s3.amazonaws.com/schumacher-webassets/5005880.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5005880-1.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5005880-2.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5005880-3.jpg",
+      "https://s3.amazonaws.com/schumacher-webassets/5005880-4.jpg"
+    ],
+    "url": "https://schumacher.com/catalog/products/5005880",
+    "material": "Non-Woven",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [],
+    "location": "United States Of America",
+    "collection": "Exuberant Prints",
+    "variantGroup": "queen-of-spain-wall-finishes",
+    "color": "Warm Silver",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-07-02T12:25:21.217739Z",
+    "lastUpdated": "2025-07-02T12:25:21.217758Z",
+    "sourceRunId": "run-schumacher-020",
+    "specifications": {
+      "dimensions": {
+        "width": 49,
+        "length": 288,
+        "thickness": null,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Non-woven",
+          "percentage": null
+        }
+      ],
+      "construction": [],
+      "pattern": {
+        "type": null,
+        "repeatVertical": 36,
+        "repeatHorizontal": 48,
+        "match": "Straight"
+      },
+      "application": null,
+      "knotCount": null,
+      "pileHeight": null,
+      "edgeFinishing": null,
+      "handmadeIn": null,
+      "maxWidth": null,
+      "maxLength": null,
+      "colorVariation": null,
+      "performance": [
+        "Astm E84 Class A"
+      ],
+      "care": "Washable"
+    },
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "additionalData": {
+      "raw_text": "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"
+    }
+  }
+]

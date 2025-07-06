@@ -1,0 +1,12 @@
+{
+	"actorSpecification": 1,
+	"name": "flavorpaper-collection",
+	"title": "Flavorpaper Collection",
+	"description": "Scrapes Flavorpaper Collection Using Python and lxml.",
+	"version": "0.0",
+	"buildTag": "latest",
+	"meta": {
+		"templateId": "python-project"
+	},
+	"dockerfile": "../Dockerfile"
+}

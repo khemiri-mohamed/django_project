@@ -1,0 +1,9 @@
+# Feel free to add your Python dependencies below. For formatting guidelines, see:
+# https://pip.pypa.io/en/latest/reference/requirements-file-format/
+
+apify < 3.0
+word2number
+selenium>=4.15.0
+lxml 
+bs4
+webdriver-manager>=4.0.0

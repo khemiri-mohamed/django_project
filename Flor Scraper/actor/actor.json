@@ -1,0 +1,12 @@
+{
+	"actorSpecification": 1,
+	"name": "flor-collection",
+	"title": "Flor Collection Scraper",
+	"description": "An Apify actor to scrape data from the Flor collection website using Python and lxml.",
+	"version": "0.0",
+	"buildTag": "latest",
+	"meta": {
+		"templateId": "python-scraper"
+	},
+	"dockerfile": "../Dockerfile"
+}

@@ -1,0 +1,1362 @@
+[
+  {
+    "id": "flor-midnight-pearl-19.69x19.69-tile",
+    "name": "Squared Away - Midnight / Pearl (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Add structure to your space. This modern rug features raised, textured lines that create countless cozy squares for a stylish and organized look. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw51a52978/images/product/SU25_21-1589_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/bestsellers/squared-away---midnight-and-pearl/21-1589-03.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 31,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "squared-away-21-1589",
+    "storedImagePath": null,
+    "color": "Midnight / Pearl",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:29.274346Z",
+    "lastUpdated": "2025-06-24T09:46:29.274359Z",
+    "sourceRunId": "run-flor-001",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.261,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.16,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 7610,
+      "pileThickness": 0.123,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-pearl-flint-19.69x19.69-tile",
+    "name": "Squared Away - Pearl / Flint (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Add structure to your space. This modern rug features raised, textured lines that create countless cozy squares for a stylish and organized look. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw0de215e2/images/product/FA24_SquaredAway_PearlFlint_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/squared-away---pearl-and-flint/21-1589-04.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 31,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "squared-away-21-1589",
+    "storedImagePath": null,
+    "color": "Pearl / Flint",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:29.287422Z",
+    "lastUpdated": "2025-06-24T09:46:29.287435Z",
+    "sourceRunId": "run-flor-002",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.261,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.16,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 7610,
+      "pileThickness": 0.123,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-pearl-topaz-19.69x19.69-tile",
+    "name": "Squared Away - Pearl / Topaz (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Add structure to your space. This modern rug features raised, textured lines that create countless cozy squares for a stylish and organized look. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dwf2acdcc7/images/product/FA24_SquaredAway_PearlTopaz_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/squared-away---pearl-and-topaz/21-1589-01.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 31,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "squared-away-21-1589",
+    "storedImagePath": null,
+    "color": "Pearl / Topaz",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:29.329904Z",
+    "lastUpdated": "2025-06-24T09:46:29.329921Z",
+    "sourceRunId": "run-flor-003",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.261,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.16,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 7610,
+      "pileThickness": 0.123,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-pearl-stone-19.69x19.69-tile",
+    "name": "Squared Away - Pearl / Stone (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Add structure to your space. This modern rug features raised, textured lines that create countless cozy squares for a stylish and organized look. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw42d7a4b6/images/product/FA24_SquaredAway_PearlStone_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/squared-away---pearl-and-stone/21-1589-02.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 31,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "squared-away-21-1589",
+    "storedImagePath": null,
+    "color": "Pearl / Stone",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:29.351272Z",
+    "lastUpdated": "2025-06-24T09:46:29.351290Z",
+    "sourceRunId": "run-flor-004",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.261,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.16,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 7610,
+      "pileThickness": 0.123,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-flint-pearl-19.69x19.69-tile",
+    "name": "Connect The Dots - Flint / Pearl (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Inspired by hand-carved ceramics, these textured dots add a touch of artistry as unique as your style. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw811f619f/images/product/SU25_21-1591_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/connect-the-dots---flint-and-pearl/21-1591-03.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 30,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "connect-the-dots-21-1591",
+    "storedImagePath": null,
+    "color": "Flint / Pearl",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:29.763972Z",
+    "lastUpdated": "2025-06-24T09:46:29.763989Z",
+    "sourceRunId": "run-flor-005",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.308,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.14,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 7031,
+      "pileThickness": 0.128,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.6 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-pearl-dune-19.69x19.69-tile",
+    "name": "Connect The Dots - Pearl / Dune (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Inspired by hand-carved ceramics, these textured dots add a touch of artistry as unique as your style. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dwf77d0ba2/images/product/FA24_ConnectTheDots_PearlDune_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/bestsellers/connect-the-dots---pearl-and-dune/21-1591-01.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 30,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "connect-the-dots-21-1591",
+    "storedImagePath": null,
+    "color": "Pearl / Dune",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:29.779120Z",
+    "lastUpdated": "2025-06-24T09:46:29.779138Z",
+    "sourceRunId": "run-flor-006",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.308,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.14,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 7031,
+      "pileThickness": 0.128,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.6 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-cocoa-pearl-19.69x19.69-tile",
+    "name": "Connect The Dots - Cocoa / Pearl (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Inspired by hand-carved ceramics, these textured dots add a touch of artistry as unique as your style. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw5acb5855/images/product/FA24_ConnectTheDots_CocoaPearl_Lifestyle_2.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/connect-the-dots---cocoa-and-pearl/21-1591-02.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 30,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "connect-the-dots-21-1591",
+    "storedImagePath": null,
+    "color": "Cocoa / Pearl",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:29.818946Z",
+    "lastUpdated": "2025-06-24T09:46:29.818959Z",
+    "sourceRunId": "run-flor-007",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.308,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.14,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 7031,
+      "pileThickness": 0.128,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.6 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-midnight-pearl-19.69x19.69-tile",
+    "name": "Connect The Dots - Midnight / Pearl (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Inspired by hand-carved ceramics, these textured dots add a touch of artistry as unique as your style. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw53b92517/images/product/FA24_ConnectTheDots_MidnightPearl_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/something-blue/connect-the-dots---midnight-and-pearl/21-1591-04.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 30,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "connect-the-dots-21-1591",
+    "storedImagePath": null,
+    "color": "Midnight / Pearl",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:29.830473Z",
+    "lastUpdated": "2025-06-24T09:46:29.830485Z",
+    "sourceRunId": "run-flor-008",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.308,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.14,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 7031,
+      "pileThickness": 0.128,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.6 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-bone-19.69x19.69-tile",
+    "name": "Open Invitation - Bone (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Come one, come all. This sisal-inspired style comes in neutral and fun colors to be enjoyed by anyone, anywhere. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dwa9d018c7/images/product/SU25_21-1543_Lifestyle_2.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/graphics-and-patterns/open-invitation---bone/21-1543-12.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 22,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "open-invitation-21-1543",
+    "storedImagePath": null,
+    "color": "Bone",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.279910Z",
+    "lastUpdated": "2025-06-24T09:46:30.279927Z",
+    "sourceRunId": "run-flor-009",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.265,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.172,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5850,
+      "pileThickness": 0.16,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-grey-19.69x19.69-tile",
+    "name": "Open Invitation - Grey (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Come one, come all. This sisal-inspired style comes in neutral and fun colors to be enjoyed by anyone, anywhere. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw970dc4b5/images/product/WT25_OpenInvitation_Grey_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/graphics-and-patterns/open-invitation---grey/21-1543-04.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 22,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "open-invitation-21-1543",
+    "storedImagePath": null,
+    "color": "Grey",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.319858Z",
+    "lastUpdated": "2025-06-24T09:46:30.319873Z",
+    "sourceRunId": "run-flor-010",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.265,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.172,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5850,
+      "pileThickness": 0.16,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "H4sIAPZzWmgC/91azXIbyZG+O8LvkLZnJHJEtAhQpETZEQoQ/Bna4s8Q1NDyrdBdaJTZ6GpXdQOETnPYR9iIjT3sZQ8bsa+x+yZ6En+ZVY0fSrIn1utd2wpJaFRXZeV/flmFq0qXdF7OTK1qY0vq0JEt9Wu6VnWtXakz6jut6KbJPT2hgXKVrunWFNrTaEGnb69u3tvG0cjZudfu4w//6unXaqZ86kxV07gpUyarClMvyHiqG6Fpx+OErgutvJYhMjVhc2+pnqiaFrahVJWkHyrtjC5TzJpoUCsKjFdqZEDPgAU7xguQ9abWyfDeVFRbGtiy1mVNW9dOe08n+Oa225en1uLr5rvu/td0NR7TEFTmJtP0jE6d1jSsVZkpl9FwYqrKlPk3Jw9p0XgI5ElVVbFY+97n798wKQhHFYZpzER8S8RHIqTLDEpqigXt71Bvt7dPELnbfb1/SNcXCXMCBp0eFzqtoSu8TCc6vbdN/UsqLaUWHJZaZzprJzMvrA7IN2KVLreyZbH4JStXM6MZprBKM8N0l5Ngt5lJ8Q6MMs8mn9QtZVihtDWNNLadjgzbbm7qCaZaWMSxrPx/y0LGLCiqnJ4ZCw1UjUsn4CgJCl1uyTRncArsh7X9Qvl7tUPfqrkyZoeuG+1A58akdof6U7gAO8NQTS0mnTVqukPfG5cbOK4vwLTfYQ4GqlSZgls5EcZP7Bx+VdK74TG2bycYUGI2pvAQrFPwqFo9aDxmDbvUjmgB7nyvncrhcxq0pmoR7N2qJfA+n2gmZoNMsBOHQwJFMTuIjhTU+c2rg4PkcL+XvNg93Etu9B8a7Wvqg59aFTa/0R4RBJYvYVM61t7kJfW9N+w5qX6zvnr9+cpl4OTWqfQemwx5lSlvdI512vUh15cCd2jBvB/WiFDtz5yqJiblOTHk/fdGz2GTgkkqRKcWIpExifareXkGauelr4zT2a1jlx7a1KiChpWtC3YhnnGLqH1r7f2jxa0OPhGWFUjHJkc2Kpb6aXI6ahasyLMG0RnkhjdUkOUCKQQcsjXDW/CEVUVIZjIC0Xkte4Dsz3tA5xWC1owKvfaImSOsutQ5ls/wRlLTE7rR6SItNDzL5k5N7yYh8b15zNn/kBn+l9nanxbWHa99PvviRv8bKhiqQrOX8Oe7Eq5SwByq8FdNXej6r7r1/00IDFBenPjy3PhJgbFkF4lv6jkprIYGhUnv6dbS76yd/sVf3tp8xcHJVJniWnk/ty67gZqmI7A71VBGjgTYvnkji06Ng0ou1VS/VfHheoJSfPIgun5NW4eHh9uE/zr4dyi0UenGxk1pY6P2k6YN6KQohgoCd6mwc0noqA8wMNjbwWBTocJujGFL8pWWWEbuhm6Xw2UjAnCCFNqoCkh6XMVrerWa7LFVmSctcy0/Yp6pxpaS9Ns9NPMe6ogk39ICM+iYnrPgCrWpYmKeWqd/NoC31pr6aYq59dECxTIonD2NsYPKudrUjCb0rXYweR9rwRAqHxdrUEKVmKl0QddIhuki6WdZQBLsIbzyLjrIEGVEKjroul9MF+y/PLlNZQQj1fYoAhSxIVZ76EITL2V2Gq8jdV8vCgAVfsHzoZYiE8rQpUL9AcIRMf1UuTrM5kJSqzyPsjmqTMpJ2YdCHFmijz/8cwAdXI+EeIG862X/ws508tbca0iXAMwwb3hqYc+TL6Gdq01s+FWvl+zuwl9gD2ATieGP//TvAwujwj12GCJorqgJ8r6AMq+KjolFIkrDcyQCS93UTgVxARPxAmkvQBgNiPR7u8AayK7KhRDHJ+qt05E4/ipyWIxqW4XCJaQAkOo5QFKod7UAVZYXBfte1url9LlB+mMkgnd5mZyz5S9tQr1up7v/Yu+oMTBOn4vfo/LVTQYTaxEzA+aZ8bLXAayFvAjngWWGc1UDuPmtZ1+x3uhEpZPtjfTJ8HWdUTGkj+9EmdDTwccf/o3++1/Cp/9DA2H8iqCCK7YrahG7Zn7OnF6cAhqVuqCjotEDO1JFjSc/OUcQ5PaoQM4c1hzVz+kC+OoaybLA80melza/bcrMKXw9bkrda8Vl9EDfNaqsgeb3nzJXL592e4H5V/K9u/t0bzcM4FFGek9fxCkDJA2Yy5sP+rdhRPA3XYa8Am2wDfzrjX3eczw7LVCWFKo0y2lFjUiDyw6A4/ZPTO1uTPwW8XcBh9qARceWzokL0Js7DcQn0ULIbQumMjbwLSBwiekpL93wMI4yhuSrDdkYIU2FoNVuDA+R8keuyRM0AEgVwW/iFEB+7ThSmpLboTGS5aq8sm9r0ZbEti5zQeEMxzM82ZCgmDRtKQZ+4t1NlTELSC12ihhmQLrYDo5SpE3B75hcuTTAhlShyZBsLcTTCbygJCHPG7EhE5FINlvRVHDfgj0GO/FKXpEZyBFaJU5crMu0qWvkmR1C5ivMB2lYsI20ecwBb8CD3cPk5c8f5P/lbohbLOcN9AOqzrquPIMNuDtinJmJRGwlqf81d4e84J1H4kLcYAY2/QRzsNRT2S3oItIPvIhfy8PW/m465a/8uf1WzHLHFmHwPQzWXUl+qnV9oblEDsAnhvnxPXKuPy85VRwvZw5aXWax2b4UW7w2pfRxyH3dXXSaM2lStgBQ7RRL2VrSlOSWRZ7D3J3advhz+9Yypl5ZWsR6PWBZiyFMHt78WUi7ppKYoR5pJKaox4pRSLhcvG+jXTXlnycnZGLOax/DhE2S4vw/NmMGCsnGdB5mFxo75CT2uQ6zFWmGHT28C0k2LgHMQIx69jCJmto1OpQt4aXWD9IsQbeySOisxVOylxAjh0FT+6sqnIq8jwcdQAjCS2V0GjI5KBg9i9kDioLtOORWvrTDUaZahARPExsJJmgzgbTFoFU5i/yDnMgP1gk4VzQKiSq281Cc13USGQzyf7WX7Icy0w6LL/ZjeK5UqHJATEY+0Ao6JBNKMffWQePBJWRwTUpZbVGj5JhD+Gg7BOJ+KFnb36X9uAdX8DPeA2PA1CWqBLPWfd77ZEb3+d5nxl58ZuyQhWO5WMDu8+7B+ndUogzfj43K2WafLP8GnIhcQSmbsCLItUxpHj4QZgf5DR9VZaFwAPcIUpQVq1llJl9aWWWQK1zytwA2BDdbrqP1F5v6O+vuGSB2bNlhwLG0NBISlzQOHTVl/uCfY+29hEbr2fAQ3xQgBLFnRlE1ETgobYM4+My4uuFmJU5k9w5Ab8TsVGDtDYCFHE3yidzPAHQBrk857PtAR6q856OhmfK3S0hufAgiu+C2YsVxiW6SDWKmYHW26lWHdZMZCwyuHyrkg1BVKwtR2qPKJOwqyUbRrYYWkd0jsFIbEHYkfYyR4laYcVQYU4wYWToERtM+HJeilVL3sdYmG9JdO90JLIJX5PYjOaYVUabW151ChAiaFpvmcI8lYpeGKwKhoI55GekHouDz78bqjPnOa2K2/B0HkmKcBeYlry4xjq9Uqt9QbDFNzKhAf2ZmMtlwLYaSVV3jQxviU5s7DqRQpNlkaso96gogIsiQ1t0iwMSE2gqgirlaeBo1CyG3TrnNh5j6FGnEIXkaVAZeJAnAN3w0yZpsT5LWykB7AgvKsOx4xQiqlUMFYcFDJUBFEcTKtKNHiKZR9dAshPIiUu8sz+cj06GQCNtsAIZmE044pdjb6ZktGql3brFiUZoymNGzUgULSOOs0yaGT8im0JdsH2zrgWHvF8APDIEybgd9bPPXyvaOZF+Rfowm2CVLDT778Sp89uN1+NOf0Nqf/y+FPvuLNbopx49X73pkCUkNsSV78Zzc2iyeRXD39YVAkiL2e26JpHsHMke8yxHQGhxrER+L2+oWmVJybeyvOJaxDbdtf7N8nfa/86vw/vQMHC4iN0drh1+h/ePbMOStjG9rdsLJHkgLQCw76Kj8cs16SpWLOt+Mpka6LT42CTlbTlOGfAw3Rmco3dExMnxhFR97XGfjPlzAw3tb2frcs5jU2REf3N2ynOzEW/3+7WBA3b1XdKf8RGfb1A69fEHXyMSeek/2tumc+1evq/p4oQl90MRm3V20McPozoTxU8P9SbzCu1wUtrzmjuGYUW+92H+1vyvfvw23VN2XPcguI7cTOHIJoZPuwS4Por4xHd9Mtev1vpbv52UGWzqwf4ARZ7MmDZOA5eWi8qTM0VCh6WrGXKLilQjfYVQ3cnnEx7alLrb6w9sLOqEOHbx4tU2DQnlP3eHU3i95XZty0Ntenq4dhcPqwXdsgrOjIZeulH4ziyrrQI8vtulXtJfs0m++H9ZGYv9lsv/clNI8DdGloDE6OORIfqDlI9ojQn/0QPIZ+714dZG1Gn314ut4y8EXoRWQRt1LXtJ9ToOrnn4+7YVlK2X2DvZBPKrjPTvtnai+d0D2w/NF1oNKLd/hGcdHNnzPewbnhcrUSBd0zUeSA7gtfExn69cDF7a0mI2NaGuINMpE2UVWM97yEJ0qXzMnQT/dg87J9gU3R4AUZ6rJGa2zuYfWFHyECUXArrUWa8rTfX2sC8M1V87v2q4HZUA5x7kZS7iRDt1fZT584N7ogaH6BfsMYsvXNr2ncHnAl4dSG7Csh4rgDXNHGedt6XoCURVTJCsHGLLiXfY7Lx8tCDeIn9wQ8+FpPFFMwi0Uw4q5ikCCcaFte0O5c6TzUJW4BHB29lCgZ41/port0Gaib//MddRKmiJEkSRkX66JTSl9yfLyxDqTmzKAr3CiHrvIeC+K7INVjOzawhn1tbcbxP48A9ygyAmhXH+jQld1Ik1Y6KTlVYf7rFBdRdgx8xGudzMN6xcCsfjsJtxBxZIZr/IqOexH6uQrG05//8Cn+4O3J/0bRPXlcHB+cjk4uWNXE5wReg6mK8ADEFnOTEO9Utxq8B0+1yaUDc8hJWepgoyF/1A+YX8j8EBahCokU79qVvi+iS+gQroZt+kmtkVQFDIJ9oYfp6vDLl6I5orrmrdLWOR1dHauec6MQrXA1uhSmpR1lxd8wo0QcVN8TVj2S7q4ujlBdlsltxs9M3ruv6Mn1B/2vz8huQI5PaX3V+9u6PT8ZnhLVzfHJzfhXFq8QO7WPv7wH+3hstwtSXkXHBGul578qcul/ogPO9/5u4mFyHwtv7pdXV0+R1M/uvwetAGBrK1XR5fLC1PGEv0x37O1tzabd6J3SEdIG4szM66ZRuZjPnl8uR33o3comCP+9c5I31pBiCCVRZTSkWdOsEt0Ie454NNHx9d5cpPUNsXxdyVfbBEDq4FC2D6MLPMajB+4KjmkrPiB/GJD2rw2pGIrLAuQbcQwfJ346U8t/us/w+9tQs7k1HLDNcZDCfwjGP3IcJ/a9tjSJdLrUGPpxQLVaplp+LdDU1X9EZ6m1Z5PJQAA"
+    }
+  },
+  {
+    "id": "flor-flannel-blue-19.69x19.69-tile",
+    "name": "Open Invitation - Flannel Blue (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Come one, come all. This sisal-inspired style comes in neutral and fun colors to be enjoyed by anyone, anywhere. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw8ad4aa65/images/product/SP22_Open_Invitation_Flannel-Blue_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/something-blue/open-invitation---flannel-blue/21-1543-05.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 22,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "open-invitation-21-1543",
+    "storedImagePath": null,
+    "color": "Flannel Blue",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.331882Z",
+    "lastUpdated": "2025-06-24T09:46:30.331893Z",
+    "sourceRunId": "run-flor-011",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.265,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.172,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5850,
+      "pileThickness": 0.16,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-cobalt-19.69x19.69-tile",
+    "name": "Open Invitation - Cobalt (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Come one, come all. This sisal-inspired style comes in neutral and fun colors to be enjoyed by anyone, anywhere. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dwd1d5bf93/images/product/SP22_Open_Invitation_Cobalt_Lifestyle2.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/something-blue/open-invitation---cobalt/21-1543-03.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 22,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "open-invitation-21-1543",
+    "storedImagePath": null,
+    "color": "Cobalt",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.343619Z",
+    "lastUpdated": "2025-06-24T09:46:30.343631Z",
+    "sourceRunId": "run-flor-012",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.265,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.172,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5850,
+      "pileThickness": 0.16,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-blush-19.69x19.69-tile",
+    "name": "Open Invitation - Blush (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Come one, come all. This sisal-inspired style comes in neutral and fun colors to be enjoyed by anyone, anywhere. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw5fa59358/images/product/SP22_Open_Invitation_Blush_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/graphics-and-patterns/open-invitation---blush/21-1543-08.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 22,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "open-invitation-21-1543",
+    "storedImagePath": null,
+    "color": "Blush",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.354822Z",
+    "lastUpdated": "2025-06-24T09:46:30.354833Z",
+    "sourceRunId": "run-flor-013",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.265,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.172,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5850,
+      "pileThickness": 0.16,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-indigo-19.69x19.69-tile",
+    "name": "Open Invitation - Indigo (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Come one, come all. This sisal-inspired style comes in neutral and fun colors to be enjoyed by anyone, anywhere. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw3be7edc8/images/product/SP22_Open_Invitation_Indigo_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/graphics-and-patterns/open-invitation---indigo/21-1543-02.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 22,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "open-invitation-21-1543",
+    "storedImagePath": null,
+    "color": "Indigo",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.366832Z",
+    "lastUpdated": "2025-06-24T09:46:30.366843Z",
+    "sourceRunId": "run-flor-014",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.265,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.172,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5850,
+      "pileThickness": 0.16,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-black-19.69x19.69-tile",
+    "name": "Open Invitation - Black (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Come one, come all. This sisal-inspired style comes in neutral and fun colors to be enjoyed by anyone, anywhere. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw58883067/images/product/SP22_Open_Invitation_Black_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/graphics-and-patterns/open-invitation---black/21-1543-01.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 22,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "open-invitation-21-1543",
+    "storedImagePath": null,
+    "color": "Black",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.379077Z",
+    "lastUpdated": "2025-06-24T09:46:30.379089Z",
+    "sourceRunId": "run-flor-015",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.265,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.172,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5850,
+      "pileThickness": 0.16,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "H4sIAPZzWmgC/91azXIbyZG+O8LvkLZnJHJEtAhQpETZEQoQ/Bna4s8Q1NDyrdBdaJTZ6GpXdQOETnPYR9iIjT3sZQ8bsa+x+yZ6En+ZVY0fSrIn1utd2wpJaFRXZeV/flmFq0qXdF7OTK1qY0vq0JEt9Wu6VnWtXakz6jut6KbJPT2hgXKVrunWFNrTaEGnb69u3tvG0cjZudfu4w//6unXaqZ86kxV07gpUyarClMvyHiqG6Fpx+OErgutvJYhMjVhc2+pnqiaFrahVJWkHyrtjC5TzJpoUCsKjFdqZEDPgAU7xguQ9abWyfDeVFRbGtiy1mVNW9dOe08n+Oa225en1uLr5rvu/td0NR7TEFTmJtP0jE6d1jSsVZkpl9FwYqrKlPk3Jw9p0XgI5ElVVbFY+97n798wKQhHFYZpzER8S8RHIqTLDEpqigXt71Bvt7dPELnbfb1/SNcXCXMCBp0eFzqtoSu8TCc6vbdN/UsqLaUWHJZaZzprJzMvrA7IN2KVLreyZbH4JStXM6MZprBKM8N0l5Ngt5lJ8Q6MMs8mn9QtZVihtDWNNLadjgzbbm7qCaZaWMSxrPx/y0LGLCiqnJ4ZCw1UjUsn4CgJCl1uyTRncArsh7X9Qvl7tUPfqrkyZoeuG+1A58akdof6U7gAO8NQTS0mnTVqukPfG5cbOK4vwLTfYQ4GqlSZgls5EcZP7Bx+VdK74TG2bycYUGI2pvAQrFPwqFo9aDxmDbvUjmgB7nyvncrhcxq0pmoR7N2qJfA+n2gmZoNMsBOHQwJFMTuIjhTU+c2rg4PkcL+XvNg93Etu9B8a7Wvqg59aFTa/0R4RBJYvYVM61t7kJfW9N+w5qX6zvnr9+cpl4OTWqfQemwx5lSlvdI512vUh15cCd2jBvB/WiFDtz5yqJiblOTHk/fdGz2GTgkkqRKcWIpExifareXkGauelr4zT2a1jlx7a1KiChpWtC3YhnnGLqH1r7f2jxa0OPhGWFUjHJkc2Kpb6aXI6ahasyLMG0RnkhjdUkOUCKQQcsjXDW/CEVUVIZjIC0Xkte4Dsz3tA5xWC1owKvfaImSOsutQ5ls/wRlLTE7rR6SItNDzL5k5N7yYh8b15zNn/kBn+l9nanxbWHa99PvviRv8bKhiqQrOX8Oe7Eq5SwByq8FdNXej6r7r1/00IDFBenPjy3PhJgbFkF4lv6jkprIYGhUnv6dbS76yd/sVf3tp8xcHJVJniWnk/ty67gZqmI7A71VBGjgTYvnkji06Ng0ou1VS/VfHheoJSfPIgun5NW4eHh9uE/zr4dyi0UenGxk1pY6P2k6YN6KQohgoCd6mwc0noqA8wMNjbwWBTocJujGFL8pWWWEbuhm6Xw2UjAnCCFNqoCkh6XMVrerWa7LFVmSctcy0/Yp6pxpaS9Ns9NPMe6ogk39ICM+iYnrPgCrWpYmKeWqd/NoC31pr6aYq59dECxTIonD2NsYPKudrUjCb0rXYweR9rwRAqHxdrUEKVmKl0QddIhuki6WdZQBLsIbzyLjrIEGVEKjroul9MF+y/PLlNZQQj1fYoAhSxIVZ76EITL2V2Gq8jdV8vCgAVfsHzoZYiE8rQpUL9AcIRMf1UuTrM5kJSqzyPsjmqTMpJ2YdCHFmijz/8cwAdXI+EeIG862X/ws508tbca0iXAMwwb3hqYc+TL6Gdq01s+FWvl+zuwl9gD2ATieGP//TvAwujwj12GCJorqgJ8r6AMq+KjolFIkrDcyQCS93UTgVxARPxAmkvQBgNiPR7u8AayK7KhRDHJ+qt05E4/ipyWIxqW4XCJaQAkOo5QFKod7UAVZYXBfte1url9LlB+mMkgnd5mZyz5S9tQr1up7v/Yu+oMTBOn4vfo/LVTQYTaxEzA+aZ8bLXAayFvAjngWWGc1UDuPmtZ1+x3uhEpZPtjfTJ8HWdUTGkj+9EmdDTwccf/o3++1/Cp/9DA2H8iqCCK7YrahG7Zn7OnF6cAhqVuqCjotEDO1JFjSc/OUcQ5PaoQM4c1hzVz+kC+OoaybLA80melza/bcrMKXw9bkrda8Vl9EDfNaqsgeb3nzJXL592e4H5V/K9u/t0bzcM4FFGek9fxCkDJA2Yy5sP+rdhRPA3XYa8Am2wDfzrjX3eczw7LVCWFKo0y2lFjUiDyw6A4/ZPTO1uTPwW8XcBh9qARceWzokL0Js7DcQn0ULIbQumMjbwLSBwiekpL93wMI4yhuSrDdkYIU2FoNVuDA+R8keuyRM0AEgVwW/iFEB+7ThSmpLboTGS5aq8sm9r0ZbEti5zQeEMxzM82ZCgmDRtKQZ+4t1NlTELSC12ihhmQLrYDo5SpE3B75hcuTTAhlShyZBsLcTTCbygJCHPG7EhE5FINlvRVHDfgj0GO/FKXpEZyBFaJU5crMu0qWvkmR1C5ivMB2lYsI20ecwBb8CD3cPk5c8f5P/lbohbLOcN9AOqzrquPIMNuDtinJmJRGwlqf81d4e84J1H4kLcYAY2/QRzsNRT2S3oItIPvIhfy8PW/m465a/8uf1WzHLHFmHwPQzWXUl+qnV9oblEDsAnhvnxPXKuPy85VRwvZw5aXWax2b4UW7w2pfRxyH3dXXSaM2lStgBQ7RRL2VrSlOSWRZ7D3J3advhz+9Yypl5ZWsR6PWBZiyFMHt78WUi7ppKYoR5pJKaox4pRSLhcvG+jXTXlnycnZGLOax/DhE2S4vw/NmMGCsnGdB5mFxo75CT2uQ6zFWmGHT28C0k2LgHMQIx69jCJmto1OpQt4aXWD9IsQbeySOisxVOylxAjh0FT+6sqnIq8jwcdQAjCS2V0GjI5KBg9i9kDioLtOORWvrTDUaZahARPExsJJmgzgbTFoFU5i/yDnMgP1gk4VzQKiSq281Cc13USGQzyf7WX7Icy0w6LL/ZjeK5UqHJATEY+0Ao6JBNKMffWQePBJWRwTUpZbVGj5JhD+Gg7BOJ+KFnb36X9uAdX8DPeA2PA1CWqBLPWfd77ZEb3+d5nxl58ZuyQhWO5WMDu8+7B+ndUogzfj43K2WafLP8GnIhcQSmbsCLItUxpHj4QZgf5DR9VZaFwAPcIUpQVq1llJl9aWWWQK1zytwA2BDdbrqP1F5v6O+vuGSB2bNlhwLG0NBISlzQOHTVl/uCfY+29hEbr2fAQ3xQgBLFnRlE1ETgobYM4+My4uuFmJU5k9w5Ab8TsVGDtDYCFHE3yidzPAHQBrk857PtAR6q856OhmfK3S0hufAgiu+C2YsVxiW6SDWKmYHW26lWHdZMZCwyuHyrkg1BVKwtR2qPKJOwqyUbRrYYWkd0jsFIbEHYkfYyR4laYcVQYU4wYWToERtM+HJeilVL3sdYmG9JdO90JLIJX5PYjOaYVUabW151ChAiaFpvmcI8lYpeGKwKhoI55GekHouDz78bqjPnOa2K2/B0HkmKcBeYlry4xjq9Uqt9QbDFNzKhAf2ZmMtlwLYaSVV3jQxviU5s7DqRQpNlkaso96gogIsiQ1t0iwMSE2gqgirlaeBo1CyG3TrnNh5j6FGnEIXkaVAZeJAnAN3w0yZpsT5LWykB7AgvKsOx4xQiqlUMFYcFDJUBFEcTKtKNHiKZR9dAshPIiUu8sz+cj06GQCNtsAIZmE044pdjb6ZktGql3brFiUZoymNGzUgULSOOs0yaGT8im0JdsH2zrgWHvF8APDIEybgd9bPPXyvaOZF+Rfowm2CVLDT778Sp89uN1+NOf0Nqf/y+FPvuLNbopx49X73pkCUkNsSV78Zzc2iyeRXD39YVAkiL2e26JpHsHMke8yxHQGhxrER+L2+oWmVJybeyvOJaxDbdtf7N8nfa/86vw/vQMHC4iN0drh1+h/ePbMOStjG9rdsLJHkgLQCw76Kj8cs16SpWLOt+Mpka6LT42CTlbTlOGfAw3Rmco3dExMnxhFR97XGfjPlzAw3tb2frcs5jU2REf3N2ynOzEW/3+7WBA3b1XdKf8RGfb1A69fEHXyMSeek/2tumc+1evq/p4oQl90MRm3V20McPozoTxU8P9SbzCu1wUtrzmjuGYUW+92H+1vyvfvw23VN2XPcguI7cTOHIJoZPuwS4Por4xHd9Mtev1vpbv52UGWzqwf4ARZ7MmDZOA5eWi8qTM0VCh6WrGXKLilQjfYVQ3cnnEx7alLrb6w9sLOqEOHbx4tU2DQnlP3eHU3i95XZty0Ntenq4dhcPqwXdsgrOjIZeulH4ziyrrQI8vtulXtJfs0m++H9ZGYv9lsv/clNI8DdGloDE6OORIfqDlI9ojQn/0QPIZ+714dZG1Gn314ut4y8EXoRWQRt1LXtJ9ToOrnn4+7YVlK2X2DvZBPKrjPTvtnai+d0D2w/NF1oNKLd/hGcdHNnzPewbnhcrUSBd0zUeSA7gtfExn69cDF7a0mI2NaGuINMpE2UVWM97yEJ0qXzMnQT/dg87J9gU3R4AUZ6rJGa2zuYfWFHyECUXArrUWa8rTfX2sC8M1V87v2q4HZUA5x7kZS7iRDt1fZT584N7ogaH6BfsMYsvXNr2ncHnAl4dSG7Csh4rgDXNHGedt6XoCURVTJCsHGLLiXfY7Lx8tCDeIn9wQ8+FpPFFMwi0Uw4q5ikCCcaFte0O5c6TzUJW4BHB29lCgZ41/port0Gaib//MddRKmiJEkSRkX66JTSl9yfLyxDqTmzKAr3CiHrvIeC+K7INVjOzawhn1tbcbxP48A9ygyAmhXH+jQld1Ik1Y6KTlVYf7rFBdRdgx8xGudzMN6xcCsfjsJtxBxZIZr/IqOexH6uQrG05//8Cn+4O3J/0bRPXlcHB+cjk4uWNXE5wReg6mK8ADEFnOTEO9Utxq8B0+1yaUDc8hJWepgoyF/1A+YX8j8EBahCokU79qVvi+iS+gQroZt+kmtkVQFDIJ9oYfp6vDLl6I5orrmrdLWOR1dHauec6MQrXA1uhSmpR1lxd8wo0QcVN8TVj2S7q4ujlBdlsltxs9M3ruv6Mn1B/2vz8huQI5PaX3V+9u6PT8ZnhLVzfHJzfhXFq8QO7WPv7wH+3hstwtSXkXHBGul578qcul/ogPO9/5u4mFyHwtv7pdXV0+R1M/uvwetAGBrK1XR5fLC1PGEv0x37O1tzabd6J3SEdIG4szM66ZRuZjPnl8uR33o3comCP+9c5I31pBiCCVRZTSkWdOsEt0Ie454NNHx9d5cpPUNsXxdyVfbBEDq4FC2D6MLPMajB+4KjmkrPiB/GJD2rw2pGIrLAuQbcQwfJ346U8t/us/w+9tQs7k1HLDNcZDCfwjGP3IcJ/a9tjSJdLrUGPpxQLVaplp+LdDU1X9EZ6m1Z5PJQAA"
+    }
+  },
+  {
+    "id": "flor-stone-mica-19.69x19.69-tile",
+    "name": "Open Invitation - Stone / Mica (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Come one, come all. This sisal-inspired style comes in neutral and fun colors to be enjoyed by anyone, anywhere. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dwd3dd113b/images/product/SU25_OpenInvitation_StoneMica_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/bestsellers/open-invitation---stone-and-mica/21-1543-09.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 22,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "open-invitation-21-1543",
+    "storedImagePath": null,
+    "color": "Stone / Mica",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.421242Z",
+    "lastUpdated": "2025-06-24T09:46:30.421260Z",
+    "sourceRunId": "run-flor-016",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.265,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.172,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5850,
+      "pileThickness": 0.16,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-pearl-eggnog-19.69x19.69-tile",
+    "name": "Open Invitation - Pearl / Eggnog (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Come one, come all. This sisal-inspired style comes in neutral and fun colors to be enjoyed by anyone, anywhere. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dwe8a9a8e8/images/product/SP22_Open_Invitation_Pearl-Eggnog_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/graphics-and-patterns/open-invitation---pearl-and-eggnog/21-1543-11.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 22,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "open-invitation-21-1543",
+    "storedImagePath": null,
+    "color": "Pearl / Eggnog",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.441211Z",
+    "lastUpdated": "2025-06-24T09:46:30.441228Z",
+    "sourceRunId": "run-flor-017",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.265,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.172,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5850,
+      "pileThickness": 0.16,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-tundra-dune-19.69x19.69-tile",
+    "name": "Open Invitation - Tundra / Dune (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Come one, come all. This sisal-inspired style comes in neutral and fun colors to be enjoyed by anyone, anywhere. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw0efe0c42/images/product/SU23_OpenInvitation_TundraDune_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/graphics-and-patterns/open-invitation---tundra-and-dune/21-1543-10.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 22,
+    "sustainability": "84% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "open-invitation-21-1543",
+    "storedImagePath": null,
+    "color": "Tundra / Dune",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.458383Z",
+    "lastUpdated": "2025-06-24T09:46:30.458400Z",
+    "sourceRunId": "run-flor-018",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.265,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Engaged Tufted Pattern Loop",
+      "pileHeight": 0.172,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5850,
+      "pileThickness": 0.16,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.62,
+      "totalRecycledContent": 0.84,
+      "carbonFootprint": "2.7 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-jute-19.69x19.69-tile",
+    "name": "Jute Box -  Jute (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Get grounded with this beautifully textured look inspired by traditional jute rugs. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dwc6203dfe/images/product/SU25_Jute%2520Box_Jute_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/jute-box----jute/21-1605-01.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 23,
+    "sustainability": "81% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "jute-box-21-1605",
+    "storedImagePath": null,
+    "color": "Jute",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.857678Z",
+    "lastUpdated": "2025-06-24T09:46:30.857690Z",
+    "sourceRunId": "run-flor-019",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.359,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Tufted Pattern Loop",
+      "pileHeight": 0.239,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5168,
+      "pileThickness": 0.202,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.59,
+      "totalRecycledContent": 0.81,
+      "carbonFootprint": "2.9 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "flor-bone-19.69x19.69-tile",
+    "name": "Jute Box -  Bone (19.69 in x 19.69 in  Tile)",
+    "vendor": "FLOR",
+    "category": "Rugs",
+    "subcategory": "Machine-made",
+    "description": "Get grounded with this beautifully textured look inspired by traditional jute rugs. This is a random pattern and no two carpet tiles are alike. The pattern will not align.",
+    "imageUrl": [
+      "https://www.flor.com/on/demandware.static/-/Sites-flor-master-catalog/default/dw16765680/images/product/SU25_Jute%2520Box_Bone_Lifestyle.jpg"
+    ],
+    "url": "https://www.flor.com/area-rugs_carpet-tiles/jute-box----bone/21-1605-02.html",
+    "material": "Nylon",
+    "useCase": null,
+    "leadTime": "2 business days and arrive at your doorstep in 5-7 business days when standard shipping is selected.",
+    "price": 23,
+    "sustainability": "81% Total Recycled Content",
+    "certifications": [
+      "Green Label Plus Certified"
+    ],
+    "documents": [],
+    "location": null,
+    "collection": null,
+    "variantGroup": "jute-box-21-1605",
+    "storedImagePath": null,
+    "color": "Bone",
+    "finish": null,
+    "tags": [],
+    "createdAt": "2025-06-24T09:46:30.869560Z",
+    "lastUpdated": "2025-06-24T09:46:30.869572Z",
+    "sourceRunId": "run-flor-020",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 19.69,
+        "length": 19.69,
+        "thickness": 0.359,
+        "units": "in"
+      },
+      "composition": [
+        {
+          "material": "Nylon",
+          "percentage": null
+        }
+      ],
+      "construction": "Tufted Pattern Loop",
+      "pileHeight": 0.239,
+      "application": [
+        "Floor"
+      ],
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "priceUnit": "per tile",
+      "pileDensity": 5168,
+      "pileThickness": 0.202,
+      "postConsumer": 0.22,
+      "postIndustrial": 0.59,
+      "totalRecycledContent": 0.81,
+      "carbonFootprint": "2.9 kg CO2e/m2",
+      "backing": "CQuestGB",
+      "staticKv": "(AATCC - 134) < 3.0 KV",
+      "installation": "Monolithic (Straight) Installation",
+      "raw_text": "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"
+    }
+  }
+]

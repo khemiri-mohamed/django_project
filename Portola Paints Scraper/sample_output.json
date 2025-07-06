@@ -1,0 +1,1238 @@
+[
+  {
+    "id": "portola-paints-white-cliffs-ultra-flat-acrylic-1-quart",
+    "name": "White Cliffs–Ultra Flat (Acrylic) #3 / 1 Quart",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101454580",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Ceilings"
+    ],
+    "leadTime": null,
+    "price": 25,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Ultra Flat",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:51.879582Z",
+    "lastUpdated": "2025-05-31T05:25:51.879593Z",
+    "sourceRunId": "run-portolapaints-001",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Ceilings"
+        ],
+        "sheen": "2–3% Sheen Level @ 60 Degrees",
+        "coverage": "~150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Quart",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-ultra-flat-acrylic-1-gallon",
+    "name": "White Cliffs–Ultra Flat (Acrylic) #3 / 1 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101487348",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Ceilings"
+    ],
+    "leadTime": null,
+    "price": 70,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Ultra Flat",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:52.034489Z",
+    "lastUpdated": "2025-05-31T05:25:52.034502Z",
+    "sourceRunId": "run-portolapaints-002",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Ceilings"
+        ],
+        "sheen": "2–3% Sheen Level @ 60 Degrees",
+        "coverage": "~150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-ultra-flat-acrylic-5-gallon",
+    "name": "White Cliffs–Ultra Flat (Acrylic) #3 / 5 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101520116",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Ceilings"
+    ],
+    "leadTime": null,
+    "price": 295,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Ultra Flat",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:52.154451Z",
+    "lastUpdated": "2025-05-31T05:25:52.154461Z",
+    "sourceRunId": "run-portolapaints-003",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Ceilings"
+        ],
+        "sheen": "2–3% Sheen Level @ 60 Degrees",
+        "coverage": "~150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 5 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "H4sIAN+SOmgC/+1bW5PjSFb+KzlBM9s9lNXV1VM9PfUyK1u+lS1ZbclVXfWmktNlTcmSR5eq9gZBTEzsPBG8AC/ARjAbsLALDcReiFmCJYjoAJ7rZYnpt2X+AH+B75xM+dLVXdOzLMQ21IttKTPPOXnOd24p2U2zIo0D4QZRUuTit8XhNCqkaMTRZCLMMFvEUSg8mUUy96bpXJwsRCON08zPgnFURGkSxKIVJVE+HaazIMHCYNGPZlIcBvm0hRuWDM9y8TZohTLPUyLkZpiQ0U1PBjF+MXPRTSZpNguIqDeXYRTExULTlvmSphZmxU3fWBeokYJKcppvyt98UuA7zarLJJjJWF9cEcmX4TSJQhCzgiIQ3lTKIm8HMcYWjTQpgrDAjtIyKcyWqIkvftd8jK8vP3lq9vHdt47p5t8ZXzw1LX1/gO9bZpc/2/w55E8bnz//83//2DAP8evfft9s4OvZn5kjHvX16mP+/lndo7v1Dn8S5V/85Y/rdb464s+mml8/5qt9fLayus0XPn+SGPXcqJv4vvzjy+/UiatbZ1m6LOMBS1d3+JN+X/7j5Y+MekvR6vJXjyT4jz/9kwaRbrTMBpG71TjgNY/os8fyNFpq3Lf0vD7fJdrPvtd4zBcN/mTWPZupN9p6tqUuezxjyFv7bkNJ0FGXTxtKa40jfUkb7/3L71m05iwzLFbB+EOLdWAxlyZzbBKTL54azz/1WOz2I8W0yapoakV6rMgm6a6etXpsmtZA0W4R7VutrprZ0gK1W+rbVQrz9WXb5Ms2yWG1myyN5tFmc7a7TLxdkekrJm2LB119lwR51G6rqY4ieai+WOEdtnKHRvod1luHgNQquh7T6zpM6B+6RHY477KtulqQrs10u32+/KuuBt8+627fZaPts+j7ylwKlT/t0b2eN+0xuh/31LLeIc8hWfN01jf57t/0D9Ron1D7/NvG82/3GdN9VnufN9EnOo1Oq68F6I/Ut01cXZvxaRN1u2fTgqFtE1X7YGj3WRe2Xmg/0t9M3FZkvn9UjTL+bNJE327oe0o/f2trldgsnG0qd37+qWEzIGxSSc9h1DtM3CH1DHPDUcp76jRYEoenO7yhW05T3WvzlL9w2MWdFhMkpV3+5PLvL//JYd0OWOmu0uX3XU+ZxGWOLhHouQryP3KJqnfX7fDlD112XJfE+Na/fuLqvT7iHfzQeP7JUO9sSGz6MhqyFEMG0fDikBj5nq3RT6utE08v/uLHnoLckGZdfnb53cs/9NiZPI560mPTeI/ZJT2NA087iMdxyuPdHfM+2h7jracg/wOPdd30tNH11utaoV5HTebt9ZmrXbmaFvdAycIe47FVPHZRr8nYb3QUrHwGpk9Dl59efscnE3lTn0Z/8dN/9jlE+W3lvexCPsns3/LZt3yT5fBZDp+5+Gwrn7n7HExGfGdEREbedKSw/xOzqbPC99p1JjLiHY8Y9KPRMXvKN2YHZJGD4sDUu2KPO1DA/OtDFVaanSUij2j8Pz//2THzPObNHaVlJsIgK5Y/RJQLOZsXC+8smosiFSGymEyKAcYbZZbhp+hgci7SiRjMZcaJWASZFHaa1FpZJB4Gs9rufEZJMijE+7jawZXr+UZNDJx+F/AeDK3msAuAO4NDYR6Y3b5Z7zffuikdXigdmpbZcsx+37Qt02mbI8s8bJvHTt2063Wrbvn1tlPvtuqOVR/U655VP3Trx1bDtBpWCwBuOEeNYaNx0Gwc96z9ltXrWQPXOraabbfp15ujYWvfavXcdt1t21bbabX9R+0jq9OzOk6/M2p1rWG373WdYdfr7dvWvnvUa3q9ttfrDHt2qzc87B1ZvWO/b/b6dbffG9qmZVt9u2fZiLeObw9cezSkYHuI8Dt02o7THTju0Dm23Kbjtntux3V7Q7fvuEftR+ZwOHCGnjU8bHnm0KtbXrPntS2v43r9vudbfqfu73v+wPXx+9Dyj72R2Rm1H488a3QEn/AOHOtgdHDo+Y/N1uOG9XjQeuy2jppDd6NyXStb81s7u4TqMJZBIvNiS5wq5YsLmvSW6BbfyEUgTtMa3ADAEaGMYjL6lihgzC0RJGNRTIHxMA7yHCiI0/SMZy7InS5ALjcYy8JJC5nv1bPodFoo+luC+ObwrxRMRZTA2RJpeAWoBtlYw3JvFBdZIFoxuNzWYLsjfuO+F31L7t0Tj0q47CumiLtCTyBP39k1trevm0nIgyNj6nvb107dXZu68z6RbZ6ewoHi+Dr2D66dt8Z855qJ66zvbxPrfnrBnpN8Fe9rJr7A/JUzr3L35CwS7TjN8+vYP/yKmWv837926oYA90mA3bsPtl/L8tdMfMHwr5x51e4exUCho9ztzuIki8bCjM8W41dp4asXrHg83HmdFRs64Q0o1b2eVPdfc8GaVA9eZ8VVqV7w61e410uB/3JAvgImLzff9Wq8fjsUarTKKkVU20M0DadiwjuiwkGFNwqAM/mBOR5z/YB19RI5NJjNY2lFp1GBlJdfBEWIpMuFQyCytDydCgThSGVnKi5CDpw1MS+zcBrkCLwiZxriw4DKj+zZZ/o6nKJUyZE9n31G5IqpFCeghQC8IAlyCRZhUYIt08wNCvtzdZJBMXwenc4kXaDWySMsBPckKMoMK8A2k+OIh2tEGgxC1AUnUuQxb/c8yCIl9IksLshMJ2pvv37JpWU+crN0XIYbpdBa+SGC8yCKgxMotZxjR5n8qCRNnkcBqkIMKYvPNZFNky/o/ocyLD7YzLk0DSMlwyGdTCBQIC6isRRZkJxK0naxVloBGTKrnQS5HItpWuayMhVrQy2ZZOlMHMssJZLkHweDBgkxK2PekjJxVZxBr1IxJpXnMoaMGmQgzBXbXVmVbqRY6E2Vd8oMpG/tHeukCGdTbJ8UVFAxB2OcLkjZUzh67UICGACtkt5ogTZcey7GKDzHNHDxSu9hC2tlCiAcumAUz6D2mMAdpxew/Tmq71PpQwAMf1QS9idpWuBe5UrawZQysWMSOVDLSHNREsYl7FBcpLzlXPmdmmBUcfL2u9u13W1wEJPizjIW3r63u13b2a7u7zLA6f7D7e3ave3lgCPBmhCcIwKG5DxxyFaCBnifm5J/gNosPBPkZ24m54HuLxJQAZ0TCfVgC/M5ZvGIDWkFmWxSZkkEn8UV+T0jJC+zSYCmQEGHaNCuTzSiSC5YVyY5rVqtj3KlA4xfRMUUkBlnwRxmpw4pOQ9yXKNPCeO0mBpNtVp775byS+W8cGPW/iSTDPJxmRdGK4KsQbJAgIli4DuWanY+w/6ngFrBRtJk8mrjNIVjCY/qfRFRJiUv4Kl5NC6lMar8RWZffvxH2DlLntASuGDCwJPjU3DloMMk19RpmKvfXiHn4t6e4M5F20oxJiw7YGplC3YXT+t5j1YvNuEUKIdWGNwiU9UQ0edpjiAFSMBbTuI0PCO5xprcnFslw1XAJ1hdsLQ7tXcpIsD1ZnCaWTlbRtwlNxLSBAlXsRB1okDNWgUdsMxW2GNNbeyftgbgnUeIPNiKq4FySPbY607Wgi/bFuKfpumYMocKYGypaUCgFBPA/C68EB0HR2XNDiTEDBANWFlMkCwY6GilJo2jDM6PcUKimiSfwIeWEcW4KkyFao1aHVkY+0igFPqoikBuoEAD0rnKMUs8bb0cYhpadDuhqBTKFY/Xtq226abQSk9AME+maPt1CZKzUgzGbqCvdIY8DncxGLo7e8p8dnDG+2EM0wbmMqPdF1GmAuKG4jVOSi44EC10eFARBC5Kt8E0V7FJu2YeFWyZQHnvSVoUCD+U2KaqXAChFY4DBHKKGaraoBMVrks4Z61nQp33dLmRpSggoJR8ngULCudQU1bCpBTZv7azGIKQns4pTcRk4jLW1ZDGs0oCW2vOTBBbV/KAwjlUijiDkTEKDCUxKwKEgPlYVWNKs6S1gsIf/JzmZHJGwZsjFBQXiHd3kRxPKVoiycfSEB3lR2OUeRtBDZIBO8mYk20YVCGPcuQcO3OlpGDMipvCy7DniHEHdEUF2aJiPZVVgAxfkBQyGqiVhB/N871DJNQkhDIpbxIdkLhIszOVZYqUD8qU0Q3hT7F8xuXX0t+X5R2cMkO5wOohAtoZFlDfRWI0EP2xIxWftYexjTd9D8xUCBAWCqpEZQulQphTGj7Adp6ihj+VxSpgUBZgdshHOTlMFS4q0ZghKYGRlm0hSG04joqVmIEETT6aZmP6WiiQKyJGX5LNmI9KgKpOQg0L85BXFi8XLp/HFCgzkjIqNHaWcFoveTlElXN0WV6RkkVe5d8SwFa6x4ILUqCKiFxHrOcNrvE0mBnlwDiqrmUoZSLrSUJob9tUUF6kuvsghrBjwPU3UQw4sVMNwGEdaxIOwoYXTGSx8HgliXEGBFdzsQz1IVVkUMY4k+BrVrCIl9EhYrhGszlq7iBhdEMFBXEhuVHtTshGy2pUjUUwklxIvs2MZ0F+BtSXepKKbin1KwTTvIQkMGUeohKq/JvSB5lcWGrVmoa2BNftL+PFErOCsgytYKE0hvHcOOx0Gx3R6jpdryO6nhh22x1ftAZDYR8JdzjYbzb8D64eC8t8rZvWNX/VSK96Zz2wapu5U+5wg/G28IHV9SZ5vSU2OcMIlKlxVMBTZTCuUWqvEuwY+fE0AVgo7BK5Ysr9bFXLqSYGuK5aPOX+jGZBMf+q+GtdQYCsk9QyOYm1KtUQeyenKAo3QPyELM7ZBbjJCe+AlOpQq8XkWrkok4uA/P6t4SqWi1EOR9rr6m5IlTtboqEFZg3u7Xz58R/c/02tzr48Rzv0TQEdWhyz86of2fsddAbolVVvYKAHMMRtH1mEyrD8DmpGwqifAlJ7iPjITiX6lC1B4kADPiLY3ip7rdWj6HBL2vhQhyePEmFr1fTtcUNInWB1U451J8pZY3m4sq5cIJ7bXRVCk1U0VGGJ0z7515iiCamXsQB7TSYwE+t6Sys7qE4EuMziJAJkZCpgw0EzSjlcYdWCk4iwZLy+CbbWRCA4AalnER0zUNl0EhDk0hl+VrFC5Ul1bwpSyDE60NEZxq92Fwoe97aBj3u7bxhAzOV2KTkFJ7Q7qYFC9SjKqVqMxg06yzk+VO6HLQXK4VSeo7L/ilK/loE5BilPI1XuvI4qf400SY0+HCWZpOKdd9756o3bVApSdlnf+f1d7Py97Tdr5/6Ujy8pgugWdL2Kr86Sqjq+pLOY6txJnUDos6ctXrs6wb2gjEvPKSf0mDBebGYapJdxqqKBLjolVVkpuqJlM0PeiriRczMqn6hwhux+ro47s0D1Uhz3ptF8zkcYOrFEKnvp1IKuMcVN4sBHCNVx2doJ3UvAvnwgyjav8ixb+g1D94DP/dhAsxS17DydYyBTUZKOhkOKB0qZpB10GJIsptPLZuxYhfIlDtJspVN1AEzGpagcJegNKLIj3CayyBa4hxZNeQ6XbrIIYtSGxDdE2FINJVWwdKrNh66QevU4e0usHnW/rYqP2nrx8ZLCwFKy+CwYOa7i/rawibeO/w8paO282qzidgMSnAewGwpSbnnv/BKmflC7t6M729s0QHZWzqVIV2ed6qxfYbs6ncnvDGVtHR0aHL9l6kPRBhXzPLZTew+N54Kkru69NpOvg7Xq9Ho9Ja2HD04qp1yOSi5HDdF8EV7/Q4jaeC40ppcYuHsD5qMEa07pwcSiqqZqCvgVAPWzl2A8Vuen9KghJK95S5g6d8Z650EMKZOAi1ssqY7V6SAxfULH90H4UUkH7ur0IEeEK9jmHEmLFFYyfjnIvkd59uH2DWT/u5C92sHcNE1vbtNUNUo3zdNN83QtUK6crtx0U78q1a7Oqf7/9lVXTuhuGq3/+43W+insTdN103T9L1Wwmwf+Nw3YTQP2RsHXh82qt+6siN5Pk0kor76HByuJCYCUjGFd9dwvKSf0diQVqXGq0h+iZj/NEdxOZSzRbx1KftwugHT9Opx+Tp6IfEbZWL/xyO9LPAE1fllTv/GK9fxKjg7k1e7ptTQZlEU0KWN+F4Xet6zep1CR9MnWKsCXCT2RhD5iTKm6Spo6UQ/7jVaaUlkJCJbUHtIj1QW/7xiFGB7KSYnJbgodLxolZW/1LxMxoKfYmKGewfahAfzQ/7+gouubc6VE/RofJLu/c994sLtr7OzcAwIfPBD9IDmDe0xRuNbTMpYw99jBqimKF+yNXBuVqSnev/dg+54jL/JY0qNuDyUGPcjm9xHQOZH3RXMFjHI+5rf3+AWDTTMaXnmSh1l0IutQG2iweuZb6uk1vz6hsw/2fh6EC71rpuvLbMYvSo1y+ewHL1DeUNKzzzeXP/t8udaT2XkUSvq3TjRZAB0nOb3dxH/cSfI5+p3/At7xjSIvPAAA"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-eggshell-acrylic-1-quart",
+    "name": "White Cliffs–Eggshell (Acrylic) #3 / 1 Quart",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101552884",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Ceilings",
+      "ideal for use in kitchens",
+      "bathrooms",
+      "children’s rooms",
+      "hallways and other high traffic areas",
+      "where a slight sheen is desired to improve clean-ability."
+    ],
+    "leadTime": null,
+    "price": 26,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Eggshell ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:52.249586Z",
+    "lastUpdated": "2025-05-31T05:25:52.249596Z",
+    "sourceRunId": "run-portolapaints-004",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Ceilings",
+          "ideal for use in kitchens",
+          "bathrooms",
+          "children’s rooms",
+          "hallways and other high traffic areas",
+          "where a slight sheen is desired to improve clean-ability."
+        ],
+        "sheen": "10–15% Sheen Level @ 60 Degrees",
+        "coverage": "~150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Quart",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "H4sIAN+SOmgC/+1bW5PjSFb+KzlBM9s9lNXV1VM9PfUyK1u+lS1ZbclVXfWmktNlTcmSR5eq9gZBTEzsPBG8AC/ARjAbsLALDcReiFmCJYjoAJ7rZYnpt2X+AH+B75xM+dLVXdOzLMQ21IttKTPPOXnOd24p2U2zIo0D4QZRUuTit8XhNCqkaMTRZCLMMFvEUSg8mUUy96bpXJwsRCON08zPgnFURGkSxKIVJVE+HaazIMHCYNGPZlIcBvm0hRuWDM9y8TZohTLPUyLkZpiQ0U1PBjF+MXPRTSZpNguIqDeXYRTExULTlvmSphZmxU3fWBeokYJKcppvyt98UuA7zarLJJjJWF9cEcmX4TSJQhCzgiIQ3lTKIm8HMcYWjTQpgrDAjtIyKcyWqIkvftd8jK8vP3lq9vHdt47p5t8ZXzw1LX1/gO9bZpc/2/w55E8bnz//83//2DAP8evfft9s4OvZn5kjHvX16mP+/lndo7v1Dn8S5V/85Y/rdb464s+mml8/5qt9fLayus0XPn+SGPXcqJv4vvzjy+/UiatbZ1m6LOMBS1d3+JN+X/7j5Y+MekvR6vJXjyT4jz/9kwaRbrTMBpG71TjgNY/os8fyNFpq3Lf0vD7fJdrPvtd4zBcN/mTWPZupN9p6tqUuezxjyFv7bkNJ0FGXTxtKa40jfUkb7/3L71m05iwzLFbB+EOLdWAxlyZzbBKTL54azz/1WOz2I8W0yapoakV6rMgm6a6etXpsmtZA0W4R7VutrprZ0gK1W+rbVQrz9WXb5Ms2yWG1myyN5tFmc7a7TLxdkekrJm2LB119lwR51G6rqY4ieai+WOEdtnKHRvod1luHgNQquh7T6zpM6B+6RHY477KtulqQrs10u32+/KuuBt8+627fZaPts+j7ylwKlT/t0b2eN+0xuh/31LLeIc8hWfN01jf57t/0D9Ron1D7/NvG82/3GdN9VnufN9EnOo1Oq68F6I/Ut01cXZvxaRN1u2fTgqFtE1X7YGj3WRe2Xmg/0t9M3FZkvn9UjTL+bNJE327oe0o/f2trldgsnG0qd37+qWEzIGxSSc9h1DtM3CH1DHPDUcp76jRYEoenO7yhW05T3WvzlL9w2MWdFhMkpV3+5PLvL//JYd0OWOmu0uX3XU+ZxGWOLhHouQryP3KJqnfX7fDlD112XJfE+Na/fuLqvT7iHfzQeP7JUO9sSGz6MhqyFEMG0fDikBj5nq3RT6utE08v/uLHnoLckGZdfnb53cs/9NiZPI560mPTeI/ZJT2NA087iMdxyuPdHfM+2h7jracg/wOPdd30tNH11utaoV5HTebt9ZmrXbmaFvdAycIe47FVPHZRr8nYb3QUrHwGpk9Dl59efscnE3lTn0Z/8dN/9jlE+W3lvexCPsns3/LZt3yT5fBZDp+5+Gwrn7n7HExGfGdEREbedKSw/xOzqbPC99p1JjLiHY8Y9KPRMXvKN2YHZJGD4sDUu2KPO1DA/OtDFVaanSUij2j8Pz//2THzPObNHaVlJsIgK5Y/RJQLOZsXC+8smosiFSGymEyKAcYbZZbhp+hgci7SiRjMZcaJWASZFHaa1FpZJB4Gs9rufEZJMijE+7jawZXr+UZNDJx+F/AeDK3msAuAO4NDYR6Y3b5Z7zffuikdXigdmpbZcsx+37Qt02mbI8s8bJvHTt2063Wrbvn1tlPvtuqOVR/U655VP3Trx1bDtBpWCwBuOEeNYaNx0Gwc96z9ltXrWQPXOraabbfp15ujYWvfavXcdt1t21bbabX9R+0jq9OzOk6/M2p1rWG373WdYdfr7dvWvnvUa3q9ttfrDHt2qzc87B1ZvWO/b/b6dbffG9qmZVt9u2fZiLeObw9cezSkYHuI8Dt02o7THTju0Dm23Kbjtntux3V7Q7fvuEftR+ZwOHCGnjU8bHnm0KtbXrPntS2v43r9vudbfqfu73v+wPXx+9Dyj72R2Rm1H488a3QEn/AOHOtgdHDo+Y/N1uOG9XjQeuy2jppDd6NyXStb81s7u4TqMJZBIvNiS5wq5YsLmvSW6BbfyEUgTtMa3ADAEaGMYjL6lihgzC0RJGNRTIHxMA7yHCiI0/SMZy7InS5ALjcYy8JJC5nv1bPodFoo+luC+ObwrxRMRZTA2RJpeAWoBtlYw3JvFBdZIFoxuNzWYLsjfuO+F31L7t0Tj0q47CumiLtCTyBP39k1trevm0nIgyNj6nvb107dXZu68z6RbZ6ewoHi+Dr2D66dt8Z855qJ66zvbxPrfnrBnpN8Fe9rJr7A/JUzr3L35CwS7TjN8+vYP/yKmWv837926oYA90mA3bsPtl/L8tdMfMHwr5x51e4exUCho9ztzuIki8bCjM8W41dp4asXrHg83HmdFRs64Q0o1b2eVPdfc8GaVA9eZ8VVqV7w61e410uB/3JAvgImLzff9Wq8fjsUarTKKkVU20M0DadiwjuiwkGFNwqAM/mBOR5z/YB19RI5NJjNY2lFp1GBlJdfBEWIpMuFQyCytDydCgThSGVnKi5CDpw1MS+zcBrkCLwiZxriw4DKj+zZZ/o6nKJUyZE9n31G5IqpFCeghQC8IAlyCRZhUYIt08wNCvtzdZJBMXwenc4kXaDWySMsBPckKMoMK8A2k+OIh2tEGgxC1AUnUuQxb/c8yCIl9IksLshMJ2pvv37JpWU+crN0XIYbpdBa+SGC8yCKgxMotZxjR5n8qCRNnkcBqkIMKYvPNZFNky/o/ocyLD7YzLk0DSMlwyGdTCBQIC6isRRZkJxK0naxVloBGTKrnQS5HItpWuayMhVrQy2ZZOlMHMssJZLkHweDBgkxK2PekjJxVZxBr1IxJpXnMoaMGmQgzBXbXVmVbqRY6E2Vd8oMpG/tHeukCGdTbJ8UVFAxB2OcLkjZUzh67UICGACtkt5ogTZcey7GKDzHNHDxSu9hC2tlCiAcumAUz6D2mMAdpxew/Tmq71PpQwAMf1QS9idpWuBe5UrawZQysWMSOVDLSHNREsYl7FBcpLzlXPmdmmBUcfL2u9u13W1wEJPizjIW3r63u13b2a7u7zLA6f7D7e3ave3lgCPBmhCcIwKG5DxxyFaCBnifm5J/gNosPBPkZ24m54HuLxJQAZ0TCfVgC/M5ZvGIDWkFmWxSZkkEn8UV+T0jJC+zSYCmQEGHaNCuTzSiSC5YVyY5rVqtj3KlA4xfRMUUkBlnwRxmpw4pOQ9yXKNPCeO0mBpNtVp775byS+W8cGPW/iSTDPJxmRdGK4KsQbJAgIli4DuWanY+w/6ngFrBRtJk8mrjNIVjCY/qfRFRJiUv4Kl5NC6lMar8RWZffvxH2DlLntASuGDCwJPjU3DloMMk19RpmKvfXiHn4t6e4M5F20oxJiw7YGplC3YXT+t5j1YvNuEUKIdWGNwiU9UQ0edpjiAFSMBbTuI0PCO5xprcnFslw1XAJ1hdsLQ7tXcpIsD1ZnCaWTlbRtwlNxLSBAlXsRB1okDNWgUdsMxW2GNNbeyftgbgnUeIPNiKq4FySPbY607Wgi/bFuKfpumYMocKYGypaUCgFBPA/C68EB0HR2XNDiTEDBANWFlMkCwY6GilJo2jDM6PcUKimiSfwIeWEcW4KkyFao1aHVkY+0igFPqoikBuoEAD0rnKMUs8bb0cYhpadDuhqBTKFY/Xtq226abQSk9AME+maPt1CZKzUgzGbqCvdIY8DncxGLo7e8p8dnDG+2EM0wbmMqPdF1GmAuKG4jVOSi44EC10eFARBC5Kt8E0V7FJu2YeFWyZQHnvSVoUCD+U2KaqXAChFY4DBHKKGaraoBMVrks4Z61nQp33dLmRpSggoJR8ngULCudQU1bCpBTZv7azGIKQns4pTcRk4jLW1ZDGs0oCW2vOTBBbV/KAwjlUijiDkTEKDCUxKwKEgPlYVWNKs6S1gsIf/JzmZHJGwZsjFBQXiHd3kRxPKVoiycfSEB3lR2OUeRtBDZIBO8mYk20YVCGPcuQcO3OlpGDMipvCy7DniHEHdEUF2aJiPZVVgAxfkBQyGqiVhB/N871DJNQkhDIpbxIdkLhIszOVZYqUD8qU0Q3hT7F8xuXX0t+X5R2cMkO5wOohAtoZFlDfRWI0EP2xIxWftYexjTd9D8xUCBAWCqpEZQulQphTGj7Adp6ihj+VxSpgUBZgdshHOTlMFS4q0ZghKYGRlm0hSG04joqVmIEETT6aZmP6WiiQKyJGX5LNmI9KgKpOQg0L85BXFi8XLp/HFCgzkjIqNHaWcFoveTlElXN0WV6RkkVe5d8SwFa6x4ILUqCKiFxHrOcNrvE0mBnlwDiqrmUoZSLrSUJob9tUUF6kuvsghrBjwPU3UQw4sVMNwGEdaxIOwoYXTGSx8HgliXEGBFdzsQz1IVVkUMY4k+BrVrCIl9EhYrhGszlq7iBhdEMFBXEhuVHtTshGy2pUjUUwklxIvs2MZ0F+BtSXepKKbin1KwTTvIQkMGUeohKq/JvSB5lcWGrVmoa2BNftL+PFErOCsgytYKE0hvHcOOx0Gx3R6jpdryO6nhh22x1ftAZDYR8JdzjYbzb8D64eC8t8rZvWNX/VSK96Zz2wapu5U+5wg/G28IHV9SZ5vSU2OcMIlKlxVMBTZTCuUWqvEuwY+fE0AVgo7BK5Ysr9bFXLqSYGuK5aPOX+jGZBMf+q+GtdQYCsk9QyOYm1KtUQeyenKAo3QPyELM7ZBbjJCe+AlOpQq8XkWrkok4uA/P6t4SqWi1EOR9rr6m5IlTtboqEFZg3u7Xz58R/c/02tzr48Rzv0TQEdWhyz86of2fsddAbolVVvYKAHMMRtH1mEyrD8DmpGwqifAlJ7iPjITiX6lC1B4kADPiLY3ip7rdWj6HBL2vhQhyePEmFr1fTtcUNInWB1U451J8pZY3m4sq5cIJ7bXRVCk1U0VGGJ0z7515iiCamXsQB7TSYwE+t6Sys7qE4EuMziJAJkZCpgw0EzSjlcYdWCk4iwZLy+CbbWRCA4AalnER0zUNl0EhDk0hl+VrFC5Ul1bwpSyDE60NEZxq92Fwoe97aBj3u7bxhAzOV2KTkFJ7Q7qYFC9SjKqVqMxg06yzk+VO6HLQXK4VSeo7L/ilK/loE5BilPI1XuvI4qf400SY0+HCWZpOKdd9756o3bVApSdlnf+f1d7Py97Tdr5/6Ujy8pgugWdL2Kr86Sqjq+pLOY6txJnUDos6ctXrs6wb2gjEvPKSf0mDBebGYapJdxqqKBLjolVVkpuqJlM0PeiriRczMqn6hwhux+ro47s0D1Uhz3ptF8zkcYOrFEKnvp1IKuMcVN4sBHCNVx2doJ3UvAvnwgyjav8ixb+g1D94DP/dhAsxS17DydYyBTUZKOhkOKB0qZpB10GJIsptPLZuxYhfIlDtJspVN1AEzGpagcJegNKLIj3CayyBa4hxZNeQ6XbrIIYtSGxDdE2FINJVWwdKrNh66QevU4e0usHnW/rYqP2nrx8ZLCwFKy+CwYOa7i/rawibeO/w8paO282qzidgMSnAewGwpSbnnv/BKmflC7t6M729s0QHZWzqVIV2ed6qxfYbs6ncnvDGVtHR0aHL9l6kPRBhXzPLZTew+N54Kkru69NpOvg7Xq9Ho9Ja2HD04qp1yOSi5HDdF8EV7/Q4jaeC40ppcYuHsD5qMEa07pwcSiqqZqCvgVAPWzl2A8Vuen9KghJK95S5g6d8Z650EMKZOAi1ssqY7V6SAxfULH90H4UUkH7ur0IEeEK9jmHEmLFFYyfjnIvkd59uH2DWT/u5C92sHcNE1vbtNUNUo3zdNN83QtUK6crtx0U78q1a7Oqf7/9lVXTuhuGq3/+43W+insTdN103T9L1Wwmwf+Nw3YTQP2RsHXh82qt+6siN5Pk0kor76HByuJCYCUjGFd9dwvKSf0diQVqXGq0h+iZj/NEdxOZSzRbx1KftwugHT9Opx+Tp6IfEbZWL/xyO9LPAE1fllTv/GK9fxKjg7k1e7ptTQZlEU0KWN+F4Xet6zep1CR9MnWKsCXCT2RhD5iTKm6Spo6UQ/7jVaaUlkJCJbUHtIj1QW/7xiFGB7KSYnJbgodLxolZW/1LxMxoKfYmKGewfahAfzQ/7+gouubc6VE/RofJLu/c994sLtr7OzcAwIfPBD9IDmDe0xRuNbTMpYw99jBqimKF+yNXBuVqSnev/dg+54jL/JY0qNuDyUGPcjm9xHQOZH3RXMFjHI+5rf3+AWDTTMaXnmSh1l0IutQG2iweuZb6uk1vz6hsw/2fh6EC71rpuvLbMYvSo1y+ewHL1DeUNKzzzeXP/t8udaT2XkUSvq3TjRZAB0nOb3dxH/cSfI5+p3/At7xjSIvPAAA"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-eggshell-acrylic-1-gallon",
+    "name": "White Cliffs–Eggshell (Acrylic) #3 / 1 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101585652",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Ceilings",
+      "ideal for use in kitchens",
+      "bathrooms",
+      "children’s rooms",
+      "hallways and other high traffic areas",
+      "where a slight sheen is desired to improve clean-ability."
+    ],
+    "leadTime": null,
+    "price": 72,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Eggshell ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:52.353307Z",
+    "lastUpdated": "2025-05-31T05:25:52.353321Z",
+    "sourceRunId": "run-portolapaints-005",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Ceilings",
+          "ideal for use in kitchens",
+          "bathrooms",
+          "children’s rooms",
+          "hallways and other high traffic areas",
+          "where a slight sheen is desired to improve clean-ability."
+        ],
+        "sheen": "10–15% Sheen Level @ 60 Degrees",
+        "coverage": "~150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-eggshell-acrylic-5-gallon",
+    "name": "White Cliffs–Eggshell (Acrylic) #3 / 5 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101618420",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Ceilings",
+      "ideal for use in kitchens",
+      "bathrooms",
+      "children’s rooms",
+      "hallways and other high traffic areas",
+      "where a slight sheen is desired to improve clean-ability."
+    ],
+    "leadTime": null,
+    "price": 305,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Eggshell ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:52.501723Z",
+    "lastUpdated": "2025-05-31T05:25:52.501733Z",
+    "sourceRunId": "run-portolapaints-006",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Ceilings",
+          "ideal for use in kitchens",
+          "bathrooms",
+          "children’s rooms",
+          "hallways and other high traffic areas",
+          "where a slight sheen is desired to improve clean-ability."
+        ],
+        "sheen": "10–15% Sheen Level @ 60 Degrees",
+        "coverage": "~150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 5 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-low-sheen-acrylic-1-quart",
+    "name": "White Cliffs–Low Sheen (Acrylic) #3 / 1 Quart",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101683956",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Ceilings",
+      "Trim"
+    ],
+    "leadTime": null,
+    "price": 26,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Low Sheen ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:52.629344Z",
+    "lastUpdated": "2025-05-31T05:25:52.629354Z",
+    "sourceRunId": "run-portolapaints-007",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Ceilings",
+          "Trim"
+        ],
+        "sheen": "20–25% Sheen Level @ 60 Degrees",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Quart",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-low-sheen-acrylic-1-gallon",
+    "name": "White Cliffs–Low Sheen (Acrylic) #3 / 1 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101716724",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Ceilings",
+      "Trim"
+    ],
+    "leadTime": null,
+    "price": 72,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Low Sheen ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:52.791957Z",
+    "lastUpdated": "2025-05-31T05:25:52.791967Z",
+    "sourceRunId": "run-portolapaints-008",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Ceilings",
+          "Trim"
+        ],
+        "sheen": "20–25% Sheen Level @ 60 Degrees",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-low-sheen-acrylic-5-gallon",
+    "name": "White Cliffs–Low Sheen (Acrylic) #3 / 5 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101749492",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Ceilings",
+      "Trim"
+    ],
+    "leadTime": null,
+    "price": 305,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Low Sheen ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:52.954708Z",
+    "lastUpdated": "2025-05-31T05:25:52.954723Z",
+    "sourceRunId": "run-portolapaints-009",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Ceilings",
+          "Trim"
+        ],
+        "sheen": "20–25% Sheen Level @ 60 Degrees",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 5 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-semi-gloss-acrylic-1-quart",
+    "name": "White Cliffs–Semi Gloss (Acrylic) #3 / 1 Quart",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101782260",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Mill work",
+      "Trim"
+    ],
+    "leadTime": null,
+    "price": 28,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Semi Gloss ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:53.063913Z",
+    "lastUpdated": "2025-05-31T05:25:53.063927Z",
+    "sourceRunId": "run-portolapaints-010",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Mill work",
+          "Trim"
+        ],
+        "sheen": "35–70% Sheen Level @ 60 Degrees",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Quart",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-semi-gloss-acrylic-1-gallon",
+    "name": "White Cliffs–Semi Gloss (Acrylic) #3 / 1 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101815028",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Mill work",
+      "Trim"
+    ],
+    "leadTime": null,
+    "price": 79,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Semi Gloss ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:53.159370Z",
+    "lastUpdated": "2025-05-31T05:25:53.159381Z",
+    "sourceRunId": "run-portolapaints-011",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Mill work",
+          "Trim"
+        ],
+        "sheen": "35–70% Sheen Level @ 60 Degrees",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-semi-gloss-acrylic-5-gallon",
+    "name": "White Cliffs–Semi Gloss (Acrylic) #3 / 5 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101847796",
+    "material": "Acrylic",
+    "useCase": [
+      "Interior Walls",
+      "Mill work",
+      "Trim"
+    ],
+    "leadTime": null,
+    "price": 335,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Semi Gloss ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:53.280359Z",
+    "lastUpdated": "2025-05-31T05:25:53.280370Z",
+    "sourceRunId": "run-portolapaints-012",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Interior Walls",
+          "Mill work",
+          "Trim"
+        ],
+        "sheen": "35–70% Sheen Level @ 60 Degrees",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 5 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-5/60-flat-acrylic-1-quart",
+    "name": "White Cliffs–5/60 Flat (Acrylic) #3 / 1 Quart",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101880564",
+    "material": "Acrylic",
+    "useCase": [
+      "Exterior Walls  Trim"
+    ],
+    "leadTime": null,
+    "price": 25,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "5/60 Flat",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:53.387985Z",
+    "lastUpdated": "2025-05-31T05:25:53.387995Z",
+    "sourceRunId": "run-portolapaints-013",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Exterior Walls  Trim"
+        ],
+        "sheen": "5% Sheen Level @ 60 Degrees",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Quart",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-5/60-flat-acrylic-1-gallon",
+    "name": "White Cliffs–5/60 Flat (Acrylic) #3 / 1 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101913332",
+    "material": "Acrylic",
+    "useCase": [
+      "Exterior Walls  Trim"
+    ],
+    "leadTime": null,
+    "price": 70,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "5/60 Flat",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:53.478354Z",
+    "lastUpdated": "2025-05-31T05:25:53.478364Z",
+    "sourceRunId": "run-portolapaints-014",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Exterior Walls  Trim"
+        ],
+        "sheen": "5% Sheen Level @ 60 Degrees",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-5/60-flat-acrylic-5-gallon",
+    "name": "White Cliffs–5/60 Flat (Acrylic) #3 / 5 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101946100",
+    "material": "Acrylic",
+    "useCase": [
+      "Exterior Walls  Trim"
+    ],
+    "leadTime": null,
+    "price": 295,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "5/60 Flat",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:53.598691Z",
+    "lastUpdated": "2025-05-31T05:25:53.598702Z",
+    "sourceRunId": "run-portolapaints-015",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Exterior Walls  Trim"
+        ],
+        "sheen": "5% Sheen Level @ 60 Degrees",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "45 minutes",
+        "recoatTime": "2-4 hours",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Zero VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 5 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-satin-enamel-hybrid-alkyd-1-quart",
+    "name": "White Cliffs–Satin Enamel (Hybrid Alkyd) #3 / 1 Quart",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115101978868",
+    "material": "Hybrid Alkyd",
+    "useCase": [
+      "Doors",
+      "Trim",
+      "Millwork",
+      " Metal"
+    ],
+    "leadTime": null,
+    "price": 28,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Satin Enamel ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:53.715820Z",
+    "lastUpdated": "2025-05-31T05:25:53.715829Z",
+    "sourceRunId": "run-portolapaints-016",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Doors",
+          "Trim",
+          "Millwork",
+          " Metal"
+        ],
+        "sheen": "18–22% Sheen Level @ 60 Degrees (Can vary by color)",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "6-12 hours (Dry Times can vary based on colors and conditions)",
+        "recoatTime": ": 24 hours+",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Low VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Quart",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-satin-enamel-hybrid-alkyd-1-gallon",
+    "name": "White Cliffs–Satin Enamel (Hybrid Alkyd) #3 / 1 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115102011636",
+    "material": "Hybrid Alkyd",
+    "useCase": [
+      "Doors",
+      "Trim",
+      "Millwork",
+      " Metal"
+    ],
+    "leadTime": null,
+    "price": 82,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Satin Enamel ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:53.824946Z",
+    "lastUpdated": "2025-05-31T05:25:53.824960Z",
+    "sourceRunId": "run-portolapaints-017",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Doors",
+          "Trim",
+          "Millwork",
+          " Metal"
+        ],
+        "sheen": "18–22% Sheen Level @ 60 Degrees (Can vary by color)",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "6-12 hours (Dry Times can vary based on colors and conditions)",
+        "recoatTime": ": 24 hours+",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Low VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-satin-enamel-hybrid-alkyd-5-gallon",
+    "name": "White Cliffs–Satin Enamel (Hybrid Alkyd) #3 / 5 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115102044404",
+    "material": "Hybrid Alkyd",
+    "useCase": [
+      "Doors",
+      "Trim",
+      "Millwork",
+      " Metal"
+    ],
+    "leadTime": null,
+    "price": 370,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Satin Enamel ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:53.919061Z",
+    "lastUpdated": "2025-05-31T05:25:53.919076Z",
+    "sourceRunId": "run-portolapaints-018",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Doors",
+          "Trim",
+          "Millwork",
+          " Metal"
+        ],
+        "sheen": "18–22% Sheen Level @ 60 Degrees (Can vary by color)",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "6-12 hours (Dry Times can vary based on colors and conditions)",
+        "recoatTime": ": 24 hours+",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Low VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 5 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-gloss-enamel-hybrid-alkyd-1-quart",
+    "name": "White Cliffs–Gloss Enamel (Hybrid Alkyd) #3 / 1 Quart",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115102077172",
+    "material": "Hybrid Alkyd",
+    "useCase": [
+      "Doors",
+      "Trim",
+      "Millwork",
+      " Metal"
+    ],
+    "leadTime": null,
+    "price": 30,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Gloss Enamel ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:54.028702Z",
+    "lastUpdated": "2025-05-31T05:25:54.028712Z",
+    "sourceRunId": "run-portolapaints-019",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Doors",
+          "Trim",
+          "Millwork",
+          " Metal"
+        ],
+        "sheen": "70–80% Sheen Level @ 60 Degrees (Can vary by color)",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "6-12 hours (Dry Times can vary based on colors and conditions)",
+        "recoatTime": ": 24 hours+",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Low VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Quart",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "H4sIAN+SOmgC/+1bW5PjSFb+KzlBM9s9lNXV1VM9PfUyK1u+lS1ZbclVXfWmktNlTcmSR5eq9gZBTEzsPBG8AC/ARjAbsLALDcReiFmCJYjoAJ7rZYnpt2X+AH+B75xM+dLVXdOzLMQ21IttKTPPOXnOd24p2U2zIo0D4QZRUuTit8XhNCqkaMTRZCLMMFvEUSg8mUUy96bpXJwsRCON08zPgnFURGkSxKIVJVE+HaazIMHCYNGPZlIcBvm0hRuWDM9y8TZohTLPUyLkZpiQ0U1PBjF+MXPRTSZpNguIqDeXYRTExULTlvmSphZmxU3fWBeokYJKcppvyt98UuA7zarLJJjJWF9cEcmX4TSJQhCzgiIQ3lTKIm8HMcYWjTQpgrDAjtIyKcyWqIkvftd8jK8vP3lq9vHdt47p5t8ZXzw1LX1/gO9bZpc/2/w55E8bnz//83//2DAP8evfft9s4OvZn5kjHvX16mP+/lndo7v1Dn8S5V/85Y/rdb464s+mml8/5qt9fLayus0XPn+SGPXcqJv4vvzjy+/UiatbZ1m6LOMBS1d3+JN+X/7j5Y+MekvR6vJXjyT4jz/9kwaRbrTMBpG71TjgNY/os8fyNFpq3Lf0vD7fJdrPvtd4zBcN/mTWPZupN9p6tqUuezxjyFv7bkNJ0FGXTxtKa40jfUkb7/3L71m05iwzLFbB+EOLdWAxlyZzbBKTL54azz/1WOz2I8W0yapoakV6rMgm6a6etXpsmtZA0W4R7VutrprZ0gK1W+rbVQrz9WXb5Ms2yWG1myyN5tFmc7a7TLxdkekrJm2LB119lwR51G6rqY4ieai+WOEdtnKHRvod1luHgNQquh7T6zpM6B+6RHY477KtulqQrs10u32+/KuuBt8+627fZaPts+j7ylwKlT/t0b2eN+0xuh/31LLeIc8hWfN01jf57t/0D9Ron1D7/NvG82/3GdN9VnufN9EnOo1Oq68F6I/Ut01cXZvxaRN1u2fTgqFtE1X7YGj3WRe2Xmg/0t9M3FZkvn9UjTL+bNJE327oe0o/f2trldgsnG0qd37+qWEzIGxSSc9h1DtM3CH1DHPDUcp76jRYEoenO7yhW05T3WvzlL9w2MWdFhMkpV3+5PLvL//JYd0OWOmu0uX3XU+ZxGWOLhHouQryP3KJqnfX7fDlD112XJfE+Na/fuLqvT7iHfzQeP7JUO9sSGz6MhqyFEMG0fDikBj5nq3RT6utE08v/uLHnoLckGZdfnb53cs/9NiZPI560mPTeI/ZJT2NA087iMdxyuPdHfM+2h7jracg/wOPdd30tNH11utaoV5HTebt9ZmrXbmaFvdAycIe47FVPHZRr8nYb3QUrHwGpk9Dl59efscnE3lTn0Z/8dN/9jlE+W3lvexCPsns3/LZt3yT5fBZDp+5+Gwrn7n7HExGfGdEREbedKSw/xOzqbPC99p1JjLiHY8Y9KPRMXvKN2YHZJGD4sDUu2KPO1DA/OtDFVaanSUij2j8Pz//2THzPObNHaVlJsIgK5Y/RJQLOZsXC+8smosiFSGymEyKAcYbZZbhp+hgci7SiRjMZcaJWASZFHaa1FpZJB4Gs9rufEZJMijE+7jawZXr+UZNDJx+F/AeDK3msAuAO4NDYR6Y3b5Z7zffuikdXigdmpbZcsx+37Qt02mbI8s8bJvHTt2063Wrbvn1tlPvtuqOVR/U655VP3Trx1bDtBpWCwBuOEeNYaNx0Gwc96z9ltXrWQPXOraabbfp15ujYWvfavXcdt1t21bbabX9R+0jq9OzOk6/M2p1rWG373WdYdfr7dvWvnvUa3q9ttfrDHt2qzc87B1ZvWO/b/b6dbffG9qmZVt9u2fZiLeObw9cezSkYHuI8Dt02o7THTju0Dm23Kbjtntux3V7Q7fvuEftR+ZwOHCGnjU8bHnm0KtbXrPntS2v43r9vudbfqfu73v+wPXx+9Dyj72R2Rm1H488a3QEn/AOHOtgdHDo+Y/N1uOG9XjQeuy2jppDd6NyXStb81s7u4TqMJZBIvNiS5wq5YsLmvSW6BbfyEUgTtMa3ADAEaGMYjL6lihgzC0RJGNRTIHxMA7yHCiI0/SMZy7InS5ALjcYy8JJC5nv1bPodFoo+luC+ObwrxRMRZTA2RJpeAWoBtlYw3JvFBdZIFoxuNzWYLsjfuO+F31L7t0Tj0q47CumiLtCTyBP39k1trevm0nIgyNj6nvb107dXZu68z6RbZ6ewoHi+Dr2D66dt8Z855qJ66zvbxPrfnrBnpN8Fe9rJr7A/JUzr3L35CwS7TjN8+vYP/yKmWv837926oYA90mA3bsPtl/L8tdMfMHwr5x51e4exUCho9ztzuIki8bCjM8W41dp4asXrHg83HmdFRs64Q0o1b2eVPdfc8GaVA9eZ8VVqV7w61e410uB/3JAvgImLzff9Wq8fjsUarTKKkVU20M0DadiwjuiwkGFNwqAM/mBOR5z/YB19RI5NJjNY2lFp1GBlJdfBEWIpMuFQyCytDydCgThSGVnKi5CDpw1MS+zcBrkCLwiZxriw4DKj+zZZ/o6nKJUyZE9n31G5IqpFCeghQC8IAlyCRZhUYIt08wNCvtzdZJBMXwenc4kXaDWySMsBPckKMoMK8A2k+OIh2tEGgxC1AUnUuQxb/c8yCIl9IksLshMJ2pvv37JpWU+crN0XIYbpdBa+SGC8yCKgxMotZxjR5n8qCRNnkcBqkIMKYvPNZFNky/o/ocyLD7YzLk0DSMlwyGdTCBQIC6isRRZkJxK0naxVloBGTKrnQS5HItpWuayMhVrQy2ZZOlMHMssJZLkHweDBgkxK2PekjJxVZxBr1IxJpXnMoaMGmQgzBXbXVmVbqRY6E2Vd8oMpG/tHeukCGdTbJ8UVFAxB2OcLkjZUzh67UICGACtkt5ogTZcey7GKDzHNHDxSu9hC2tlCiAcumAUz6D2mMAdpxew/Tmq71PpQwAMf1QS9idpWuBe5UrawZQysWMSOVDLSHNREsYl7FBcpLzlXPmdmmBUcfL2u9u13W1wEJPizjIW3r63u13b2a7u7zLA6f7D7e3ave3lgCPBmhCcIwKG5DxxyFaCBnifm5J/gNosPBPkZ24m54HuLxJQAZ0TCfVgC/M5ZvGIDWkFmWxSZkkEn8UV+T0jJC+zSYCmQEGHaNCuTzSiSC5YVyY5rVqtj3KlA4xfRMUUkBlnwRxmpw4pOQ9yXKNPCeO0mBpNtVp775byS+W8cGPW/iSTDPJxmRdGK4KsQbJAgIli4DuWanY+w/6ngFrBRtJk8mrjNIVjCY/qfRFRJiUv4Kl5NC6lMar8RWZffvxH2DlLntASuGDCwJPjU3DloMMk19RpmKvfXiHn4t6e4M5F20oxJiw7YGplC3YXT+t5j1YvNuEUKIdWGNwiU9UQ0edpjiAFSMBbTuI0PCO5xprcnFslw1XAJ1hdsLQ7tXcpIsD1ZnCaWTlbRtwlNxLSBAlXsRB1okDNWgUdsMxW2GNNbeyftgbgnUeIPNiKq4FySPbY607Wgi/bFuKfpumYMocKYGypaUCgFBPA/C68EB0HR2XNDiTEDBANWFlMkCwY6GilJo2jDM6PcUKimiSfwIeWEcW4KkyFao1aHVkY+0igFPqoikBuoEAD0rnKMUs8bb0cYhpadDuhqBTKFY/Xtq226abQSk9AME+maPt1CZKzUgzGbqCvdIY8DncxGLo7e8p8dnDG+2EM0wbmMqPdF1GmAuKG4jVOSi44EC10eFARBC5Kt8E0V7FJu2YeFWyZQHnvSVoUCD+U2KaqXAChFY4DBHKKGaraoBMVrks4Z61nQp33dLmRpSggoJR8ngULCudQU1bCpBTZv7azGIKQns4pTcRk4jLW1ZDGs0oCW2vOTBBbV/KAwjlUijiDkTEKDCUxKwKEgPlYVWNKs6S1gsIf/JzmZHJGwZsjFBQXiHd3kRxPKVoiycfSEB3lR2OUeRtBDZIBO8mYk20YVCGPcuQcO3OlpGDMipvCy7DniHEHdEUF2aJiPZVVgAxfkBQyGqiVhB/N871DJNQkhDIpbxIdkLhIszOVZYqUD8qU0Q3hT7F8xuXX0t+X5R2cMkO5wOohAtoZFlDfRWI0EP2xIxWftYexjTd9D8xUCBAWCqpEZQulQphTGj7Adp6ihj+VxSpgUBZgdshHOTlMFS4q0ZghKYGRlm0hSG04joqVmIEETT6aZmP6WiiQKyJGX5LNmI9KgKpOQg0L85BXFi8XLp/HFCgzkjIqNHaWcFoveTlElXN0WV6RkkVe5d8SwFa6x4ILUqCKiFxHrOcNrvE0mBnlwDiqrmUoZSLrSUJob9tUUF6kuvsghrBjwPU3UQw4sVMNwGEdaxIOwoYXTGSx8HgliXEGBFdzsQz1IVVkUMY4k+BrVrCIl9EhYrhGszlq7iBhdEMFBXEhuVHtTshGy2pUjUUwklxIvs2MZ0F+BtSXepKKbin1KwTTvIQkMGUeohKq/JvSB5lcWGrVmoa2BNftL+PFErOCsgytYKE0hvHcOOx0Gx3R6jpdryO6nhh22x1ftAZDYR8JdzjYbzb8D64eC8t8rZvWNX/VSK96Zz2wapu5U+5wg/G28IHV9SZ5vSU2OcMIlKlxVMBTZTCuUWqvEuwY+fE0AVgo7BK5Ysr9bFXLqSYGuK5aPOX+jGZBMf+q+GtdQYCsk9QyOYm1KtUQeyenKAo3QPyELM7ZBbjJCe+AlOpQq8XkWrkok4uA/P6t4SqWi1EOR9rr6m5IlTtboqEFZg3u7Xz58R/c/02tzr48Rzv0TQEdWhyz86of2fsddAbolVVvYKAHMMRtH1mEyrD8DmpGwqifAlJ7iPjITiX6lC1B4kADPiLY3ip7rdWj6HBL2vhQhyePEmFr1fTtcUNInWB1U451J8pZY3m4sq5cIJ7bXRVCk1U0VGGJ0z7515iiCamXsQB7TSYwE+t6Sys7qE4EuMziJAJkZCpgw0EzSjlcYdWCk4iwZLy+CbbWRCA4AalnER0zUNl0EhDk0hl+VrFC5Ul1bwpSyDE60NEZxq92Fwoe97aBj3u7bxhAzOV2KTkFJ7Q7qYFC9SjKqVqMxg06yzk+VO6HLQXK4VSeo7L/ilK/loE5BilPI1XuvI4qf400SY0+HCWZpOKdd9756o3bVApSdlnf+f1d7Py97Tdr5/6Ujy8pgugWdL2Kr86Sqjq+pLOY6txJnUDos6ctXrs6wb2gjEvPKSf0mDBebGYapJdxqqKBLjolVVkpuqJlM0PeiriRczMqn6hwhux+ro47s0D1Uhz3ptF8zkcYOrFEKnvp1IKuMcVN4sBHCNVx2doJ3UvAvnwgyjav8ixb+g1D94DP/dhAsxS17DydYyBTUZKOhkOKB0qZpB10GJIsptPLZuxYhfIlDtJspVN1AEzGpagcJegNKLIj3CayyBa4hxZNeQ6XbrIIYtSGxDdE2FINJVWwdKrNh66QevU4e0usHnW/rYqP2nrx8ZLCwFKy+CwYOa7i/rawibeO/w8paO282qzidgMSnAewGwpSbnnv/BKmflC7t6M729s0QHZWzqVIV2ed6qxfYbs6ncnvDGVtHR0aHL9l6kPRBhXzPLZTew+N54Kkru69NpOvg7Xq9Ho9Ja2HD04qp1yOSi5HDdF8EV7/Q4jaeC40ppcYuHsD5qMEa07pwcSiqqZqCvgVAPWzl2A8Vuen9KghJK95S5g6d8Z650EMKZOAi1ssqY7V6SAxfULH90H4UUkH7ur0IEeEK9jmHEmLFFYyfjnIvkd59uH2DWT/u5C92sHcNE1vbtNUNUo3zdNN83QtUK6crtx0U78q1a7Oqf7/9lVXTuhuGq3/+43W+insTdN103T9L1Wwmwf+Nw3YTQP2RsHXh82qt+6siN5Pk0kor76HByuJCYCUjGFd9dwvKSf0diQVqXGq0h+iZj/NEdxOZSzRbx1KftwugHT9Opx+Tp6IfEbZWL/xyO9LPAE1fllTv/GK9fxKjg7k1e7ptTQZlEU0KWN+F4Xet6zep1CR9MnWKsCXCT2RhD5iTKm6Spo6UQ/7jVaaUlkJCJbUHtIj1QW/7xiFGB7KSYnJbgodLxolZW/1LxMxoKfYmKGewfahAfzQ/7+gouubc6VE/RofJLu/c994sLtr7OzcAwIfPBD9IDmDe0xRuNbTMpYw99jBqimKF+yNXBuVqSnev/dg+54jL/JY0qNuDyUGPcjm9xHQOZH3RXMFjHI+5rf3+AWDTTMaXnmSh1l0IutQG2iweuZb6uk1vz6hsw/2fh6EC71rpuvLbMYvSo1y+ewHL1DeUNKzzzeXP/t8udaT2XkUSvq3TjRZAB0nOb3dxH/cSfI5+p3/At7xjSIvPAAA"
+    }
+  },
+  {
+    "id": "portola-paints-white-cliffs-gloss-enamel-hybrid-alkyd-1-gallon",
+    "name": "White Cliffs–Gloss Enamel (Hybrid Alkyd) #3 / 1 Gallon",
+    "vendor": "Portola Paints",
+    "category": "Wall Finishes",
+    "subcategory": "Paint",
+    "description": "Our cleanest, gallery white. It's a go-to for ceilings and trim, and a classic for walls. Digital swatches are a rough estimation of color - purchasing sample jars or sample chip sets are the best way to see actual colors. Our paints and pigments consist of natural ingredients - there can be slight variation between batches.",
+    "imageUrl": [
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-1-White-Cliffs_e57ea295-05f3-4e81-98bb-eac7b9ce1dfc.png?v=1646140444",
+      "https://cdn.shopify.com/s/files/1/0600/7511/4740/products/PORTOLA-PAINTS-White-Cliffs-Lifestyle.jpg?v=1646141999"
+    ],
+    "url": "https://portolapaints.com/collections/new-standard-1-2/products/white-cliffs-acrylic?variant=43115102109940",
+    "material": "Hybrid Alkyd",
+    "useCase": [
+      "Doors",
+      "Trim",
+      "Millwork",
+      " Metal"
+    ],
+    "leadTime": null,
+    "price": 86,
+    "sustainability": [],
+    "certifications": [],
+    "documents": [],
+    "location": "USA",
+    "collection": "New Standard Vol. 1",
+    "variantGroup": "white-cliffs",
+    "storedImagePath": null,
+    "color": "White Cliffs",
+    "finish": "Gloss Enamel ",
+    "tags": [],
+    "createdAt": "2025-05-31T05:25:54.137163Z",
+    "lastUpdated": "2025-05-31T05:25:54.137174Z",
+    "sourceRunId": "run-portolapaints-020",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "performance": {
+        "recommendedUsage": [
+          "Doors",
+          "Trim",
+          "Millwork",
+          " Metal"
+        ],
+        "sheen": "70–80% Sheen Level @ 60 Degrees (Can vary by color)",
+        "coverage": "150 - 200 sq. ft. (Two Coats)",
+        "dryToTouch": "6-12 hours (Dry Times can vary based on colors and conditions)",
+        "recoatTime": ": 24 hours+",
+        "application": [
+          "Brush",
+          "Roller",
+          "Spray"
+        ],
+        "formulation": "Low VOC Formulated"
+      }
+    },
+    "additionalData": {
+      "priceUnit": "per 1 Gallon",
+      "colorNotes": "Bright white, leans cooler in tone.",
+      "raw_text": "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"
+    }
+  }
+]

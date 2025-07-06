@@ -1,0 +1,1182 @@
+[
+  {
+    "id": "chasingpaper-zinnia-peel-stick-sample-8x9.6-sage",
+    "name": "Zinnia Peel and Stick Wallpaper - Sage (Sample 8 x 9.6 in)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223963787417",
+    "material": "Peel and Stick",
+    "useCase": null,
+    "leadTime": null,
+    "price": 6,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Peel and Stick"
+    ],
+    "createdAt": "2025-05-31T03:27:25.685989Z",
+    "lastUpdated": "2025-05-31T03:27:25.686003Z",
+    "sourceRunId": "run-chasingpaper-001",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 8,
+        "length": 9.6,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Peel and Stick",
+      "priceUnit": "per sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-peel-stick-2x4-sage",
+    "name": "Zinnia Peel and Stick Wallpaper - Sage (2 x 4 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223963820185",
+    "material": "Peel and Stick",
+    "useCase": null,
+    "leadTime": null,
+    "price": 45,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Peel and Stick"
+    ],
+    "createdAt": "2025-05-31T03:27:25.739378Z",
+    "lastUpdated": "2025-05-31T03:27:25.739388Z",
+    "sourceRunId": "run-chasingpaper-002",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 48,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Peel and Stick",
+      "priceUnit": "per roll",
+      "raw_text": "H4sIAB13OmgC/+1bzXLbSJK+91OUInq77bDEltyWt7v3xB/rx5Ystkhb67kVgSJRQwAFVwGi4ZhDv8Oe9rARc53XmHmTfpL9MgsgQf1QBKc3Yg/TEW6KVais/P0yC5X8k05TLb8Rv//2X6IfSafTmRjKTNnRXGciNyIwaa7S/EbGcUbjl4WVsRvrWImBCvDn4B9/C4wdyVslTCpGMsli5fomjuXEWJlrk7oLJW16ZhZibE66v7rz1GXaT10VVoxyY8uxlaHCzjZPlXX+W2bNzMrkzODxXMY6L8V3om+SRNlAy7ibZXEp3ptFH6sOD4XOVeJGkclEN47FkuFRXoLX78TQ6jQHX+DVxDp0PeVyMVJxjP0819g+mC8J8POCV7tRbnWmnHghhrGktSaXqSbp3+Fbd+JyK4P8vblVcV4uKfBmrhcX6tQqlQ51Ov+E/cziWoW9GHsJmYbiJgLjl0Wc6+VCz+BKhJ6cq1D0Y1n2VSjtQDllwRpWD/R0WjhMXtkg0uGpiUOVilPscR4oQVsviS7lJRMvSfeNSwweNOCGJT5TFsqeKXEC5mU8LLKsFEOYe1zE8IixDuZEwGsECtNTHcAINo8W2KBnzRwM+NnlJmv2WNM7C7ruLG+xfqhyzIov6y6JmVSLT9Dq3Zkl00RKBUTnRFodSfEeT9m7j2MOLBahvkeo66JYlaInXapnUX53umnaBsvdIFDOGasV+TZcNeZxcVroUPVK7wjb+0HDd0rvgK38jz2I3RbLLyU0iWAZKhVj+SiH/Si6NDEoY1guPbjBOuir+CJOrXQuiE0eYV2uxEedljHRq8m4XqHjUJSG4rYRNBT9iwiWw4xwimwgjoWxIjFWCedBYY/VVyHEUpUeULrFrIBf3FiV9lUZSkxJJ+27KlAd+8tyTePpgbRz8bZIZ7EaqNQpcSotYqAPtHABbAa3LZJ+ZEsn0zxSSZG4bjzRhFX4CrfMm2ZtbL0cJB4e2YWJ9zRiD6qDFs8tDO4C4CWi1RQh3IF3uTRFmkudurVo9EKdSB+SiEH4EBBMzqGRRzasTS0u4DIs31JQJt3A5bU4q7dFUMNN09koV1nm49ikqrnsTH2RMyinMTRW1sqvX01zjPl7aOJSYmyuXNQcHCJyy+bAkiGfPbqAM0YfRzDhvRRsXyKqKKp7BsKv1qyeRlyYdHYObcsUKhWnxoQcTGdYsBp+c6tsmUckL6/PxVUaIBjNIo/EuUu/hz51iiSFYE9n6lpNkXZIS81ksuSqHysjDsQzGnzucUEMgAcXRVA+NP6eMFc9NHMVa3D2IK2HtxirMHxwj1U0rakM8sTzCf2JZ1MVn4sYXspByoGZQ95HMO3/BD/HiIXzlKAE0FBjNRh6Gs7ZMqZFRigzgiPyhb7p3J0dyFsdil8LaYFE4vzjPboy+FwohKUSoyBKdHhPkkv5RZwVSRZZiHsvS8jwH38T3blMATT3WX4kvQ1VZB9NOJvMcQb0jXUziSPMF/AMYEYMDZzhH+I+qdLyWynj99LOtGsu6f4ZYdvc7hEL9+RXXRF6g7orQlirL3lhUQtQWnHXMqqmx4biHXXcW2PSMWcbzl6rON7sLBSS4o1zCrH6BhLAswU+ryOEcoIaB1B7iXIIwQXy1mSITkmRDvTOl3ts6XEXslQWZZTnHBg2V3ldARmnymoC+ZD9cl2OB9z1Q1IrqS8Tin9JujZJ3+SN4qof62TSwH74BWoAMZCJdPMlVWy6quIejgPk7VxNCxLXKhmeUwWm8yBS7grZepQZE19BM4GklMAzI8Uc8kNh/Sm0T1ejXDZyxuNB9ic+PNzoNJyyw7FUXjkDGUFoP1BrrR+pYL72pZESVtrcGLlDZajogITjOntfK5ReeaXuC5UYSrPQOdKHzfjxPrwc6beZdp4AgOsij753VdIFsGsYtou6HPNTONKlIUjvmxRKdR4vxUIjmVwbp1fGehpGTpRNhwYlNooIVPxmKqowUjdIZRS8rM3LwkUW7rOC+Q3wg9hNBAffvfJ8oPOvZeV8vmwZoyLt6Zk4xfJIJrQrGTBdQcFGNHtXTKQ4Vaan7IRSkZZQf3iDGkDjgThx7NJivNAz9w5lkVo6w40CanEq9YYTZyhMvuKw2XCFDVi5PJaMEo1KNUWVRh8fUBUbm1Zll6+fiA/EAJU9jjzb4tBIeLM66T0EvFXF3V3I8kJPleh+LmDo4FLOqO4WJ0ifLr9GTTcxi/dGkrd07fzNlyz2iRUSGhuH/zoD/esM9OgZaP2lR5+cH2s+uFM9pdrVhlAqnRxOrq7G3dM3ot+96H+46I6vrt9QShNSRIpNRLpbAF6ifYLwqVL5vpgoaNfPgC8AmMihcGYuwkQiUZFnVBQ6IcGfVZ8LjRTYAbCiMoBegwImBPv4ligcnuht0EQJft0gsUjMyLSEbh1EMwgE9GoG+8kwJG85Ov43Aa1a8kksZX0Z4KntMKviGfH5vJLAf+mG4d1lU2PYq2uGKNljhE4BSh4K91lM8w7LIZz+qiqJamlewntf4Qn6/Kn6PHqJP759fXj4F9oOW/TkrH7blVkTFrCBTgHziX9FlcGkiQqRwo9Iu4lBzdEYfPnQ4I8PDb56aPB4OXguRsNPYnD+yadV//9rNYPUFozpQH37unN4uDYykrFqzAH+cv/1B4pUTAJdQmEKgJ3mA1+tRrJhLgJKwpjtrIUI+czdIHkwNIbKsppQoPkw+YPIjGDIKrJ+gsF+7ryGkh41pX+nBx9BlgS8h304RvJD9QWI46KxTIeVYW8BifBlt86h+EHc24/H4HgHB6LX6w26P3/zjXjkvwPx7et7BGt+29F5dfwgoZ9aE/r58EFCrLF2lI5eHjfR8p9X1Tq1HcU7vk9lF9leHd5xyT9AvvsUd5Px6Oj4YVK7CHp8/Eiw/QECP055R8EPjzeT3MnSx1vFfIUbTPXffz768WT3sG9HanPkt6P1RPC3I7ZV/LdU26MQ0FLODSjQUshtgaCloBuxoCWLT8FBS3JtEaGl5FuBQkuWt8WFtrbfDhrWCgui/eb1oN9/vTtA7EJwM0zsQvEJsNiF5FaQsZM6HwWOnSTfAB87ib0tiOwk+kYo2YndpwBlJ6JtYWUnXWwFLjuxvy3E7OYf2wENH1qI5qDX63aPdgeYNoQ2A0sbSk8AShtSWwFJK3U9CiCtJNwAHK3E2xYwWom4EShasfcUQLQi1hYYWsm8FSC0YndbIGhn7+0AYCxTptjvD7r93cN/ezKbg397Ok+E/vaEtgr8Fmp6NOxbyLYh6FsItm3ItxBuY8C3YO2pcG9Bqm2wt5B2q1Bvweq2gd7Gxse/FjLNdV4OVIBCwSnxuRrg+0P/bvc8fXyuejUdSJs3/hzG/Hx1uZBUb1v3+c03B11A70LFRE3pyqF6D4+1dB1F6zsn1dv0/vL1/qnKK4N81GohpkUci1DxbenAf1wSrUV9dSUcX6uIqTWJoN4hMxX0Zn9CV1quai8MlldDxrr9xg1yp2o5yLh9h1meWqUi/EFvpANqnarvIzKrHL5Kvq/HLkzlewdhZ6mkjoO//5V5YSqyunQDh1PSDcnO90/1zYPLZKD2RpkK3E+///Y/4lplSubUf3oHsZaXdHzxQRc0LGqkZxEZitpQ90nQ6YEMI+WIuczE5cGCbpDEVE6sDjqCCDfhYgPVg4qqOBn1RV/ZXE81lLHUeEecaJCIsS0JcjdEifPGTRVrIlg2yYqZb6Vt+PYtPeY63PVB+9C9NV/KnRZUylIPaYON83TeqeiDDe0isEMUaVtHPW2wlNP4K807zYu/tUtATddFE+zxVfn98sgUsygnbysPkqrZl17QO8QPRQE1XJE9ZeoWdA1am1F7srAE/I3v3SMlOT5o9swsDsZGDOHie/VdhPiO7vlJwTeKLsW0uuXGpxyqgQfA2cmh+LosnfFGitrFDF1rkRUzuMcBpD1w7B4sStMZ7lufdUPs5A0HiPjKzCWGbJawPqesT36abtwMgpDuJlj+hgWhmT/DpV2H7ilz8wUbfIeQnSribtH0qxjif7zqM8Xhx/4yvLyvZRGkpqsfx/d1HIIN688esr4m6+PhhSkwnpJmRFbQhWPVT6dTb5fIJJVWA0nKhLw2oY4Ub7h9/9RUJpr92PrvmYJYl2T+qvPkw6iL3ciFIXXBdnV4EF5LRq+gpsa9CoSqdeKFUNCgKaHmhQGeWN4ep7Sa+JkCBFJPRWcVjQF3/DlvcxapM7Byxs/rwOPHxDKMRrXOMBTrqfqDqMQaATk7oPaOiQrpIzMLcM8jaWEdSN6BqCq2qOeBZjp+uCMu4IQdjy7IE6U3Lmls7QK/jiEfmnOdd/7+129ACuNBXCAcxLOj5zBNGmikFvr7P2UAbt+lYNcPrCQfsUPTXTRnnwSroW0pAhyMYZv1jTNTBBHtxlfM2BnuC8enMFRs60jFmed6jcfK7lmtBR+JS8QwaVyCKvVkrIXcMjb26Qp8dT+NhVPlnH+ouREAzGvglyFL35C7lnNsTCyGJMdATWUR52Ks85i6O7/98ZBzaQ4nU+G1SsytnMSqmQRe3APvF+KR2oNkYat/V9l8TQJoo+EDR9h9iHyJDEvpzMNF36RTbRN/30+tCTX47IsAVUQqXGGnSIlgYSbZguV6bD1b2xELvhywOuakDqxygaZ+D0c1kRQxXB/eIkUOhVO/AMirJRbArB4LzN7zl+D2spp/sfyrO0MqGZgCGvO30h5MiHvuGYB/qJRyhmCL7okVhJEWvDNSFqCHYe9IBxG3LThfEzm6+S3BTL4A1omJ5O44gIvQ+e+//Te8FmFnKYutNNbcsK6puLeDTFw7DsX6j2QARfJ7W70Q/IsXQZXT3pAqqgl1uLw+4MoD3kwoQENYvE8NFc1mCvFMaR9RglqZFDVNiCwukomg6eecoVJWGoPJqoWDOmComWK/TjNLeKSyighNV0tAZkEtwn6eN0JeED0v5lr4wYJ+O1OZxiADMJyTaBGSDmaY/71/1hX1lJ8iaUJT4+UaM+SlVH2R2z3iuJl0OYDKUh8UfMEZlO9AX0dxOrE4re+zl2ImQ8rHZ9Oz///7J6gkcl7ZZDdnbRZn/cqkVNmr7GBSHtDnutLZuOSHkaZzxTqCrkoQzoJ2b6S8a95zj0sFgOSqDvWFy5cNL42mNi6T4oUsKS/IKeUFMrFZpP7g0aEfWizIMwriUdxoh/yKHANrRnWdknHvUGRZI4mcya8IHJxDvL9w2RLCrr7QIhxW/igSAu4s0wmYDqsZK9jfnsHcEiElgzonVbkcx4rnHdGdUoQB9Ksj13scpj4ZOxd9PjB4EZ1PDhTacHGK8Ry28L9Qq/mEc2AZUfFNVlZmcJaqTK0SLXRGblMkKCDz/6i8Sd2a+JZrNmyPGkhNnM7VL+J8lJVY0AGU8+KJMfN9AeVnJRPi7fd5qm5/ir2+aCilJrKGjYNld+FeJRSbLMNpioIAmjk7HX/c5/bcS2oQl9hALcgJR/CFfdbatUTFBAy6lmU1yr/cAF6m/CMNlL46kJ4BIjQ2YfVkp8E4agjibiKdb12+1HCcYq4gDNyiQ1GGwKy4JFLkSVHhJvh7X1ziYEUuR2AwV/Xvgaj3kKCE6NEedfH9C3JhJCfcrX306vCFKCGvoGKZKl9X7wUSJUZwFJ7RAcW7VRaZ3LgIiAeErRwB5VXomCHsR4k2RbmQcz7geoj2of3ZJffBdcpD5LFABoN/c3JaCidL3YKotmxtskiz+3Ad1RDZG19OSjHTNu68NVVZTP2HZa8KWW0dI8yc7T4hpHcyJsopHHplfOrDRMrHaX1vjLCf+2ByxcQFVpOWliUi/3bG/8xnvWO08TNQ+lWoP7utmiDXmyNxWr2VQYnSK9ZBeaFmMu5Do1xcyuqFCIUllAATVkUoAxCDgVU4B+Hs+r9qN0Zb7zoAAA=="
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-peel-stick-2x8-sage",
+    "name": "Zinnia Peel and Stick Wallpaper - Sage (2 x 8 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223963852953",
+    "material": "Peel and Stick",
+    "useCase": null,
+    "leadTime": null,
+    "price": 90,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Peel and Stick"
+    ],
+    "createdAt": "2025-05-31T03:27:25.758217Z",
+    "lastUpdated": "2025-05-31T03:27:25.758225Z",
+    "sourceRunId": "run-chasingpaper-003",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 96,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Peel and Stick",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-peel-stick-2x12-sage",
+    "name": "Zinnia Peel and Stick Wallpaper - Sage (2 x 12 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223963885721",
+    "material": "Peel and Stick",
+    "useCase": null,
+    "leadTime": null,
+    "price": 125,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Peel and Stick"
+    ],
+    "createdAt": "2025-05-31T03:27:25.780509Z",
+    "lastUpdated": "2025-05-31T03:27:25.780516Z",
+    "sourceRunId": "run-chasingpaper-004",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Peel and Stick",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-traditional-sample-8x9.6-sage",
+    "name": "Zinnia Traditional Wallpaper - Sage (Sample 8 x 9.6 in)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223963918489",
+    "material": "Traditional",
+    "useCase": null,
+    "leadTime": null,
+    "price": 6,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Traditional"
+    ],
+    "createdAt": "2025-05-31T03:27:25.846760Z",
+    "lastUpdated": "2025-05-31T03:27:25.846767Z",
+    "sourceRunId": "run-chasingpaper-005",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 8,
+        "length": 9.6,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Traditional",
+      "priceUnit": "per sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-traditional-2x8-sage",
+    "name": "Zinnia Traditional Wallpaper - Sage (2 x 8 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223963951257",
+    "material": "Traditional",
+    "useCase": null,
+    "leadTime": null,
+    "price": 95,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Traditional"
+    ],
+    "createdAt": "2025-05-31T03:27:25.868795Z",
+    "lastUpdated": "2025-05-31T03:27:25.868802Z",
+    "sourceRunId": "run-chasingpaper-006",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 96,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Traditional",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-traditional-2x12-sage",
+    "name": "Zinnia Traditional Wallpaper - Sage (2 x 12 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223963984025",
+    "material": "Traditional",
+    "useCase": null,
+    "leadTime": null,
+    "price": 140,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Traditional"
+    ],
+    "createdAt": "2025-05-31T03:27:25.915331Z",
+    "lastUpdated": "2025-05-31T03:27:25.915339Z",
+    "sourceRunId": "run-chasingpaper-007",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Traditional",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-faux-grasscloth-sample-8x9.6-sage",
+    "name": "Zinnia Faux Grasscloth Wallpaper - Sage (Sample 8 x 9.6 in)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964016793",
+    "material": "Faux Grasscloth",
+    "useCase": null,
+    "leadTime": null,
+    "price": 6,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Faux Grasscloth"
+    ],
+    "createdAt": "2025-05-31T03:27:25.938942Z",
+    "lastUpdated": "2025-05-31T03:27:25.938949Z",
+    "sourceRunId": "run-chasingpaper-008",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 8,
+        "length": 9.6,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Faux Grasscloth",
+      "priceUnit": "per sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-faux-grasscloth-2x8-sage",
+    "name": "Zinnia Faux Grasscloth Wallpaper - Sage (2 x 8 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964049561",
+    "material": "Faux Grasscloth",
+    "useCase": null,
+    "leadTime": null,
+    "price": 115,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Faux Grasscloth"
+    ],
+    "createdAt": "2025-05-31T03:27:25.975463Z",
+    "lastUpdated": "2025-05-31T03:27:25.975474Z",
+    "sourceRunId": "run-chasingpaper-009",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 96,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Faux Grasscloth",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-faux-grasscloth-2x12-sage",
+    "name": "Zinnia Faux Grasscloth Wallpaper - Sage (2 x 12 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964082329",
+    "material": "Faux Grasscloth",
+    "useCase": null,
+    "leadTime": null,
+    "price": 155,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Faux Grasscloth"
+    ],
+    "createdAt": "2025-05-31T03:27:25.998747Z",
+    "lastUpdated": "2025-05-31T03:27:25.998754Z",
+    "sourceRunId": "run-chasingpaper-010",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Faux Grasscloth",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-matte-performance-vinyl-sample-8x9.6-sage",
+    "name": "Zinnia Matte Performance Vinyl Wallpaper - Sage (Sample 8 x 9.6 in)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964115097",
+    "material": "Matte Performance Vinyl",
+    "useCase": null,
+    "leadTime": null,
+    "price": 6,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Matte Performance Vinyl"
+    ],
+    "createdAt": "2025-05-31T03:27:26.027964Z",
+    "lastUpdated": "2025-05-31T03:27:26.027975Z",
+    "sourceRunId": "run-chasingpaper-011",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 8,
+        "length": 9.6,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Matte Performance Vinyl",
+      "priceUnit": "per sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-matte-performance-vinyl-2x8-sage",
+    "name": "Zinnia Matte Performance Vinyl Wallpaper - Sage (2 x 8 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964147865",
+    "material": "Matte Performance Vinyl",
+    "useCase": null,
+    "leadTime": null,
+    "price": 105,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Matte Performance Vinyl"
+    ],
+    "createdAt": "2025-05-31T03:27:26.069249Z",
+    "lastUpdated": "2025-05-31T03:27:26.069272Z",
+    "sourceRunId": "run-chasingpaper-012",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 96,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Matte Performance Vinyl",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-matte-performance-vinyl-2x12-sage",
+    "name": "Zinnia Matte Performance Vinyl Wallpaper - Sage (2 x 12 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_Cream_sage_art_ea316502-73f0-4785-be92-9d066fa32734.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964180633",
+    "material": "Matte Performance Vinyl",
+    "useCase": null,
+    "leadTime": null,
+    "price": 145,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Sage",
+    "finish": "Matte",
+    "tags": [
+      "Matte Performance Vinyl"
+    ],
+    "createdAt": "2025-05-31T03:27:26.108448Z",
+    "lastUpdated": "2025-05-31T03:27:26.108458Z",
+    "sourceRunId": "run-chasingpaper-013",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Matte Performance Vinyl",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-peel-stick-sample-8x9.6-mustard",
+    "name": "Zinnia Peel and Stick Wallpaper - Mustard (Sample 8 x 9.6 in)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_mustard_art_0f2275ab-90f1-43ef-b231-a335b0574a47.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964213401",
+    "material": "Peel and Stick",
+    "useCase": null,
+    "leadTime": null,
+    "price": 6,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Mustard",
+    "finish": "Matte",
+    "tags": [
+      "Peel and Stick"
+    ],
+    "createdAt": "2025-05-31T03:27:26.141257Z",
+    "lastUpdated": "2025-05-31T03:27:26.141264Z",
+    "sourceRunId": "run-chasingpaper-014",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 8,
+        "length": 9.6,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Peel and Stick",
+      "priceUnit": "per sample",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-peel-stick-2x4-mustard",
+    "name": "Zinnia Peel and Stick Wallpaper - Mustard (2 x 4 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_mustard_art_0f2275ab-90f1-43ef-b231-a335b0574a47.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964246169",
+    "material": "Peel and Stick",
+    "useCase": null,
+    "leadTime": null,
+    "price": 45,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Mustard",
+    "finish": "Matte",
+    "tags": [
+      "Peel and Stick"
+    ],
+    "createdAt": "2025-05-31T03:27:26.195487Z",
+    "lastUpdated": "2025-05-31T03:27:26.195495Z",
+    "sourceRunId": "run-chasingpaper-015",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 48,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Peel and Stick",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-peel-stick-2x8-mustard",
+    "name": "Zinnia Peel and Stick Wallpaper - Mustard (2 x 8 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_mustard_art_0f2275ab-90f1-43ef-b231-a335b0574a47.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964278937",
+    "material": "Peel and Stick",
+    "useCase": null,
+    "leadTime": null,
+    "price": 90,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Mustard",
+    "finish": "Matte",
+    "tags": [
+      "Peel and Stick"
+    ],
+    "createdAt": "2025-05-31T03:27:26.295711Z",
+    "lastUpdated": "2025-05-31T03:27:26.295721Z",
+    "sourceRunId": "run-chasingpaper-016",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 96,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Peel and Stick",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-peel-stick-2x12-mustard",
+    "name": "Zinnia Peel and Stick Wallpaper - Mustard (2 x 12 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_mustard_art_0f2275ab-90f1-43ef-b231-a335b0574a47.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964311705",
+    "material": "Peel and Stick",
+    "useCase": null,
+    "leadTime": null,
+    "price": 125,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Mustard",
+    "finish": "Matte",
+    "tags": [
+      "Peel and Stick"
+    ],
+    "createdAt": "2025-05-31T03:27:26.331843Z",
+    "lastUpdated": "2025-05-31T03:27:26.331853Z",
+    "sourceRunId": "run-chasingpaper-017",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Peel and Stick",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-traditional-sample-8x9.6-mustard",
+    "name": "Zinnia Traditional Wallpaper - Mustard (Sample 8 x 9.6 in)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_mustard_art_0f2275ab-90f1-43ef-b231-a335b0574a47.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964344473",
+    "material": "Traditional",
+    "useCase": null,
+    "leadTime": null,
+    "price": 6,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Mustard",
+    "finish": "Matte",
+    "tags": [
+      "Traditional"
+    ],
+    "createdAt": "2025-05-31T03:27:26.351822Z",
+    "lastUpdated": "2025-05-31T03:27:26.351829Z",
+    "sourceRunId": "run-chasingpaper-018",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 8,
+        "length": 9.6,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Traditional",
+      "priceUnit": "per sample",
+      "raw_text": "H4sIAB13OmgC/+1bzXLbSJK+91OUInq77bDEltyWt7v3xB/rx5Ystkhb67kVgSJRQwAFVwGi4ZhDv8Oe9rARc53XmHmTfpL9MgsgQf1QBKc3Yg/TEW6KVais/P0yC5X8k05TLb8Rv//2X6IfSafTmRjKTNnRXGciNyIwaa7S/EbGcUbjl4WVsRvrWImBCvDn4B9/C4wdyVslTCpGMsli5fomjuXEWJlrk7oLJW16ZhZibE66v7rz1GXaT10VVoxyY8uxlaHCzjZPlXX+W2bNzMrkzODxXMY6L8V3om+SRNlAy7ibZXEp3ptFH6sOD4XOVeJGkclEN47FkuFRXoLX78TQ6jQHX+DVxDp0PeVyMVJxjP0819g+mC8J8POCV7tRbnWmnHghhrGktSaXqSbp3+Fbd+JyK4P8vblVcV4uKfBmrhcX6tQqlQ51Ov+E/cziWoW9GHsJmYbiJgLjl0Wc6+VCz+BKhJ6cq1D0Y1n2VSjtQDllwRpWD/R0WjhMXtkg0uGpiUOVilPscR4oQVsviS7lJRMvSfeNSwweNOCGJT5TFsqeKXEC5mU8LLKsFEOYe1zE8IixDuZEwGsECtNTHcAINo8W2KBnzRwM+NnlJmv2WNM7C7ruLG+xfqhyzIov6y6JmVSLT9Dq3Zkl00RKBUTnRFodSfEeT9m7j2MOLBahvkeo66JYlaInXapnUX53umnaBsvdIFDOGasV+TZcNeZxcVroUPVK7wjb+0HDd0rvgK38jz2I3RbLLyU0iWAZKhVj+SiH/Si6NDEoY1guPbjBOuir+CJOrXQuiE0eYV2uxEedljHRq8m4XqHjUJSG4rYRNBT9iwiWw4xwimwgjoWxIjFWCedBYY/VVyHEUpUeULrFrIBf3FiV9lUZSkxJJ+27KlAd+8tyTePpgbRz8bZIZ7EaqNQpcSotYqAPtHABbAa3LZJ+ZEsn0zxSSZG4bjzRhFX4CrfMm2ZtbL0cJB4e2YWJ9zRiD6qDFs8tDO4C4CWi1RQh3IF3uTRFmkudurVo9EKdSB+SiEH4EBBMzqGRRzasTS0u4DIs31JQJt3A5bU4q7dFUMNN09koV1nm49ikqrnsTH2RMyinMTRW1sqvX01zjPl7aOJSYmyuXNQcHCJyy+bAkiGfPbqAM0YfRzDhvRRsXyKqKKp7BsKv1qyeRlyYdHYObcsUKhWnxoQcTGdYsBp+c6tsmUckL6/PxVUaIBjNIo/EuUu/hz51iiSFYE9n6lpNkXZIS81ksuSqHysjDsQzGnzucUEMgAcXRVA+NP6eMFc9NHMVa3D2IK2HtxirMHxwj1U0rakM8sTzCf2JZ1MVn4sYXspByoGZQ95HMO3/BD/HiIXzlKAE0FBjNRh6Gs7ZMqZFRigzgiPyhb7p3J0dyFsdil8LaYFE4vzjPboy+FwohKUSoyBKdHhPkkv5RZwVSRZZiHsvS8jwH38T3blMATT3WX4kvQ1VZB9NOJvMcQb0jXUziSPMF/AMYEYMDZzhH+I+qdLyWynj99LOtGsu6f4ZYdvc7hEL9+RXXRF6g7orQlirL3lhUQtQWnHXMqqmx4biHXXcW2PSMWcbzl6rON7sLBSS4o1zCrH6BhLAswU+ryOEcoIaB1B7iXIIwQXy1mSITkmRDvTOl3ts6XEXslQWZZTnHBg2V3ldARmnymoC+ZD9cl2OB9z1Q1IrqS8Tin9JujZJ3+SN4qof62TSwH74BWoAMZCJdPMlVWy6quIejgPk7VxNCxLXKhmeUwWm8yBS7grZepQZE19BM4GklMAzI8Uc8kNh/Sm0T1ejXDZyxuNB9ic+PNzoNJyyw7FUXjkDGUFoP1BrrR+pYL72pZESVtrcGLlDZajogITjOntfK5ReeaXuC5UYSrPQOdKHzfjxPrwc6beZdp4AgOsij753VdIFsGsYtou6HPNTONKlIUjvmxRKdR4vxUIjmVwbp1fGehpGTpRNhwYlNooIVPxmKqowUjdIZRS8rM3LwkUW7rOC+Q3wg9hNBAffvfJ8oPOvZeV8vmwZoyLt6Zk4xfJIJrQrGTBdQcFGNHtXTKQ4Vaan7IRSkZZQf3iDGkDjgThx7NJivNAz9w5lkVo6w40CanEq9YYTZyhMvuKw2XCFDVi5PJaMEo1KNUWVRh8fUBUbm1Zll6+fiA/EAJU9jjzb4tBIeLM66T0EvFXF3V3I8kJPleh+LmDo4FLOqO4WJ0ifLr9GTTcxi/dGkrd07fzNlyz2iRUSGhuH/zoD/esM9OgZaP2lR5+cH2s+uFM9pdrVhlAqnRxOrq7G3dM3ot+96H+46I6vrt9QShNSRIpNRLpbAF6ifYLwqVL5vpgoaNfPgC8AmMihcGYuwkQiUZFnVBQ6IcGfVZ8LjRTYAbCiMoBegwImBPv4ligcnuht0EQJft0gsUjMyLSEbh1EMwgE9GoG+8kwJG85Ov43Aa1a8kksZX0Z4KntMKviGfH5vJLAf+mG4d1lU2PYq2uGKNljhE4BSh4K91lM8w7LIZz+qiqJamlewntf4Qn6/Kn6PHqJP759fXj4F9oOW/TkrH7blVkTFrCBTgHziX9FlcGkiQqRwo9Iu4lBzdEYfPnQ4I8PDb56aPB4OXguRsNPYnD+yadV//9rNYPUFozpQH37unN4uDYykrFqzAH+cv/1B4pUTAJdQmEKgJ3mA1+tRrJhLgJKwpjtrIUI+czdIHkwNIbKsppQoPkw+YPIjGDIKrJ+gsF+7ryGkh41pX+nBx9BlgS8h304RvJD9QWI46KxTIeVYW8BifBlt86h+EHc24/H4HgHB6LX6w26P3/zjXjkvwPx7et7BGt+29F5dfwgoZ9aE/r58EFCrLF2lI5eHjfR8p9X1Tq1HcU7vk9lF9leHd5xyT9AvvsUd5Px6Oj4YVK7CHp8/Eiw/QECP055R8EPjzeT3MnSx1vFfIUbTPXffz768WT3sG9HanPkt6P1RPC3I7ZV/LdU26MQ0FLODSjQUshtgaCloBuxoCWLT8FBS3JtEaGl5FuBQkuWt8WFtrbfDhrWCgui/eb1oN9/vTtA7EJwM0zsQvEJsNiF5FaQsZM6HwWOnSTfAB87ib0tiOwk+kYo2YndpwBlJ6JtYWUnXWwFLjuxvy3E7OYf2wENH1qI5qDX63aPdgeYNoQ2A0sbSk8AShtSWwFJK3U9CiCtJNwAHK3E2xYwWom4EShasfcUQLQi1hYYWsm8FSC0YndbIGhn7+0AYCxTptjvD7r93cN/ezKbg397Ok+E/vaEtgr8Fmp6NOxbyLYh6FsItm3ItxBuY8C3YO2pcG9Bqm2wt5B2q1Bvweq2gd7Gxse/FjLNdV4OVIBCwSnxuRrg+0P/bvc8fXyuejUdSJs3/hzG/Hx1uZBUb1v3+c03B11A70LFRE3pyqF6D4+1dB1F6zsn1dv0/vL1/qnKK4N81GohpkUci1DxbenAf1wSrUV9dSUcX6uIqTWJoN4hMxX0Zn9CV1quai8MlldDxrr9xg1yp2o5yLh9h1meWqUi/EFvpANqnarvIzKrHL5Kvq/HLkzlewdhZ6mkjoO//5V5YSqyunQDh1PSDcnO90/1zYPLZKD2RpkK3E+///Y/4lplSubUf3oHsZaXdHzxQRc0LGqkZxEZitpQ90nQ6YEMI+WIuczE5cGCbpDEVE6sDjqCCDfhYgPVg4qqOBn1RV/ZXE81lLHUeEecaJCIsS0JcjdEifPGTRVrIlg2yYqZb6Vt+PYtPeY63PVB+9C9NV/KnRZUylIPaYON83TeqeiDDe0isEMUaVtHPW2wlNP4K807zYu/tUtATddFE+zxVfn98sgUsygnbysPkqrZl17QO8QPRQE1XJE9ZeoWdA1am1F7srAE/I3v3SMlOT5o9swsDsZGDOHie/VdhPiO7vlJwTeKLsW0uuXGpxyqgQfA2cmh+LosnfFGitrFDF1rkRUzuMcBpD1w7B4sStMZ7lufdUPs5A0HiPjKzCWGbJawPqesT36abtwMgpDuJlj+hgWhmT/DpV2H7ilz8wUbfIeQnSribtH0qxjif7zqM8Xhx/4yvLyvZRGkpqsfx/d1HIIN688esr4m6+PhhSkwnpJmRFbQhWPVT6dTb5fIJJVWA0nKhLw2oY4Ub7h9/9RUJpr92PrvmYJYl2T+qvPkw6iL3ciFIXXBdnV4EF5LRq+gpsa9CoSqdeKFUNCgKaHmhQGeWN4ep7Sa+JkCBFJPRWcVjQF3/DlvcxapM7Byxs/rwOPHxDKMRrXOMBTrqfqDqMQaATk7oPaOiQrpIzMLcM8jaWEdSN6BqCq2qOeBZjp+uCMu4IQdjy7IE6U3Lmls7QK/jiEfmnOdd/7+129ACuNBXCAcxLOj5zBNGmikFvr7P2UAbt+lYNcPrCQfsUPTXTRnnwSroW0pAhyMYZv1jTNTBBHtxlfM2BnuC8enMFRs60jFmed6jcfK7lmtBR+JS8QwaVyCKvVkrIXcMjb26Qp8dT+NhVPlnH+ouREAzGvglyFL35C7lnNsTCyGJMdATWUR52Ks85i6O7/98ZBzaQ4nU+G1SsytnMSqmQRe3APvF+KR2oNkYat/V9l8TQJoo+EDR9h9iHyJDEvpzMNF36RTbRN/30+tCTX47IsAVUQqXGGnSIlgYSbZguV6bD1b2xELvhywOuakDqxygaZ+D0c1kRQxXB/eIkUOhVO/AMirJRbArB4LzN7zl+D2spp/sfyrO0MqGZgCGvO30h5MiHvuGYB/qJRyhmCL7okVhJEWvDNSFqCHYe9IBxG3LThfEzm6+S3BTL4A1omJ5O44gIvQ+e+//Te8FmFnKYutNNbcsK6puLeDTFw7DsX6j2QARfJ7W70Q/IsXQZXT3pAqqgl1uLw+4MoD3kwoQENYvE8NFc1mCvFMaR9RglqZFDVNiCwukomg6eecoVJWGoPJqoWDOmComWK/TjNLeKSyighNV0tAZkEtwn6eN0JeED0v5lr4wYJ+O1OZxiADMJyTaBGSDmaY/71/1hX1lJ8iaUJT4+UaM+SlVH2R2z3iuJl0OYDKUh8UfMEZlO9AX0dxOrE4re+zl2ImQ8rHZ9Oz///7J6gkcl7ZZDdnbRZn/cqkVNmr7GBSHtDnutLZuOSHkaZzxTqCrkoQzoJ2b6S8a95zj0sFgOSqDvWFy5cNL42mNi6T4oUsKS/IKeUFMrFZpP7g0aEfWizIMwriUdxoh/yKHANrRnWdknHvUGRZI4mcya8IHJxDvL9w2RLCrr7QIhxW/igSAu4s0wmYDqsZK9jfnsHcEiElgzonVbkcx4rnHdGdUoQB9Ksj13scpj4ZOxd9PjB4EZ1PDhTacHGK8Ry28L9Qq/mEc2AZUfFNVlZmcJaqTK0SLXRGblMkKCDz/6i8Sd2a+JZrNmyPGkhNnM7VL+J8lJVY0AGU8+KJMfN9AeVnJRPi7fd5qm5/ir2+aCilJrKGjYNld+FeJRSbLMNpioIAmjk7HX/c5/bcS2oQl9hALcgJR/CFfdbatUTFBAy6lmU1yr/cAF6m/CMNlL46kJ4BIjQ2YfVkp8E4agjibiKdb12+1HCcYq4gDNyiQ1GGwKy4JFLkSVHhJvh7X1ziYEUuR2AwV/Xvgaj3kKCE6NEedfH9C3JhJCfcrX306vCFKCGvoGKZKl9X7wUSJUZwFJ7RAcW7VRaZ3LgIiAeErRwB5VXomCHsR4k2RbmQcz7geoj2of3ZJffBdcpD5LFABoN/c3JaCidL3YKotmxtskiz+3Ad1RDZG19OSjHTNu68NVVZTP2HZa8KWW0dI8yc7T4hpHcyJsopHHplfOrDRMrHaX1vjLCf+2ByxcQFVpOWliUi/3bG/8xnvWO08TNQ+lWoP7utmiDXmyNxWr2VQYnSK9ZBeaFmMu5Do1xcyuqFCIUllAATVkUoAxCDgVU4B+Hs+r9qN0Zb7zoAAA=="
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-traditional-2x8-mustard",
+    "name": "Zinnia Traditional Wallpaper - Mustard (2 x 8 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_mustard_art_0f2275ab-90f1-43ef-b231-a335b0574a47.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964377241",
+    "material": "Traditional",
+    "useCase": null,
+    "leadTime": null,
+    "price": 95,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Mustard",
+    "finish": "Matte",
+    "tags": [
+      "Traditional"
+    ],
+    "createdAt": "2025-05-31T03:27:26.447898Z",
+    "lastUpdated": "2025-05-31T03:27:26.447904Z",
+    "sourceRunId": "run-chasingpaper-019",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 96,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Traditional",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "chasingpaper-zinnia-traditional-2x12-mustard",
+    "name": "Zinnia Traditional Wallpaper - Mustard (2 x 12 ft)",
+    "vendor": "Chasing Paper",
+    "category": "Wall Finishes",
+    "subcategory": "Wallpaper",
+    "description": "More wallpaper styles from one of our best selling collaborators, Jenni Yolo. Block prints and freehanded accents are representative of Jenni's signature style and are the perfect addition to your space!",
+    "imageUrl": [
+      "https://chasingpaper.com/cdn/shop/files/Zinnia_mustard_art_0f2275ab-90f1-43ef-b231-a335b0574a47.jpg?v=1742410819"
+    ],
+    "url": "https://chasingpaper.com/products/zinnia?variant=45223964410009",
+    "material": "Traditional",
+    "useCase": null,
+    "leadTime": null,
+    "price": 140,
+    "sustainability": "Printed with GreenGuard Gold Certified Ink",
+    "certifications": [
+      "GreenGuard Gold"
+    ],
+    "documents": null,
+    "location": "USA",
+    "collection": null,
+    "variantGroup": "zinnia",
+    "storedImagePath": null,
+    "color": "Mustard",
+    "finish": "Matte",
+    "tags": [
+      "Traditional"
+    ],
+    "createdAt": "2025-05-31T03:27:26.489991Z",
+    "lastUpdated": "2025-05-31T03:27:26.489998Z",
+    "sourceRunId": "run-chasingpaper-020",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 24,
+        "length": 144,
+        "thickness": null,
+        "units": "in"
+      },
+      "pattern": {
+        "type": null,
+        "repeatVertical": 8,
+        "repeatHorizontal": null,
+        "match": null
+      },
+      "application": null,
+      "performance": null,
+      "care": null
+    },
+    "additionalData": {
+      "all_sizes": null,
+      "wallpaper_type": "Traditional",
+      "priceUnit": "per roll",
+      "raw_text": "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"
+    }
+  }
+]

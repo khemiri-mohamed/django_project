@@ -1,0 +1,1822 @@
+[
+  {
+    "id": "spinneybeck-acqua-au-au-0663-ebro",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0663 Ebro",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0663-ebro.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0663 Ebro",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:32.903203Z",
+    "lastUpdated": "2025-06-27T05:31:32.903212Z",
+    "sourceRunId": "run-spinneybeck-001",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0615-red-sea",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0615 Red Sea",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0615-red-sea.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0615 Red Sea",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:32.946147Z",
+    "lastUpdated": "2025-06-27T05:31:32.946156Z",
+    "sourceRunId": "run-spinneybeck-002",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0665-rio-grande",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0665 Rio Grande",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0665-rio-grande.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0665 Rio Grande",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:32.996039Z",
+    "lastUpdated": "2025-06-27T05:31:32.996047Z",
+    "sourceRunId": "run-spinneybeck-003",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0662-yardarm",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0662 Yardarm",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0662-yardarm.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0662 Yardarm",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.038358Z",
+    "lastUpdated": "2025-06-27T05:31:33.038366Z",
+    "sourceRunId": "run-spinneybeck-004",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0626-flying-cloud",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0626 Flying Cloud",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0626-flying-cloud.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0626 Flying Cloud",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.071450Z",
+    "lastUpdated": "2025-06-27T05:31:33.071458Z",
+    "sourceRunId": "run-spinneybeck-005",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0661-tiber",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0661 Tiber",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0661-tiber.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0661 Tiber",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.115424Z",
+    "lastUpdated": "2025-06-27T05:31:33.115436Z",
+    "sourceRunId": "run-spinneybeck-006",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0650-tyger",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0650 Tyger",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0650-tyger.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0650 Tyger",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.139967Z",
+    "lastUpdated": "2025-06-27T05:31:33.139979Z",
+    "sourceRunId": "run-spinneybeck-007",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "H4sIALQsXmgC/+1Yy3IbuRX9lZuqTCKVaab5EiVtUk1KtBzrNSY1qlQqC7AbZCMCARpAS6ZXs8gfZJVdKrtsss568ifzJTkXaD5mNLPPYlw2Tbwu7uPccy84reya3lJefKoFHeUPxxhM18oYuZnL4mksXDjKjn+dtbNsqpaGlJlK4YrqVjyrpQjKNuP0OdbWy7HV1tHI2qd7Z8u6CH60obEIcmnd5mFdWe2DdBu6liJU0o2kDsost8MrYUonlPZ3i4UqJN3b0t/XWvuJlp/VXEt6tLac2kV44f//+59al3Qp9dIJ7x+F1nQvjNTNVy3Mkx/XPtjVrXz5Vc5ze6VuoJRTQo+te2quZ+FbadhxIT2sli6HcSrIItRO0kfpo7WUVBxJZ0oaSWNgRmUXCzhN0ztcKp5xxdLU3ltzUT8FcbkSppZa0MSJAKvVfv3SvShDV6KW7lo4D3laS0eTv8gAI8pbZQSNXF2bZPK9dWFhtbIHvs1rmGmDepZXUuhQFcLJK+vXKgitwuZGOGVkYz5sUKU0AdZ/lAH+njlh/BpSY1Af4ZG1FoWc1Oyyg8t+xmfJUTSzVudzW4f4QQ/+rna7Iz5NpnBM2T8waq5Yt62ffSNnGqxT0iNm/t5J7+FSidWxNUEUYQrQ8j+KwIjfbiArSCMMQ6aJcFyYitVay/Qd4f8FnL+A8/8cnO9qGL8n5IvoAT+TnpF4YV+MtqL079lvwtACJ17YhlZD4sqToLJ2AnBspaW30FLBIhNIJ6+Qr+F4BiyfF/SCKwlOXkqyCxLrtVZF9LVvNxrLkhbOrqjCTk9wwBL+ibkBZBjEAFINsVabFnm4Mo7fSQdUYQYooemLCl+kY8Rgggq7mkcZ1sRLya9lgUiQg8XGCOjCpxZAoq/4orWzBdyNdV/r4PnirTmhEoEtNzaQNXrzym6WhP/V25UqnJ3jmhbNEW8E3kIw4gaDdfLGgfVJsJOfaoXcil6NkGgnX1fCUwEdtkjB3ZJWYhP1kJ9hT0heg5k4q7f6tilfw5pnODUeZ+tYw1J5ZRY4xRMrGSrwC8wsdI3wlErXAScQNVFULao2pbNLaWgtnf2MsCQv2+gQOHcFv+4EwnYPzZ5iwAK9IIHfMgY4rLC52uUkecnJv/RtxjOS8LJ2dg0dIfKFg38XQx8DfcWomaovcjD4/tu/nQzIf6JFoKNBu8PjdsYTq+NZpYong8h12hnmO+0OrVaPUi2r0G3zyW57OCD7hX63FTA86WH6tHdGyzS5On4H3jXIawdjZBlHNJOfmfOmmkUh6Jj0spwl8IwrOF5ebGRuEBsjJxFHj4wL2uPiqnN679RKgPIfvPT7CgD/bsm+Ra5ees4l0M06EjhcvSddxPUQM+9NCfo4ZLwWfGcCg6x14Gl83/NfC8FhBmxF3RryO+CNR7WWyNJQxcSxQG8J7gB6EO42TRDCYOtlzGzL5i5bVHskEK2v3s6FZhEllsQamY/iANxeiBezldg572TwHtTnTIzbgk05FDEFzbxso7YACLBBLchIWcqyTXdFITyshg/4Ppw+6B4p+Rw3N2RMY0Y7cxXAVSp2FyZ/wxTDroQVitObwSsNy8/LtAvix9tEyYH54C9+kA3QGcMdk/zQnspCNcR1t3lrW4uuXufQ3Wf1rNx3/4byz5I6J6xqITl8Aas3Mjj5GVXtWXFI/Pd//Scf2RQ4i+/wqgIQLw7Sbm/zNwp38Kb86h7yB/Rx9nAoHY6IMh8rBWI+9GMBSINRlrUARwcpQUuSJBd4UWzYRIzh/XVTWwDVim3ixHVQB+aXzJaiKKwrYxmKgWcpXPQXIvYOzn//7d9BGZxikfyYGSKKIjUlB7f4FPhVIRdYp0Lwjkq4Fbs10mI7FdH0CbSiqKEmPcMzXHGmDctPpXtGg+LvpcM9gmO529Pg0lC9LiB6md4UC+ED0whfdM0pP9ZohGjwanGMQsFMl9b7dFS6zTEwtx2+yHA80WK1amg7n85u6JJO++fNnpyOFliHn51kzY7H+TV1OsNz9G+o9zzo9c5pWhdckBYo9HsnN6s/LCPRngk8uxSupEnndIi6BrKdi+IJGbBqmhDUVeJa8yw0MPFKCby4UBsBlPdLE9OCu71IZIjo7eQ+p+5JtrWh8/7mjte3iZG3Twbdo87JcTLix8IvdrWN3qDDcdIsQ5XPXcxuih66oGF3MDinXpa9oWKDygUpIFBGGzgRHu61ssO18RRp2CyOcE+sPuAqaNsI7Haz03PqDjLS80ttTXpS7lc7Hb4OtWCQfUWoxHEjN9u7LdkZojLM+GJaYEGiU2ImXe6M2G7tDzMo32cJ+xY0z2fjMXFzxamNeotLKRUJZju0uabYnNNp9npjBzfm4GnEsIleQ3d+GsS62mhb2KKoAX3kVu3P6eysfdb7CvzGSdpw1fbwBy3nIA1cCMo2skbxVkKmM/2fOfMTKnWHO+V3wIgc57l1LuLmc2w7Q20uVki45U8I6WXwHdfXjxLU5ZmKbENjzZ6RRlfdoodUsUaRVc8JRRn9wACijxQIvFTQBKA4mO72qXLHI/R3JU7SUcPH2x7oeCujH9uCn5GExa2kW/AFrdH8+wouWqGhcnsR2WsRD5P8R7aenWX0Oq92OdR063gWBJoCyCH1fUyMewxti9vXNfqc1L4fdvxvdqUrElX+QNnJSY8u587G7x0UAlDHVIq0hCHqFqxABUwzXfojaAMUG4fdE5roDSN8rG1dpi0dmqm5TMKRJLPNshnAUeiaIt8m+d0BZ4ZAEwgoXbDLkhZnvAO8ak0c98/oSnl0O8rqdBCJPga4BXqAJ0kjsUmXdSh3y2TJoIvCqDdrn4YgwRuxWWj70tzRG9A1cpzeex3fA7Y2Sf0elIRc+ka6xubshPISGGfQbjUfnHK13N41hBfwDCnFXpXB1jEXdSgqVLZkyQAvV72gG7s1rU/3YFnb3H1CI4uGy8t0c6dHOb9qg/Jp3MUzDfXJLkUkTrSWab4DnZ2az2VzT6ePwMGdNKtArOnw4AzZUUv4waEpS6FCdrFbAVlGSdLhlI3ggIyULxpzenwBnpRzx++8rROQnJjlfjV5sVGS2xQAuPxt/qVuAn9G1xyoS7xV00SP/iDR+C9wdZroArISjQK0S1d2O3Rr+cVWNmf60UjxLHVaz+hWoJzoOl3bP4mgebR6kcbDBluebXmnUD50EEmf/indKO/573qt6EJiJQkd0nuUfOTsxHHCpPjDIxb8tdlFNxsme8ZoqtO5U/pgzduZelJpQw/cp1ZyD4isz9ewecnzQxrJVBoaZ2ZdhHSFMm0PwJgxootD4KGK3fILd3/uDK/7pQyHpwY0E3gRJF3wcsk/8RMbLJ4mhlCjji/bZgaF6Fo+A+HVFqc9GqGhQK/YpEu/G9MFj991UgP6azQMrMbXNSMUrUtZxo5HuND8/pDaLsCwabCmgmsxihkeFmgqBD9I+BeHF2ftyuPx88w95EckBHhx9/NC+jWkYbZLg47YmhUf12OBD7v0r6gRDx9UGRQwZtCfJkA8sfgXF1MLfQ/WLpT0k/zrnRK3eC0V6PXsk5I/HEybR+kUBZIDGE9v8th+qaZtQc0KknWcSbfydLfgF93EavAPvk1EIecQFpVcOrG6ZwXhk/ANMGOv7+4+vL99R5O7jzS5vJ79/jTL2v1TvEzx502nPeyctPv9k3a3d5r9Sa5Qd777xzq9WmT55+/+1c2YV/cte5t/zwEfoEv18Tc5h8d++x5hatp1JAP/hvbBQEHukTU33c/yf1V1vhiQFwAA"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0624-coral-sea",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0624 Coral Sea",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0624-coral-sea.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0624 Coral Sea",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.168603Z",
+    "lastUpdated": "2025-06-27T05:31:33.168615Z",
+    "sourceRunId": "run-spinneybeck-008",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0625-strait-of-dover",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0625 Strait of Dover",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0625-strait-of-dover.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0625 Strait of Dover",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.198061Z",
+    "lastUpdated": "2025-06-27T05:31:33.198072Z",
+    "sourceRunId": "run-spinneybeck-009",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "H4sIALQsXmgC/+1Yy3IbuRX9lZuqTCKVaab5EiVtUk1KtBzrNSY1qlQqC7AbZCMCARpAS6ZXs8gfZJVdKrtsss568ifzJTkXaD5mNLPPYlw2Tbwu7uPccy84reya3lJefKoFHeUPxxhM18oYuZnL4mksXDjKjn+dtbNsqpaGlJlK4YrqVjyrpQjKNuP0OdbWy7HV1tHI2qd7Z8u6CH60obEIcmnd5mFdWe2DdBu6liJU0o2kDsost8MrYUonlPZ3i4UqJN3b0t/XWvuJlp/VXEt6tLac2kV44f//+59al3Qp9dIJ7x+F1nQvjNTNVy3Mkx/XPtjVrXz5Vc5ze6VuoJRTQo+te2quZ+FbadhxIT2sli6HcSrIItRO0kfpo7WUVBxJZ0oaSWNgRmUXCzhN0ztcKp5xxdLU3ltzUT8FcbkSppZa0MSJAKvVfv3SvShDV6KW7lo4D3laS0eTv8gAI8pbZQSNXF2bZPK9dWFhtbIHvs1rmGmDepZXUuhQFcLJK+vXKgitwuZGOGVkYz5sUKU0AdZ/lAH+njlh/BpSY1Af4ZG1FoWc1Oyyg8t+xmfJUTSzVudzW4f4QQ/+rna7Iz5NpnBM2T8waq5Yt62ffSNnGqxT0iNm/t5J7+FSidWxNUEUYQrQ8j+KwIjfbiArSCMMQ6aJcFyYitVay/Qd4f8FnL+A8/8cnO9qGL8n5IvoAT+TnpF4YV+MtqL079lvwtACJ17YhlZD4sqToLJ2AnBspaW30FLBIhNIJ6+Qr+F4BiyfF/SCKwlOXkqyCxLrtVZF9LVvNxrLkhbOrqjCTk9wwBL+ibkBZBjEAFINsVabFnm4Mo7fSQdUYQYooemLCl+kY8Rgggq7mkcZ1sRLya9lgUiQg8XGCOjCpxZAoq/4orWzBdyNdV/r4PnirTmhEoEtNzaQNXrzym6WhP/V25UqnJ3jmhbNEW8E3kIw4gaDdfLGgfVJsJOfaoXcil6NkGgnX1fCUwEdtkjB3ZJWYhP1kJ9hT0heg5k4q7f6tilfw5pnODUeZ+tYw1J5ZRY4xRMrGSrwC8wsdI3wlErXAScQNVFULao2pbNLaWgtnf2MsCQv2+gQOHcFv+4EwnYPzZ5iwAK9IIHfMgY4rLC52uUkecnJv/RtxjOS8LJ2dg0dIfKFg38XQx8DfcWomaovcjD4/tu/nQzIf6JFoKNBu8PjdsYTq+NZpYong8h12hnmO+0OrVaPUi2r0G3zyW57OCD7hX63FTA86WH6tHdGyzS5On4H3jXIawdjZBlHNJOfmfOmmkUh6Jj0spwl8IwrOF5ebGRuEBsjJxFHj4wL2uPiqnN679RKgPIfvPT7CgD/bsm+Ra5ees4l0M06EjhcvSddxPUQM+9NCfo4ZLwWfGcCg6x14Gl83/NfC8FhBmxF3RryO+CNR7WWyNJQxcSxQG8J7gB6EO42TRDCYOtlzGzL5i5bVHskEK2v3s6FZhEllsQamY/iANxeiBezldg572TwHtTnTIzbgk05FDEFzbxso7YACLBBLchIWcqyTXdFITyshg/4Ppw+6B4p+Rw3N2RMY0Y7cxXAVSp2FyZ/wxTDroQVitObwSsNy8/LtAvix9tEyYH54C9+kA3QGcMdk/zQnspCNcR1t3lrW4uuXufQ3Wf1rNx3/4byz5I6J6xqITl8Aas3Mjj5GVXtWXFI/Pd//Scf2RQ4i+/wqgIQLw7Sbm/zNwp38Kb86h7yB/Rx9nAoHY6IMh8rBWI+9GMBSINRlrUARwcpQUuSJBd4UWzYRIzh/XVTWwDVim3ixHVQB+aXzJaiKKwrYxmKgWcpXPQXIvYOzn//7d9BGZxikfyYGSKKIjUlB7f4FPhVIRdYp0Lwjkq4Fbs10mI7FdH0CbSiqKEmPcMzXHGmDctPpXtGg+LvpcM9gmO529Pg0lC9LiB6md4UC+ED0whfdM0pP9ZohGjwanGMQsFMl9b7dFS6zTEwtx2+yHA80WK1amg7n85u6JJO++fNnpyOFliHn51kzY7H+TV1OsNz9G+o9zzo9c5pWhdckBYo9HsnN6s/LCPRngk8uxSupEnndIi6BrKdi+IJGbBqmhDUVeJa8yw0MPFKCby4UBsBlPdLE9OCu71IZIjo7eQ+p+5JtrWh8/7mjte3iZG3Twbdo87JcTLix8IvdrWN3qDDcdIsQ5XPXcxuih66oGF3MDinXpa9oWKDygUpIFBGGzgRHu61ssO18RRp2CyOcE+sPuAqaNsI7Haz03PqDjLS80ttTXpS7lc7Hb4OtWCQfUWoxHEjN9u7LdkZojLM+GJaYEGiU2ImXe6M2G7tDzMo32cJ+xY0z2fjMXFzxamNeotLKRUJZju0uabYnNNp9npjBzfm4GnEsIleQ3d+GsS62mhb2KKoAX3kVu3P6eysfdb7CvzGSdpw1fbwBy3nIA1cCMo2skbxVkKmM/2fOfMTKnWHO+V3wIgc57l1LuLmc2w7Q20uVki45U8I6WXwHdfXjxLU5ZmKbENjzZ6RRlfdoodUsUaRVc8JRRn9wACijxQIvFTQBKA4mO72qXLHI/R3JU7SUcPH2x7oeCujH9uCn5GExa2kW/AFrdH8+wouWqGhcnsR2WsRD5P8R7aenWX0Oq92OdR063gWBJoCyCH1fUyMewxti9vXNfqc1L4fdvxvdqUrElX+QNnJSY8u587G7x0UAlDHVIq0hCHqFqxABUwzXfojaAMUG4fdE5roDSN8rG1dpi0dmqm5TMKRJLPNshnAUeiaIt8m+d0BZ4ZAEwgoXbDLkhZnvAO8ak0c98/oSnl0O8rqdBCJPga4BXqAJ0kjsUmXdSh3y2TJoIvCqDdrn4YgwRuxWWj70tzRG9A1cpzeex3fA7Y2Sf0elIRc+ka6xubshPISGGfQbjUfnHK13N41hBfwDCnFXpXB1jEXdSgqVLZkyQAvV72gG7s1rU/3YFnb3H1CI4uGy8t0c6dHOb9qg/Jp3MUzDfXJLkUkTrSWab4DnZ2az2VzT6ePwMGdNKtArOnw4AzZUUv4waEpS6FCdrFbAVlGSdLhlI3ggIyULxpzenwBnpRzx++8rROQnJjlfjV5sVGS2xQAuPxt/qVuAn9G1xyoS7xV00SP/iDR+C9wdZroArISjQK0S1d2O3Rr+cVWNmf60UjxLHVaz+hWoJzoOl3bP4mgebR6kcbDBluebXmnUD50EEmf/indKO/573qt6EJiJQkd0nuUfOTsxHHCpPjDIxb8tdlFNxsme8ZoqtO5U/pgzduZelJpQw/cp1ZyD4isz9ewecnzQxrJVBoaZ2ZdhHSFMm0PwJgxootD4KGK3fILd3/uDK/7pQyHpwY0E3gRJF3wcsk/8RMbLJ4mhlCjji/bZgaF6Fo+A+HVFqc9GqGhQK/YpEu/G9MFj991UgP6azQMrMbXNSMUrUtZxo5HuND8/pDaLsCwabCmgmsxihkeFmgqBD9I+BeHF2ftyuPx88w95EckBHhx9/NC+jWkYbZLg47YmhUf12OBD7v0r6gRDx9UGRQwZtCfJkA8sfgXF1MLfQ/WLpT0k/zrnRK3eC0V6PXsk5I/HEybR+kUBZIDGE9v8th+qaZtQc0KknWcSbfydLfgF93EavAPvk1EIecQFpVcOrG6ZwXhk/ANMGOv7+4+vL99R5O7jzS5vJ79/jTL2v1TvEzx502nPeyctPv9k3a3d5r9Sa5Qd777xzq9WmT55+/+1c2YV/cte5t/zwEfoEv18Tc5h8d++x5hatp1JAP/hvbBQEHukTU33c/yf1V1vhiQFwAA"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0619-sea-lion",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0619 Sea Lion",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0619-sea-lion.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0619 Sea Lion",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.238477Z",
+    "lastUpdated": "2025-06-27T05:31:33.238488Z",
+    "sourceRunId": "run-spinneybeck-010",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0649-hispaniola",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0649 Hispaniola",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0649-hispaniola.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0649 Hispaniola",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.265649Z",
+    "lastUpdated": "2025-06-27T05:31:33.265661Z",
+    "sourceRunId": "run-spinneybeck-011",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0618-chesapeake-bay",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0618 Chesapeake Bay",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0618-chesapeake-bay.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0618 Chesapeake Bay",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.364478Z",
+    "lastUpdated": "2025-06-27T05:31:33.364487Z",
+    "sourceRunId": "run-spinneybeck-012",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0651-argo",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0651 Argo",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0651-argo.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0651 Argo",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.414258Z",
+    "lastUpdated": "2025-06-27T05:31:33.414268Z",
+    "sourceRunId": "run-spinneybeck-013",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0652-calypso",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0652 Calypso",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0652-calypso.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0652 Calypso",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.481882Z",
+    "lastUpdated": "2025-06-27T05:31:33.481891Z",
+    "sourceRunId": "run-spinneybeck-014",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0633-mayflower",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0633 Mayflower",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0633-mayflower.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0633 Mayflower",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.816760Z",
+    "lastUpdated": "2025-06-27T05:31:33.816768Z",
+    "sourceRunId": "run-spinneybeck-015",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0635-long-island-sound",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0635 Long Island Sound",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0635-long-island-sound.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0635 Long Island Sound",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.847092Z",
+    "lastUpdated": "2025-06-27T05:31:33.847104Z",
+    "sourceRunId": "run-spinneybeck-016",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0634-cape-verde",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0634 Cape Verde",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0634-cape-verde.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0634 Cape Verde",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.902874Z",
+    "lastUpdated": "2025-06-27T05:31:33.902892Z",
+    "sourceRunId": "run-spinneybeck-017",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0606-adriatic-sea",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0606 Adriatic Sea",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0606-adriatic-sea.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0606 Adriatic Sea",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:33.940643Z",
+    "lastUpdated": "2025-06-27T05:31:33.940651Z",
+    "sourceRunId": "run-spinneybeck-018",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0658-congo",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0658 Congo",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0658-congo.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0658 Congo",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:34.053193Z",
+    "lastUpdated": "2025-06-27T05:31:34.053202Z",
+    "sourceRunId": "run-spinneybeck-019",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "spinneybeck-acqua-au-au-0657-florida-bay",
+    "name": "Acqua (AU) - Upholstery-Leather - AU 0657 Florida Bay",
+    "vendor": "Spinneybeck",
+    "category": "Textiles",
+    "subcategory": "Upholstery",
+    "description": "Italian for water, Acqua is a durable, water-resistant leather suitable for a wide range of applications. Produced from hides originating in northern Italy, southern Germany, and Switzerland, a combination of a special retannage and finishing process results in leather that is not only water-resistant and anti-microbial, but also practical for applications that require durability. Acqua has cleanability one may not expect from natural leather. Approved cleaning and disinfecting methods include diluted bleach, hydrogen peroxide, and other common disinfectants making it well-suited for healthcare settings.",
+    "imageUrl": [
+      "https://www.spinneybeck.com/images/uploads/colors/swatches/au-0657-florida-bay.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0637-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0000-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/sb-au-0639-00.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-SFOTE3-02.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-LANCAS-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/SB-WINDSO-01.jpg",
+      "https://www.spinneybeck.com/images/uploads/products/_medium/Saloon1.jpg"
+    ],
+    "url": "https://www.spinneybeck.com/shop/product/acqua-au",
+    "material": "European cowhide",
+    "useCase": [
+      "Upholstery",
+      "handrails",
+      "rugs",
+      "wallpanels",
+      "architecturalapplications"
+    ],
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": null,
+    "documents": [
+      {
+        "title": "Product Cut Sheet",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_%28AU%29.pdf"
+      },
+      {
+        "title": "Acqua for Healthcare",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Acqua_for_Healthcare.pdf"
+      },
+      {
+        "title": "Leather Quick Guide",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Leather_Quick_Guide.pdf"
+      },
+      {
+        "title": "Maintenance + Cleaning",
+        "url": "https://www.spinneybeck.com/images/uploads/downloads/SB_Product_Maintenance_%2B_Cleaning.pdf"
+      }
+    ],
+    "location": "Italy",
+    "collection": null,
+    "variantGroup": "acqua-au",
+    "storedImagePath": null,
+    "color": "AU 0657 Florida Bay",
+    "finish": "Water resistant H18",
+    "tags": null,
+    "createdAt": "2025-06-27T05:31:34.087452Z",
+    "lastUpdated": "2025-06-27T05:31:34.087461Z",
+    "sourceRunId": "run-spinneybeck-020",
+    "specifications": {
+      "dimensions": {
+        "width": null,
+        "length": null,
+        "thickness": 1.05,
+        "units": "mm"
+      },
+      "composition": [
+        {
+          "material": "European cowhide",
+          "percentage": null
+        }
+      ],
+      "application": null,
+      "performance": {
+        "durability": null,
+        "abrasion": null,
+        "slipResistant": null,
+        "indoorOutdoor": null,
+        "frostResistant": null,
+        "waterAbsorption": null
+      },
+      "care": "Wipe with a cool, damp cloth. For tougher soiling, use a pH-balanced soap such as Dawn with a 1:10 ratio of soap to water and rinse. Repeat, if needed. Occasional use of Spinneybeck Finished Leather Cleaner, Conditioner & Protector is recommended."
+    },
+    "additionalData": {
+      "panelOptions": null,
+      "woodPattern": null,
+      "woodOpenArea": null,
+      "nrc": null,
+      "saa": null,
+      "raw_text": "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"
+    }
+  }
+]

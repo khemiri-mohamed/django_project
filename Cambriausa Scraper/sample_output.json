@@ -1,0 +1,1543 @@
+[
+  {
+    "id": "cambria-st-isley-polished-2cm",
+    "name": "St Isley — Polished (2cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "A blend of warm, cool grays and tones of taupe mix with delicate, white crackling veins and shades of blue that melt into the surface.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/st-isley-kitchen-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/st-isley-kitchen-carter-dodd-006-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/st-isley-bar-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-t-002-13x2-25.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/st-isley",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Coordinates Series",
+    "variantGroup": "st-isley",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "polished",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:54.879756Z",
+    "lastUpdated": "2025-06-27T05:43:54.879764Z",
+    "sourceRunId": "run-cambriausa-001",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.79,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-st-isley-polished-3cm",
+    "name": "St Isley — Polished (3cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "A blend of warm, cool grays and tones of taupe mix with delicate, white crackling veins and shades of blue that melt into the surface.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/st-isley-kitchen-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/st-isley-kitchen-carter-dodd-006-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/st-isley-bar-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-t-002-13x2-25.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/st-isley",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Coordinates Series",
+    "variantGroup": "st-isley",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "polished",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:54.943615Z",
+    "lastUpdated": "2025-06-27T05:43:54.943621Z",
+    "sourceRunId": "run-cambriausa-002",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 1.18,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-st-isley-satin-2cm",
+    "name": "St Isley — Cambria Satin (2cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "A blend of warm, cool grays and tones of taupe mix with delicate, white crackling veins and shades of blue that melt into the surface.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/st-isley-kitchen-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/st-isley-kitchen-carter-dodd-006-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/st-isley-bar-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-t-002-13x2-25.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/st-isley",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Coordinates Series",
+    "variantGroup": "st-isley",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "satin",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:54.971162Z",
+    "lastUpdated": "2025-06-27T05:43:54.971169Z",
+    "sourceRunId": "run-cambriausa-003",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.79,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-st-isley-satin-3cm",
+    "name": "St Isley — Cambria Satin (3cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "A blend of warm, cool grays and tones of taupe mix with delicate, white crackling veins and shades of blue that melt into the surface.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/st-isley-kitchen-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/st-isley-kitchen-carter-dodd-006-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/st-isley-bar-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-t-002-13x2-25.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/st-isley",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/st-isley/st-isley-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Coordinates Series",
+    "variantGroup": "st-isley",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "satin",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:55.023427Z",
+    "lastUpdated": "2025-06-27T05:43:55.023437Z",
+    "sourceRunId": "run-cambriausa-004",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 1.18,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-traymore-bay-polished-2cm",
+    "name": "Traymore Bay — Polished (2cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "A refined and subdued tonal design defined by cool and warm—flowing veins of white and soft gray subtly blend to create organic depth and texture.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/traymore-bay-kitchen-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/traymore-bay-kitchen-carter-dodd-005-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/traymore-bay-bathroom-nolan-dodd-002-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/traymore-bay-bathroom-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-t-002.95.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/traymore-bay",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Coordinates Series",
+    "variantGroup": "traymore-bay",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "polished",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:55.315753Z",
+    "lastUpdated": "2025-06-27T05:43:55.315760Z",
+    "sourceRunId": "run-cambriausa-005",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.79,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-traymore-bay-polished-3cm",
+    "name": "Traymore Bay — Polished (3cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "A refined and subdued tonal design defined by cool and warm—flowing veins of white and soft gray subtly blend to create organic depth and texture.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/traymore-bay-kitchen-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/traymore-bay-kitchen-carter-dodd-005-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/traymore-bay-bathroom-nolan-dodd-002-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/traymore-bay-bathroom-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-t-002.95.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/traymore-bay",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Coordinates Series",
+    "variantGroup": "traymore-bay",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "polished",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:55.342532Z",
+    "lastUpdated": "2025-06-27T05:43:55.342539Z",
+    "sourceRunId": "run-cambriausa-006",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 1.18,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-traymore-bay-satin-2cm",
+    "name": "Traymore Bay — Cambria Satin (2cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "A refined and subdued tonal design defined by cool and warm—flowing veins of white and soft gray subtly blend to create organic depth and texture.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/traymore-bay-kitchen-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/traymore-bay-kitchen-carter-dodd-005-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/traymore-bay-bathroom-nolan-dodd-002-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/traymore-bay-bathroom-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-t-002.95.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/traymore-bay",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Coordinates Series",
+    "variantGroup": "traymore-bay",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "satin",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:55.375695Z",
+    "lastUpdated": "2025-06-27T05:43:55.375702Z",
+    "sourceRunId": "run-cambriausa-007",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.79,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-traymore-bay-satin-3cm",
+    "name": "Traymore Bay — Cambria Satin (3cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "A refined and subdued tonal design defined by cool and warm—flowing veins of white and soft gray subtly blend to create organic depth and texture.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/traymore-bay-kitchen-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/traymore-bay-kitchen-carter-dodd-005-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/traymore-bay-bathroom-nolan-dodd-002-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/traymore-bay-bathroom-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-t-002.95.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/traymore-bay",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/traymore-bay/traymore-bay-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Coordinates Series",
+    "variantGroup": "traymore-bay",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "satin",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:55.401826Z",
+    "lastUpdated": "2025-06-27T05:43:55.401833Z",
+    "sourceRunId": "run-cambriausa-008",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 1.18,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-claremont-polished-2cm",
+    "name": "Claremont — Polished (2cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "Taupe, chocolate, and white veins weave gently together on a warm, creamy background, creating a neutral palette that’s both soothing and elegant.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-carter-dodd-002-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-carter-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-nolan-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-t-002-3x2-25.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/claremont",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "claremont",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "polished",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:55.706751Z",
+    "lastUpdated": "2025-06-27T05:43:55.706758Z",
+    "sourceRunId": "run-cambriausa-009",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.79,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-claremont-polished-3cm",
+    "name": "Claremont — Polished (3cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "Taupe, chocolate, and white veins weave gently together on a warm, creamy background, creating a neutral palette that’s both soothing and elegant.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-carter-dodd-002-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-carter-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-nolan-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-t-002-3x2-25.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/claremont",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "claremont",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "polished",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:55.734984Z",
+    "lastUpdated": "2025-06-27T05:43:55.734991Z",
+    "sourceRunId": "run-cambriausa-010",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 1.18,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-claremont-matte-2cm",
+    "name": "Claremont — Cambria Matte (2cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "Taupe, chocolate, and white veins weave gently together on a warm, creamy background, creating a neutral palette that’s both soothing and elegant.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-carter-dodd-002-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-carter-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-nolan-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-t-002-3x2-25.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/claremont",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "claremont",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "matte",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:55.779153Z",
+    "lastUpdated": "2025-06-27T05:43:55.779160Z",
+    "sourceRunId": "run-cambriausa-011",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.79,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-claremont-matte-3cm",
+    "name": "Claremont — Cambria Matte (3cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "Taupe, chocolate, and white veins weave gently together on a warm, creamy background, creating a neutral palette that’s both soothing and elegant.\n",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-carter-dodd-002-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-carter-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-nolan-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/claremont-kitchen-nolan-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-t-002-3x2-25.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/claremont",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": null,
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": null,
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/white/claremont/claremont-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "claremont",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "matte",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:55.816843Z",
+    "lastUpdated": "2025-06-27T05:43:55.816850Z",
+    "sourceRunId": "run-cambriausa-012",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 1.18,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-remington-brass-satin-1cm",
+    "name": "Remington Brass — Cambria Satin (1cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "Warm browns, deep charcoals, and free-flowing brass alloy that comes alive under changing light adding a dramatic, sophisticated elegance to any space.",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-brass-satin-kitchen-carter-dodd-002-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-brass-satin-kitchen-carter-dodd-004-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-brass-satin-kitchen-carter-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/living-rooms/remington-brass-satin-fireplace-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/living-rooms/remington-brass-satin-fireplace-carter-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/lobby/remington-brass-satin-lobby-dodd-003-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/lobby/remington-brass-satin-lobby-dodd-004-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-t-003-24.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/remington-brass",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": "https://www.cambriausa.com/content/dam/cusa/sales-marketing-collateral/tear-sheets/tear-sheet-remington-brass.pdf",
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": "https://www.cambriausa.com/content/cusa/us/en/professionals/commercial/cad-bim.html",
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "remington-brass",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "satin",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:56.146857Z",
+    "lastUpdated": "2025-06-27T05:43:56.146864Z",
+    "sourceRunId": "run-cambriausa-013",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.39,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-remington-brass-satin-2cm",
+    "name": "Remington Brass — Cambria Satin (2cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "Warm browns, deep charcoals, and free-flowing brass alloy that comes alive under changing light adding a dramatic, sophisticated elegance to any space.",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-brass-satin-kitchen-carter-dodd-002-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-brass-satin-kitchen-carter-dodd-004-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-brass-satin-kitchen-carter-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/living-rooms/remington-brass-satin-fireplace-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/living-rooms/remington-brass-satin-fireplace-carter-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/lobby/remington-brass-satin-lobby-dodd-003-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/lobby/remington-brass-satin-lobby-dodd-004-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-t-003-24.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/remington-brass",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": "https://www.cambriausa.com/content/dam/cusa/sales-marketing-collateral/tear-sheets/tear-sheet-remington-brass.pdf",
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": "https://www.cambriausa.com/content/cusa/us/en/professionals/commercial/cad-bim.html",
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "remington-brass",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "satin",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:56.192687Z",
+    "lastUpdated": "2025-06-27T05:43:56.192712Z",
+    "sourceRunId": "run-cambriausa-014",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.79,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-remington-brass-satin-3cm",
+    "name": "Remington Brass — Cambria Satin (3cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "Warm browns, deep charcoals, and free-flowing brass alloy that comes alive under changing light adding a dramatic, sophisticated elegance to any space.",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-brass-satin-kitchen-carter-dodd-002-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-brass-satin-kitchen-carter-dodd-004-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-brass-satin-kitchen-carter-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/living-rooms/remington-brass-satin-fireplace-carter-dodd-001-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/living-rooms/remington-brass-satin-fireplace-carter-dodd-003-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/lobby/remington-brass-satin-lobby-dodd-003-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/lobby/remington-brass-satin-lobby-dodd-004-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-t-003-24.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/remington-brass",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": "https://www.cambriausa.com/content/dam/cusa/sales-marketing-collateral/tear-sheets/tear-sheet-remington-brass.pdf",
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": "https://www.cambriausa.com/content/cusa/us/en/professionals/commercial/cad-bim.html",
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-brass/remington-brass-satin-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "remington-brass",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "satin",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:56.230705Z",
+    "lastUpdated": "2025-06-27T05:43:56.230712Z",
+    "sourceRunId": "run-cambriausa-015",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 1.18,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-remington-steel-satin-2cm",
+    "name": "Remington Steel — Cambria Satin (2cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "A dramatic backdrop of deep chocolates, smoky charcoals, and steel alloy veining that shifts and changes as light moves across its contours.",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-steel/remington-steel-satin-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-steel/remington-steel-satin-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-steel-satin-kitchen-carter-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-steel-satin-kitchen-carter-dodd-004-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bedrooms/remington-steel-satin-hotel-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/remington-steel-satin-bathroom-carter-dodd-002-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/remington-steel-satin-bathroom-carter-dodd-004-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bedrooms/remington-steel-satin-hotel-dodd-004-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-steel/remington-steel-satin-t-002-24.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/remington-steel",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": "https://www.cambriausa.com/content/dam/cusa/sales-marketing-collateral/tear-sheets/tear-sheet-remington-steel.pdf",
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": "https://www.cambriausa.com/content/cusa/us/en/professionals/commercial/cad-bim.html",
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-steel/remington-steel-satin-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-steel/remington-steel-satin-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "remington-steel",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "satin",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:56.529261Z",
+    "lastUpdated": "2025-06-27T05:43:56.529271Z",
+    "sourceRunId": "run-cambriausa-016",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.79,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-remington-steel-satin-3cm",
+    "name": "Remington Steel — Cambria Satin (3cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "A dramatic backdrop of deep chocolates, smoky charcoals, and steel alloy veining that shifts and changes as light moves across its contours.",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-steel/remington-steel-satin-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-steel/remington-steel-satin-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-steel-satin-kitchen-carter-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/remington-steel-satin-kitchen-carter-dodd-004-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bedrooms/remington-steel-satin-hotel-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/remington-steel-satin-bathroom-carter-dodd-002-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bathrooms/remington-steel-satin-bathroom-carter-dodd-004-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/bedrooms/remington-steel-satin-hotel-dodd-004-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-steel/remington-steel-satin-t-002-24.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/remington-steel",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": "https://www.cambriausa.com/content/dam/cusa/sales-marketing-collateral/tear-sheets/tear-sheet-remington-steel.pdf",
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": "https://www.cambriausa.com/content/cusa/us/en/professionals/commercial/cad-bim.html",
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-steel/remington-steel-satin-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/brown/remington-steel/remington-steel-satin-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "remington-steel",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "satin",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:56.559400Z",
+    "lastUpdated": "2025-06-27T05:43:56.559407Z",
+    "sourceRunId": "run-cambriausa-017",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 1.18,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-brighton-polished-2cm",
+    "name": "Brighton — Polished (2cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "Bright white, soft creams, warm taupe, and subtle gray quartz crystals blend in perfect harmony, creating an ultra-elegant design with mesmerizing depth and remarkable reflectivity.",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/brighton-kitchen-carter-dodd-005-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/brighton-kitchen-carter-dodd-003-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/brighton-kitchen-carter-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-evening-carter-dodd-005-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-dodd-002-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-carter-dodd-004-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-t-003-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-T-004-24-backlit-text-overlay.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/brighton",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": "https://www.cambriausa.com/content/dam/cusa/sales-marketing-collateral/tear-sheets/tear-sheet-brighton.pdf",
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": "https://www.cambriausa.com/content/cusa/us/en/professionals/commercial/cad-bim.html",
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "brighton",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "polished",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:57.177295Z",
+    "lastUpdated": "2025-06-27T05:43:57.177302Z",
+    "sourceRunId": "run-cambriausa-018",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.79,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "H4sIAJ0vXmgC/9Vb23IbOZL9FQRjo2MmQiBR9yq37Q5bsmd6x3ZrV173w7RjApcEiVbdplAlid3hiH3Yn9jX/YD5iPmU+ZJN1IWk5GtT9HDXD1YRVZXITCQS5yRQv84Ub/nswa8zBdYsyxfGtu6XaaGwswd//nX2l5q3q9mD2UJWZQtlu1C8WMjO8qmB6oYvC7ywi0EGrXkObQvjT7sQjVmu2qqcncxs3i1R2E5LzZfwH03uevhrx5v2FyqrDgU3bVXbbVNeNfZDAoem00oBSmBenGzaXvHCtT0dn/3Hf/2P6x+ql9Dy1rT5nZuEklNeoGT+97+Rf+u7JWdDf/jeqsPHo5TN2ST+AhoD1vmqHDp60d10zdpZ1BhpyuWmifzuX/Df7/EOtxba896fn3JsXi0rSw222+F6YfvOFnkvjw6/qLtFQ0llU9U1qLm9Ws7evev1k42pW4MOwn5WbeG8+7B+PFhLrlc4uifEVrolsgFe2BNyzZuCtLyr8QYvFbGdQA+RZcPXZBgDfHRtW55bInLAJ0xJamg0yJas8OWqXJ/00lo0HUWQLm8bTiGHJS9bMviMXJt2RQqwBVrwi3tQQY0trscGCt5cchSOlzpHuebKtOv5w0X9eIZW6S7PL3Iuvi8wYD7tvw/EkQCzhE3cbC7o+KhFwfOf6yWO0V/UGgfUyDEmuaoERvLQVoAyHKMwN1fQLFRBuVGUsowxT0hBFdMeDYMwpSlLUhomMmE68lXiZ5se59cg6u+w2xyNe5Swb2q0FhrX+qhtOvjm2qh29cjzU+asdoqdYcCa/KvYHXiM3fheyKi95q1c7e0DHilPMvAp9zNFQx99ILjn08jLItBeprz9fWBKW5uGu3h+YxRUT0rVO+Nz+ekD7rg0aCTsZBA6tlCJz0JDVaUUZSyifri3L9IgTTWTQLMgjNAXTFARQEwFS3yeyDT25L6+OOzoj+n6mueX7aqpuuWKdjWuB5hLijr87d19qXeD+3gX51PKsjihAU4tnGMhelf5EQUv1L4Pwmcq/ud490vN9e5jLkuyEHMLp1yphIYs1DTTXkqDLMi0wnkGPD5uME1G89IU/SSlXnyT7RdBDeAS0zW4YljMH42ltsO1asfD2HgQt4ZC+IDzlCov4DSENKFpAgFlEYg0hiTSDI7rVmfp1qWCy0vs/Wu7Fq6gxGX5/WwY7e1pEXmxTCCiWZThmpj5CRUCB0/HiZRhFGiM8H+Op39LcPn3SlEC/DhhimIwYYryWEYzCGKaCcBp68skyYL/QybfHuzwPoMdsEBxxoAmEWQ0jH2EAUEQUa11LBEdxSE78tLX3nf9ESC4HyUx5YmK0USZUEQ3QGUko1AokQQQHNfE18Mohpuk0cJNSys0Iufre9jtpxFPGfV9X9MwVbgQxammMaZLpSHyQPP97H6L9Mpptx/C/f++Cu/C2z/wPIdm3etVIt85mVWNgubJBS/qfGTJq7at7YPFwq6qei4HxoqumcuqWNRNpTrZ3iLIyEaRWK1PHYPeYas/OhLoiC3c4K/nT56nz0P82X0ZE/+u//NoEOJoCuBQqambAZiPHf0BKeSmn+RJEifeb+6nl+HiRAFHB72oJG+rZhy+oQ3ZcN+46P+iLx1r16Y0dgW39DmvctemxtLDR9l4H2+dXUD5IS0nyf3c6jDNLupJ7js3kcfOxooCecnbFv7+t0P3WTix2OHbgShemF/6+SOHasi/doWosMtRFy/wkbPfkDiaR3jxu1dVYUqe/96NX7sy8rIEe8tTviycwuYG8kFyPGc7tgV3b2d4GzXRwHvtdkW9AVPuV/8Y/r9TWJq6mNpVz5DpFfYyr8s9GSxiFBYGAYJBhawtixCnpF5IpfZZlAD3lPT3m+LOKePMPOUNnFb1uvfNTtvZx0o2FwZn/ppcc7saiid8rNvk1Vg36Ss3SN6h+ZZ0FkhhcoXP8JoY3ZddGqRz5KwiZdUSXjtpvFwT288ae0JqKKHtEcIJqRqCkWYkz0nrSjl9VW9OHnKyQvse/fTBCTua4dIt/DR7/AJ4U5KiauDhgj8eqjfOAy22X6wA2k+PvUW1LHWlIGh7JFrluTOO5wsngVonwu5c082Y1Eq7WJZcCVN8bn6h1hrjHR3Oc4sPFAU00mAv+Dp176MkTPam7Z84q67LvOLqhSkvXWC/naqAL13VZIz1sbYJbqHFpXl1txL5bLoxlCKNfQXXswca+wf3649VgXFQV+2mjV9hVLuK2A9lvn7S7jwwLA77lE53tbtfSa0vI27lba8OUlTzIhUFCLGo0AHQUHoR5XGsqc9AiRCXYy8Ij1VU+6zlByurydRnCgKJoCtFPO0nHjKJOKFJmjCZIQzhIdszKZ1sArbgUkD7Xri+5PIpNt8/WMcH9onWrWqHiNVR2vT3MMVfL1FeHIU01R6uHUzgVSoUEnUvzXD4FAc4bpx+xOqDxagIU88DiYzDB4WrZ6Kp8DOE2zxLhPQ87UF2j4WTm7LdzbIjuPnhlHph5HZ0VlzBGLJP2sZ0BbmDbf1nz5+l+FPgKqfcpg+UP6M5JXlZ4SrV865RqO8hVw3YHamvKoloA1cBcgvLRlEcxU+/SO7pxTkyprty30B+BS05xYXlciM1SP2s1+DzUr0wSe6IPAOoyWkDsBUYP43D6MknBDr6xRuFOAJ2/Twitz9VK8QJ5LxrjG3JBRSGnjeV2/15Y5zElkyAmrxCDAk59tSua/eq5p3E5f6LYd+kxeKy73P8Q+u+a3o1dEcnnE3LvjtkdVnqU7s/8Au07zERacplLGmoUVrK/YACNqrEY1nmif1z7OhGl7qIbdc5ONc9zZGZbx11yoUp9/KUHN60C5cqkOki/9lcUeF62dstIpVZmErlSjmIh9NIUe7hAiw1JF4U+YlmYv9pjUF7B/XOvt/yYGIscYvq+noFDczJM1uDA2eIXYctzKH5zFjpCgekXcFmMxKhXJ0bh1yRjpI+fZBhVTkho7uadY+cxzoBmbxJdDWImnaFp11LsZ62hufoyqKqlKjwnQtnwyYzf+HQfTRNo/+XaPz2YkrUm/72z9A6TYJY+9SXqYdrVCwoDyWnYag8HqhIZSLeN8JnAvmDNm2/E77ZVh/bSKUnz802T/5Qwm2O43DxxsOb3eaNg1wwlAjCha0aFNGe4DzCUSXI/zAvcNdgSoksxwgXH9iam/4xN8bA7Ro5DfIl4OVmL3nU5PV1dVuTH7oGZanOYohQfEMhAzkhjh1ZdIEDN9+UwtbfPsQHqnL5+IXRyFIKID/yxiWn9cPFeIcgv2gxHC1ZV73QK7A9nXpPB2RWd/zxHEcSLUHKgUnVGfHEbZdLjqwKM/0JuQYyjnAfrSscNxTuvOJKMMq6DDOO37CXD82VkTD27HCFwQ54M51u2OEuU+zdxYJnY/sxmcuObocAgx+db/eCg2nqhyzjAeXg4wSTSUQFVxmuLdxLIQilSNRx4eBH7T4YIIwlZH6mAxpwSGgYxAECQmA0k0ImgadjAH5v0uKMKWF9N1B/HJqPSlq2qh0iTkdp09/DRKkXJAAZUAi0oGEcBjQNwB1TSBlDV6eg2HGj9CNWH/C8ivS1kgj6mAc0zABjNIwi6mOQelEa+VmS3DtGDS4FFoWo5XsJ9fvtrWPm1NsaHiJcdyTuXh8kbBMe8dhXmkLCEJKGbustEAnVOorSRGkWJdFxw/Yz1h8sfMMs5kHCE8oSFSJnyTgVELh9Tc49GWYMEn4PcA7V+bBr1PvitUN152fnU6CZ8hwaW5XPbmp3ELGUY0l7i/+2dzawDjHJ8NbsEwcUbwH6rqx54zbEcoRBAniHcGaLJyecaLtGcwmW8JZw4jZ/cmJX1XVTVcWc/KmsrvH1JfTnCsGphZDMYf0G0V2PDBGoXRkFE9bnymGlE9f8s6MTdc7LsoeBDkp1JVILHGh3/HHDVnpg9VOJ+r+oqkt3qtERiT9v5/vb71DrPCd8hZ0ORXv4x3/+N7Yskf+bdlTGvYVocYvT3nf0190idfHTnya9Ry1Iex4uJVRiHsWFJdUIf/wE6QYLmc+YDgNv3xkq0RqjzbS7t0u5PncScHdDCakEHbdN6XC4dkL8iyVC8XKJ/lN0WeWK1qqmPotuUrb/rlIU8BAyjXPUbRxrHVKeIJWWIspw3UWnROlXOC3whQYrkMgD4BCGRkmgla98GjDmjkVkHs1EKKlgXsAAZOJH4niGIn87hJGZCLJEZhlNIt4j24ym2hc08X2GOVho34+OZ+SqVrSAQria2QEGNMuEyHRGM55IXGwZLrae7yFgElkseZqx7Ii2FniFcIUWbm/QIEA6TAxrzxlGGQ9SGqZ+5GBxilwuzqJMsDgSwfFMvqzs6jBDqz1fhaACyvwEs3Qi0EQZaJogkIqlikCwI9qJurqNX9GZXPU7wCsHAsrlQdKUwJQHKWdUKozlMFURBrQvaZZqwXHpwkEOj2e6leNXHfe0MghA+RFH29y589AXQEUSIQPPUsED7Ucy2nNL5u27zVkGh0pk26/GE/5zH3vkr+GmvQ3rXq+MnfCV7Y8yuZoeJ7ZwqMhC3tdtu5bopipcO2Lxbx0uUhXY/tyCYyZrxG8rI7DZveUQ4igSA6Th0uUB2xrZFx3dXe1Otzic1rr4UWRUe76FpJbUHULB0h0mwUcH5DQnbzje7UGGQ61O1O0niEWvwVBURqDozuA05Qmx5hf3Vc2Kb76hcRszPdjsSvPXDvpGU7ratatJf0hrp9Kk5lRk3FG3P8Lhjm4UOdjNo9/2LQOsvTLWINSdkx9dN075ZlDBDt/59JXy4bVJ8x1drw16FhXDyTbfljJ3h2/F7cYbGuES1Xl17SDv5uugBmyX9x8BofNGdI5vX00uRcjtlGirTg4HWHhdA7oC0e0cuwKLRmwHQI3nVnRf23c1/qop3LP9q+PdPnb1AKAn4xpA5C6hL7mSO8ewyHCSajDXkYWNnu7cCapuieSdxZhRXeMsKV2nuTtec+K+nnKKo0uBW9NXnAvkLMrtEtjtaR332q0DO1XrdhQ+fm6Hf4WTOxsmgUONDRsCd7vWUMq8U/DvINcS58npLsz+cEFikPLpegRminfv/hfmrR0JXjgAAA=="
+    }
+  },
+  {
+    "id": "cambria-brighton-polished-3cm",
+    "name": "Brighton — Polished (3cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "Bright white, soft creams, warm taupe, and subtle gray quartz crystals blend in perfect harmony, creating an ultra-elegant design with mesmerizing depth and remarkable reflectivity.",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/brighton-kitchen-carter-dodd-005-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/brighton-kitchen-carter-dodd-003-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/brighton-kitchen-carter-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-evening-carter-dodd-005-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-dodd-002-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-carter-dodd-004-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-t-003-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-T-004-24-backlit-text-overlay.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/brighton",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": "https://www.cambriausa.com/content/dam/cusa/sales-marketing-collateral/tear-sheets/tear-sheet-brighton.pdf",
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": "https://www.cambriausa.com/content/cusa/us/en/professionals/commercial/cad-bim.html",
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "brighton",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "polished",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:57.216394Z",
+    "lastUpdated": "2025-06-27T05:43:57.216401Z",
+    "sourceRunId": "run-cambriausa-019",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 1.18,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  },
+  {
+    "id": "cambria-brighton-matte-2cm",
+    "name": "Brighton — Cambria Matte (2cm, 132in x 65.5in )",
+    "vendor": "Cambria",
+    "category": "Stone Slabs",
+    "subcategory": "Engineered Stone / Quartz",
+    "description": "Bright white, soft creams, warm taupe, and subtle gray quartz crystals blend in perfect harmony, creating an ultra-elegant design with mesmerizing depth and remarkable reflectivity.",
+    "imageUrl": [
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-slab.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-3100x2140-swatch.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/brighton-kitchen-carter-dodd-005-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/brighton-kitchen-carter-dodd-003-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/kitchens/brighton-kitchen-carter-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-dodd-001-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-evening-carter-dodd-005-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-dodd-002-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/restaurants-bars-suites/brighton-bar-carter-dodd-004-25.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-t-003-24.jpg",
+      "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-T-004-24-backlit-text-overlay.jpg"
+    ],
+    "url": "https://www.cambriausa.com/quartz-countertops/quartz-colors/designs/brighton",
+    "material": "Quartz",
+    "useCase": null,
+    "leadTime": null,
+    "price": null,
+    "sustainability": null,
+    "certifications": [],
+    "documents": [
+      {
+        "title": "Specifications (PDF)",
+        "url": "https://www.cambriausa.com/content/dam/cusa/sales-marketing-collateral/tear-sheets/tear-sheet-brighton.pdf",
+        "type": "spec_sheet"
+      },
+      {
+        "title": "CAD/BIM files",
+        "url": "https://www.cambriausa.com/content/cusa/us/en/professionals/commercial/cad-bim.html",
+        "type": "cad_bim"
+      },
+      {
+        "title": "Slab image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-slab.jpg",
+        "type": "image"
+      },
+      {
+        "title": "Detail image",
+        "url": "https://www.cambriausa.com/content/dam/cusa/quartz-countertops/beige/brighton/brighton-quartz-3100x2140-swatch.jpg",
+        "type": "image"
+      }
+    ],
+    "location": null,
+    "collection": "Luxury Series",
+    "variantGroup": "brighton",
+    "storedImagePath": null,
+    "color": null,
+    "finish": "matte",
+    "tags": [],
+    "createdAt": "2025-06-27T05:43:57.238022Z",
+    "lastUpdated": "2025-06-27T05:43:57.238029Z",
+    "sourceRunId": "run-cambriausa-020",
+    "sourceType": "scraped",
+    "dataConfidence": "high",
+    "wasManuallyEdited": false,
+    "specifications": {
+      "dimensions": {
+        "width": 132,
+        "length": 65.5,
+        "thickness": 0.79,
+        "units": "in"
+      },
+      "composition": [],
+      "pattern": null,
+      "application": null,
+      "performance": null,
+      "care": "Simply wash with a soft cloth and warm water; use mild soap if desired. Do not apply any sealers, penetrants, or topical treatments. Learn more"
+    },
+    "additionalData": {
+      "priceUnit": null,
+      "raw_text": "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"
+    }
+  }
+]

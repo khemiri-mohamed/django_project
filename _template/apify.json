@@ -1,0 +1,8 @@
+{
+  "name": "vendor-scraper-template",
+  "version": "0.0.1",
+  "buildTag": "latest",
+  "memoryMbytes": 2048,
+  "timeoutSecs": 300,
+  "environmentVariables": {}
+}
